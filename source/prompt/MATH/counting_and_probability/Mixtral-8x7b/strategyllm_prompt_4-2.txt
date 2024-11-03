@@ -1,0 +1,84 @@
+Strategy:
+1. Carefully read and analyze the problem to identify any constraints or conditions that may affect the counting. This may include considering whether the objects being counted are distinct, whether there are any restrictions on the order or arrangement of the objects, or whether there are any other special requirements.
+2. Determine the appropriate subtask to use based on the problem constraints. This may include using combinations or permutations to count the number of ways to choose or arrange objects, calculating factorials or binomial coefficients, finding the probability or conditional probability of an event, using the inclusion-exclusion principle or the pigeonhole principle, solving recurrence relations, or applying concepts from graph theory or number theory.
+3. Practice solving similar problems to build proficiency and intuition. This will help in identifying the correct approach and subtask to use in solving the problem. It is also important to check the answer and verify that it satisfies the problem constraints.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution:
+1. Carefully read and analyze the problem to identify any constraints or conditions that may affect the counting. In this case, the problem states that the four-digit number must be odd. An odd number is a number that can be divided by 2 with a remainder of 1. In the decimal number system, a number is odd if its least significant digit is odd. In this problem, the digits 3 and 5 are odd, so the number can have one of these two digits in the units place.
+2. Determine the appropriate subtask to use based on the problem constraints. In this case, the problem can be solved by counting the number of odd four-digit numbers that can be formed using the digits 2, 3, 5, and 7, and dividing this by the total number of four-digit numbers that can be formed using these digits.
+3. Count the number of odd four-digit numbers that can be formed using the digits 2, 3, 5, and 7. There are two choices for the units digit (3 or 5), and for each of these choices, there are three choices for the thousands digit (any of the four digits except the one chosen for the units digit). For each of these six choices, there are three choices for the hundreds digit (any of the four digits except the two that have been chosen so far), and for each of these nine choices, there are two choices for the tens digit (the two digits that have not been chosen yet). Therefore, there are a total of 2 x 3 x 3 x 2 = 36 odd four-digit numbers that can be formed using the digits 2, 3, 5, and 7.
+4. Count the total number of four-digit numbers that can be formed using the digits 2, 3, 5, and 7. There are four choices for the thousands digit, and for each of these choices, there are three choices for the hundreds digit (any of the four digits except the one chosen for the thousands digit). For each of these 4 x 3 = 12 choices, there are three choices for the tens digit (any of the four digits except the two that have been chosen so far), and for each of these 12 choices, there are two choices for the units digit (the two digits that have not been chosen yet). Therefore, there are a total of 4 x 3 x 3 x 2 = 72 four-digit numbers that can be formed using the digits 2, 3, 5, and 7.
+5. Calculate the probability of forming an odd four-digit number. This is the number of odd four-digit numbers divided by the total number of four-digit numbers, or 36/72, which simplifies to 1/2.
+
+Answer: The answer is $\frac{1}{2}$.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+
+1. We can construct the octahedron by arranging the eight triangles around a central point, with one triangle at the top and the other seven triangles arranged around it.
+2. There are 7! (7 factorial) ways to arrange the seven triangles around the top triangle. This is because there are 7 choices for the first triangle, 6 choices for the second triangle, and so on, until there is only 1 choice for the last triangle.
+3. However, we have overcounted the number of arrangements, because rotating the octahedron by a certain angle will give us the same arrangement. Specifically, rotating the octahedron by 120 degrees around the axis passing through the top triangle and the center of the octahedron will give us the same arrangement.
+4. To account for this, we need to divide the number of arrangements by 3.
+5. Therefore, the number of distinguishable ways to construct the octahedron is 7! / 3 = 1680.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution:
+1. Carefully read and analyze the problem to identify any constraints or conditions that may affect the counting. In this case, the problem states that the word "splargh" cannot come directly before the word "glumph" in a sentence.
+2. Determine the appropriate subtask to use based on the problem constraints. In this case, we can count the number of valid three-word sentences that can be formed using the words "splargh," "glumph," and "amr," by considering the different positions in the sentence and the number of ways the words can be arranged in each position, while avoiding the invalid arrangement of "splargh" directly before "glumph."
+3. We can divide the counting process into several cases based on the position of the word "glumph" in the sentence. There are three cases to consider:
+   - Case 1: "glumph" is the first word in the sentence. In this case, there is only one valid arrangement, which is "glumph splargh amr."
+   - Case 2: "glumph" is the second word in the sentence. In this case, the first word can be either "splargh" or "amr," and the third word can be either of the remaining two words. Therefore, there are 2 x 2 = 4 valid arrangements.
+   - Case 3: "glumph" is the third word in the sentence. In this case, the first two words can be arranged in three ways: "splargh splargh," "splargh amr," or "amr amr." For each of these arrangements, the fourth word can be either "splargh" or "amr." Therefore, there are 3 x 2 = 6 valid arrangements.
+4. Adding up the number of valid arrangements in each case, we get 1 + 4 + 6 = 11 valid three-word sentences that can be formed using the words "splargh," "glumph," and "amr," without violating the given constraint.
+
+Answer: The answer is 11.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution:
+
+1. We are given the values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$. We need to find the value of $\binom{19}{9}$.
+2. To calculate the value of $\binom{19}{9}$, we can use the formula for combinations:
+
+$\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+
+where $n$ is the total number of objects, $k$ is the number of objects to choose, and $!$ denotes the factorial.
+
+3. Substituting $n=19$ and $k=9$ into the formula, we get:
+
+$\binom{19}{9} = \frac{19!}{9!(19-9)!}$
+
+4. Simplifying the expression, we get:
+
+$\binom{19}{9} = \frac{19!}{9!10!}$
+
+5. We can factor out the factorials of 9 and 10 from the denominator and numerator, respectively, to get:
+
+$\binom{19}{9} = \frac{19 \cdot 18 \cdot 17 \cdot 16 \cdot 15 \cdot 14 \cdot 13 \cdot 12 \cdot 11}{9 \cdot 8 \cdot 7 \cdot 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1}$
+
+6. Canceling out the common factorials, we get:
+
+$\binom{19}{9} = \frac{19 \cdot 18 \cdot 17}{3 \cdot 2}$
+
+7. Simplifying the expression, we get:
+
+$\binom{19}{9} = 19 \cdot 18 \cdot 17 / 6$
+
+8. Computing the product, we get:
+
+$\binom{19}{9} = 92378$
+
+Answer: The answer is 92378.

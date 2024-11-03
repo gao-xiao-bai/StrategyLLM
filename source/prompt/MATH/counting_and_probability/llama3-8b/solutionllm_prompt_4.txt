@@ -1,0 +1,59 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd?
+
+Solution: Let's consider the possible arrangements of the digits. There are 4 choices for the first digit, 3 choices for the second digit, 2 choices for the third digit, and 1 choice for the fourth digit. This gives a total of 4 × 3 × 2 × 1 = 24 possible arrangements.
+
+For the number to be odd, the last digit must be either 3, 5, or 7. This gives 3 choices for the last digit. The remaining three digits can be arranged in 3! = 6 ways. Therefore, there are 3 × 6 = 18 possible odd numbers.
+
+The probability that the number is odd is the number of odd numbers divided by the total number of possible arrangements:
+
+P(odd) = Number of odd numbers / Total number of possible arrangements
+= 18 / 24
+= 3/4
+
+Answer: The answer is \frac{3}{4}.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: We can think of the octahedron as being composed of 6 faces, each of which is an equilateral triangle. We can choose the color of each face independently, so there are $8^6$ ways to color the octahedron. However, this overcounts the number of distinguishable ways to color the octahedron, since we are counting the same octahedron multiple times. For example, if we rotate the octahedron by 120 degrees, the same octahedron will be counted again.
+
+To account for this overcounting, we need to divide the total number of ways to color the octahedron by the number of ways to rotate the octahedron. The octahedron has 6 faces, and each face has 3 colors, so there are $3^6$ ways to rotate the octahedron. Therefore, the number of distinguishable ways to color the octahedron is
+
+$$\frac{8^6}{3^6} = 8^5 = 32768.$$
+
+However, this is still not the correct answer, since we are counting the same octahedron multiple times. For example, if we swap the colors of two adjacent faces, the same octahedron will be counted again.
+
+To account for this overcounting, we need to divide the total number of ways to color the octahedron by the number of ways to swap the colors of two adjacent faces. The octahedron has 12 edges, and each edge connects two faces, so there are $\binom{12}{2} = 66$ ways to swap the colors of two adjacent faces. Therefore, the number of distinguishable ways to color the octahedron is
+
+$$\frac{32768}{66} = 1680.$$
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: Let's consider the possible arrangements of the three words. There are 3! = 6 ways to arrange the words, but we need to exclude the cases where ``splargh'' comes before ``glumph''. There are 2 ways to arrange the words ``splargh'' and ``glumph'' (i.e., ``splargh glumph amr'' and ``glumph splargh amr''), so we need to subtract these 2 cases from the total. Therefore, the number of valid sentences is 6 - 2 = 4.
+
+However, this solution is incorrect because it does not account for the possibility of repeated words. For example, the sentence ``splargh splargh amr'' is valid, but it is not counted in the previous solution.
+
+To fix this, we can consider the number of ways to arrange the words, including repeated words. There are 3^3 = 27 ways to arrange the words, and we need to exclude the cases where ``splargh'' comes before ``glumph''. There are 2 ways to arrange the words ``splargh'' and ``glumph'' (i.e., ``splargh glumph amr'' and ``glumph splargh amr''), so we need to subtract these 2 cases from the total. Additionally, we need to exclude the cases where ``glumph'' comes before ``splargh'' (i.e., ``glumph splargh amr'' and ``glumph glumph amr''), which are 2 cases. Therefore, the number of valid sentences is 27 - 2 - 2 = 21.
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: We are given that $\binom{17}{7}=\binom{17}{10}=19448$, $\binom{17}{8}=\binom{17}{9}=24310$. This implies that $\binom{17}{k}=\binom{17}{17-k}$ for $k=7,8,9$. We can use this property to calculate $\binom{19}{9}$.
+
+We have that $\binom{19}{9}=\binom{18}{8}+\binom{18}{9}$. We can calculate $\binom{18}{8}$ and $\binom{18}{9}$ using the given values:
+
+$\binom{18}{8}=\binom{17}{7}+\binom{17}{8}=19448+24310=43758$
+
+$\binom{18}{9}=\binom{17}{8}+\binom{17}{9}=24310+24310=48620$
+
+Therefore, $\binom{19}{9}=\binom{18}{8}+\binom{18}{9}=43758+48620=92378$.
+
+Answer: The answer is 92378.

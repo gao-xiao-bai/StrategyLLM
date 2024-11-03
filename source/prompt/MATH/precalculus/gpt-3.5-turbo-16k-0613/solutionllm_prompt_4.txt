@@ -1,0 +1,103 @@
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$.  Find $c$.
+Answer: The answer is $\sqrt{3}-5i$
+
+Solution: To find the complex number $c$ that represents the rotation, we need to determine the value of $z$ that satisfies the equation $f(z) = z$. 
+
+Let's substitute $z$ into the equation and solve for $z$:
+\begin{align*}
+\frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2} &= z \\
+(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i) &= 2z \\
+-1z + i \sqrt{3}z - 2 \sqrt{3} - 18i &= 2z \\
+(-1 + i \sqrt{3} - 2)z &= 2 \sqrt{3} + 18i \\
+(i \sqrt{3} - 3)z &= 2 \sqrt{3} + 18i \\
+z &= \frac{2 \sqrt{3} + 18i}{i \sqrt{3} - 3} \\
+\end{align*}
+
+To simplify the expression, we can multiply the numerator and denominator by the conjugate of the denominator:
+\begin{align*}
+z &= \frac{(2 \sqrt{3} + 18i)(i \sqrt{3} + 3)}{(i \sqrt{3} - 3)(i \sqrt{3} + 3)} \\
+&= \frac{(2 \sqrt{3} + 18i)(i \sqrt{3} + 3)}{-3i^2} \\
+&= \frac{(2 \sqrt{3} + 18i)(i \sqrt{3} + 3)}{3} \\
+&= \frac{2 \sqrt{3}i^2 + 6i \sqrt{3} + 18i^2 + 54i}{3} \\
+&= \frac{-2 \sqrt{3} - 6 \sqrt{3}i + 18 - 54i}{3} \\
+&= \frac{16 - 8 \sqrt{3}i}{3} \\
+&= \frac{16}{3} - \frac{8 \sqrt{3}}{3}i \\
+\end{align*}
+
+Therefore, the complex number $c$ that represents the rotation is $\frac{16}{3} - \frac{8 \sqrt{3}}{3}i$. 
+
+Answer: The answer is $\sqrt{3}-5i$.
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+Solution: To convert a point from polar coordinates to rectangular coordinates, we use the formulas $x = r \cos(\theta)$ and $y = r \sin(\theta)$, where $r$ is the distance from the origin to the point and $\theta$ is the angle the line connecting the origin and the point makes with the positive x-axis.
+
+In this case, $r = 8$ and $\theta = \frac{7 \pi}{6}$. Plugging these values into the formulas, we get:
+
+$x = 8 \cos\left(\frac{7 \pi}{6}\right)$
+$y = 8 \sin\left(\frac{7 \pi}{6}\right)$
+
+To evaluate these trigonometric functions, we can use the unit circle. The angle $\frac{7 \pi}{6}$ is in the third quadrant, so the reference angle is $\frac{\pi}{6}$. The cosine of $\frac{7 \pi}{6}$ is negative and the sine is negative.
+
+Using the unit circle, we find that $\cos\left(\frac{7 \pi}{6}\right) = -\frac{\sqrt{3}}{2}$ and $\sin\left(\frac{7 \pi}{6}\right) = -\frac{1}{2}$.
+
+Substituting these values into the formulas, we get:
+
+$x = 8 \cdot \left(-\frac{\sqrt{3}}{2}\right) = -4\sqrt{3}$
+$y = 8 \cdot \left(-\frac{1}{2}\right) = -4$
+
+Therefore, the rectangular coordinates of the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates are $(-4\sqrt{3}, -4)$.
+
+Answer: The answer is $(-4\sqrt{3}, -4)$
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+Answer: The answer is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$
+
+Solution: To compute the product of two matrices, we need to multiply the corresponding entries and sum them up. 
+
+Let's denote the given matrices as $A$ and $B$:
+$A = \begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix}$
+$B = \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}$
+
+To find the product $AB$, we multiply the entries of the first row of $A$ with the corresponding entries of the first column of $B$ and sum them up. This gives us the entry in the first row and first column of the resulting matrix. Similarly, we repeat this process for the other entries.
+
+For the entry in the first row and first column of the resulting matrix:
+$AB_{11} = (2 \cdot 8) + (0 \cdot 1) = 16$
+
+For the entry in the first row and second column of the resulting matrix:
+$AB_{12} = (2 \cdot -2) + (0 \cdot 1) = -4$
+
+For the entry in the second row and first column of the resulting matrix:
+$AB_{21} = (5 \cdot 8) + (-3 \cdot 1) = 37$
+
+For the entry in the second row and second column of the resulting matrix:
+$AB_{22} = (5 \cdot -2) + (-3 \cdot 1) = -13$
+
+Therefore, the resulting matrix $AB$ is:
+$AB = \begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$
+
+Answer: The answer is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+
+Solution: Let $\mathbf{v}$ be the vector on the line at $t = 2,$ and let $\mathbf{w}$ be the vector on the line at $t = 3.$  Then
+\[\mathbf{v} = \begin{pmatrix} 1 \\ 4 \end{pmatrix}\]and
+\[\mathbf{w} = \begin{pmatrix} 3 \\ -4 \end{pmatrix}.\]We want to find the vector on the line at $t = -7.$
+
+Since the vector on the line at $t = 2$ is $\mathbf{v},$ we can write
+\[\mathbf{v} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{v}_0 + 2 \mathbf{d},\]where $\mathbf{v}_0$ is the vector on the line at $t = 0,$ and $\mathbf{d}$ is the direction vector.
+
+Similarly, since the vector on the line at $t = 3$ is $\mathbf{w},$ we can write
+\[\mathbf{w} = \begin{pmatrix} 3 \\ -4 \end{pmatrix} = \mathbf{v}_0 + 3 \mathbf{d}.\]Subtracting these equations, we get
+\[\mathbf{w} - \mathbf{v} = \begin{pmatrix} 3 \\ -4 \end{pmatrix} - \begin{pmatrix} 1 \\ 4 \end{pmatrix} = 2 \mathbf{d}.\]Then $\mathbf{d} = \frac{1}{2} (\mathbf{w} - \mathbf{v}),$ so
+\[\mathbf{d} = \frac{1}{2} \left( \begin{pmatrix} 3 \\ -4 \end{pmatrix} - \begin{pmatrix} 1 \\ 4 \end{pmatrix} \right) = \frac{1}{2} \begin{pmatrix} 2 \\ -8 \end{pmatrix} = \begin{pmatrix} 1 \\ -4 \end{pmatrix}.\]Then
+\[\mathbf{v}_0 = \mathbf{v} - 2 \mathbf{d} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} - 2 \begin{pmatrix} 1 \\ -4 \end{pmatrix} = \begin{pmatrix} -1 \\ 12 \end{pmatrix}.\]Therefore, the vector on the line at $t = -7$ is
+\[\mathbf{v}_0 + (-7) \mathbf{d} = \begin{pmatrix} -1 \\ 12 \end{pmatrix} + (-7) \begin{pmatrix} 1 \\ -4 \end{pmatrix} = \begin{pmatrix} -1 \\ 12 \end{pmatrix} + \begin{pmatrix} -7 \\ 28 \end{pmatrix} = \begin{pmatrix} -8 \\ 40 \end{pmatrix}.\]
+
+Answer: The answer is $\begin{pmatrix} -8 \\ 40 \end{pmatrix}.$

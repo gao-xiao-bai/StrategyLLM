@@ -1,0 +1,195 @@
+Strategy:
+Here is a strategy to solve the task:
+
+1. **Read and understand the question**: Analyze the question to identify the key entities, relationships, and requirements mentioned.
+
+2. **Extract relevant information**: Retrieve relevant facts and data related to the entities mentioned in the question from the available knowledge base.
+
+3. **Perform necessary calculations or conversions**: If the question requires calculations or conversions (e.g., squaring a number), perform them to obtain the necessary values.
+
+4. **Make inferences and connections**: Use the extracted information and calculated values to make inferences and connections between the entities mentioned in the question.
+
+5. **Evaluate conditions and comparisons**: Evaluate the conditions and comparisons mentioned in the question, such as "exceeds," "is common," or "would."
+
+6. **Determine the answer**: Based on the inferences and evaluations, determine a yes or no answer to the question.
+
+This strategy is general, concise, and consists of easy-to-solve subtasks that can be applied to various questions.
+
+Examples:
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Do hamsters provide food for any animals?
+
+**Solution:**
+
+**1. Read and understand the question:**
+Identify key entities: hamsters, animals
+Relationship: provide food for
+Requirement: determine if hamsters provide food for any animals
+
+**2. Extract relevant information:**
+Retrieve facts about hamsters and their behavior:
+* Hamsters are omnivores and eat seeds, fruits, and insects.
+* Hamsters are known to store food in their burrows.
+* Some animals, like birds and other small mammals, may eat the stored food.
+
+**3. Perform necessary calculations or conversions:**
+No calculations or conversions are required in this case.
+
+**4. Make inferences and connections:**
+Infer that hamsters store food in their burrows, which can be accessed by other animals.
+Connect the fact that other animals may eat the stored food to the question of whether hamsters provide food for any animals.
+
+**5. Evaluate conditions and comparisons:**
+Evaluate the condition "provide food for any animals" and determine that it is true if other animals eat the food stored by hamsters.
+
+**6. Determine the answer:**
+Based on the inferences and evaluations, determine that the answer is yes, hamsters do provide food for any animals.
+
+**Answer:** The answer is yes.
+
+
+
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Could Brooke Shields succeed at University of Pennsylvania?
+
+**Solution:**
+
+**1. Read and understand the question:**
+The question is asking whether Brooke Shields, an American actress, could succeed at the University of Pennsylvania, a prestigious university.
+
+**2. Extract relevant information:**
+Brooke Shields attended Princeton University, which is an Ivy League university, similar to the University of Pennsylvania. This suggests that she has the academic background and capabilities to succeed at a top-tier university.
+
+**3. Perform necessary calculations or conversions:**
+No calculations or conversions are required in this question.
+
+**4. Make inferences and connections:**
+Based on Brooke Shields' academic background and her ability to attend Princeton University, it can be inferred that she has the necessary skills and intelligence to succeed at the University of Pennsylvania.
+
+**5. Evaluate conditions and comparisons:**
+The question is asking whether Brooke Shields could succeed, which implies that she has the potential to do so. There are no specific conditions or comparisons mentioned in the question.
+
+**6. Determine the answer:**
+Based on the inferences and evaluations, it can be concluded that Brooke Shields has the potential to succeed at the University of Pennsylvania.
+
+**Answer:** The answer is yes.
+
+
+
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+**Solution:**
+
+**1. Read and understand the question:**
+The question asks whether the square of Hydrogen's atomic number is greater than the number of Spice Girls.
+
+**2. Extract relevant information:**
+Hydrogen's atomic number is 1.
+There were 5 Spice Girls (Mel B, Mel C, Emma Bunton, Geri Halliwell, and Victoria Beckham).
+
+**3. Perform necessary calculations or conversions:**
+Hydrogen's atomic number squared = 1^2 = 1
+
+**4. Make inferences and connections:**
+We have the square of Hydrogen's atomic number (1) and the number of Spice Girls (5).
+
+**5. Evaluate conditions and comparisons:**
+Compare 1 (Hydrogen's atomic number squared) with 5 (number of Spice Girls).
+Since 1 is less than 5, the condition "exceeds" is not met.
+
+**6. Determine the answer:**
+Based on the evaluation, the answer is no.
+
+**Answer:** The answer is no.
+
+
+
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Yes or no: Is it common to see frost during some college commencements?
+
+**Solution:**
+
+**1. Read and understand the question:**
+The question is asking whether it is common to see frost during some college commencements. The key entities are "frost" and "college commencements". The relationship is "seeing frost during" and the requirement is "is it common".
+
+**2. Extract relevant information:**
+College commencements typically take place in May or June in the Northern Hemisphere. In these months, the weather is usually mild, but it can still be cool in the mornings and evenings, especially in the northern states. Frost is possible in these conditions.
+
+**3. Perform necessary calculations or conversions:**
+No calculations or conversions are required in this question.
+
+**4. Make inferences and connections:**
+Based on the extracted information, we can infer that it is possible to see frost during some college commencements, especially in the northern states.
+
+**5. Evaluate conditions and comparisons:**
+The question asks if it is "common" to see frost during some college commencements. While it may not be a frequent occurrence, it is not unheard of either. Therefore, we can evaluate the condition as "yes", it is common enough to see frost during some college commencements.
+
+**6. Determine the answer:**
+Based on the inferences and evaluations, we can determine that the answer is "yes".
+
+**Answer:** The answer is yes.
+
+
+
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+**Solution:**
+
+**1. Read and understand the question:**
+The question asks whether a llama can give birth twice during the War in Vietnam, which took place from 1945 to 1946. The key entities are llama, birth, and War in Vietnam.
+
+**2. Extract relevant information:**
+* Llamas have a gestation period of approximately 11 months.
+* The War in Vietnam took place from 1945 to 1946, which is a duration of 1 year.
+
+**3. Perform necessary calculations or conversions:**
+No calculations or conversions are required in this case.
+
+**4. Make inferences and connections:**
+* A llama's gestation period is longer than the duration of the War in Vietnam.
+* Therefore, it is not possible for a llama to give birth twice during the War in Vietnam.
+
+**5. Evaluate conditions and comparisons:**
+* The condition is "Could a llama birth twice during War in Vietnam (1945-46)".
+* The comparison is between the llama's gestation period and the duration of the War in Vietnam.
+
+**6. Determine the answer:**
+Based on the inferences and evaluations, the answer is no, a llama cannot give birth twice during the War in Vietnam.
+
+**Answer:** The answer is no.
+
+
+
+Here is the step-by-step solution to the example based on the subtasks:
+
+**Question:** Yes or no: Would a pear sink in water?
+
+**Solution:**
+
+**1. Read and understand the question:**
+The question is asking whether a pear would sink in water. The key entities are "pear" and "water". The relationship is "sink". The requirement is to determine if the pear would sink or not.
+
+**2. Extract relevant information:**
+Density of a pear: approximately 0.96 g/cm³ (varies depending on the type and ripeness)
+Density of water: 1 g/cm³
+
+**3. Perform necessary calculations or conversions:**
+No calculations or conversions are required in this case.
+
+**4. Make inferences and connections:**
+Since the density of a pear (0.96 g/cm³) is less than the density of water (1 g/cm³), we can infer that a pear would not sink in water.
+
+**5. Evaluate conditions and comparisons:**
+The condition is "would sink". Since the density of the pear is less than that of water, the pear would not sink.
+
+**6. Determine the answer:**
+Based on the inferences and evaluations, the answer is "no", the pear would not sink in water.
+
+**Answer:** The answer is no.

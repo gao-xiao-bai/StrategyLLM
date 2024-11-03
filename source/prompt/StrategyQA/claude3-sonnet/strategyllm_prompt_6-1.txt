@@ -1,0 +1,202 @@
+Strategy:
+1. Identify the key components of the question, such as entities (e.g., animals, objects, events) and their relationships or properties.
+2. Break down the question into smaller, simpler subquestions or facts that need to be verified.
+3. Retrieve relevant background knowledge or facts from your knowledge base or external sources.
+4. Logically combine the subquestions and background knowledge to infer the answer to the original question.
+5. Check if the inferred answer is consistent with common sense and general knowledge.
+6. Formulate the final answer in a concise and unambiguous manner.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+
+Solution:
+1. Identify the key components:
+   - Entities: hamsters, animals
+   - Relationship: providing food
+
+2. Break down into subquestions:
+   - What is a hamster?
+   - What animals prey on hamsters?
+   - Do those animals consume hamsters as food?
+
+3. Retrieve relevant background knowledge:
+   - Hamsters are small rodents.
+   - Hamsters are prey animals for predators like snakes, birds of prey, and carnivorous mammals.
+   - These predators hunt and consume hamsters as part of their diet.
+
+4. Combine subquestions and background knowledge:
+   - Hamsters are small prey animals.
+   - Predators like snakes, birds of prey, and carnivorous mammals hunt and consume hamsters as food.
+   - Therefore, hamsters provide food for these predatory animals.
+
+5. Check for consistency with common sense and general knowledge:
+   - It is well-known that smaller animals are often preyed upon by larger predators in the food chain.
+   - The inferred answer aligns with this general understanding.
+
+6. Formulate the final answer:
+   Hamsters, being small prey animals, provide food for predatory animals like snakes, birds of prey, and carnivorous mammals that hunt and consume them.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+
+Solution:
+1. Identify the key components of the question:
+   - Entity: Brooke Shields (a person)
+   - Event: Succeeding at the University of Pennsylvania
+
+2. Break down the question into simpler subquestions or facts:
+   - Who is Brooke Shields?
+   - What is the University of Pennsylvania?
+   - What does it mean to "succeed" at a university?
+
+3. Retrieve relevant background knowledge:
+   - Brooke Shields is an American actress, model, and former child star.
+   - The University of Pennsylvania is a prestigious private university located in Philadelphia, known for its academic excellence.
+   - To succeed at a university typically means to perform well academically, graduate, and potentially pursue further education or a successful career.
+
+4. Logically combine the subquestions and background knowledge:
+   - Brooke Shields is an accomplished individual who has demonstrated talent and dedication in her career.
+   - The University of Pennsylvania is a highly regarded institution that attracts talented and motivated students.
+   - Given her achievements and potential, it is reasonable to assume that Brooke Shields could succeed academically and personally at the University of Pennsylvania if she applied herself and met the admission requirements.
+
+5. Check for consistency with common sense and general knowledge:
+   - It is not uncommon for successful individuals from various backgrounds to attend prestigious universities and excel in their studies.
+   - There is no inherent reason why Brooke Shields could not succeed at the University of Pennsylvania if she had the necessary qualifications and motivation.
+
+6. Formulate the final answer:
+   The answer is yes, Brooke Shields could succeed at the University of Pennsylvania.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution:
+1. Identify the key components of the question:
+   - Entities: Hydrogen, Spice Girls
+   - Properties: Hydrogen's atomic number, number of Spice Girls
+
+2. Break down the question into subquestions or facts:
+   - What is the atomic number of hydrogen?
+   - What is the number of Spice Girls?
+   - Does the square of hydrogen's atomic number exceed the number of Spice Girls?
+
+3. Retrieve relevant background knowledge:
+   - Hydrogen's atomic number is 1.
+   - The Spice Girls were a popular British girl group consisting of 5 members.
+
+4. Logically combine the subquestions and background knowledge:
+   - Hydrogen's atomic number is 1.
+   - The square of 1 is 1.
+   - The number of Spice Girls is 5.
+   - 1 does not exceed 5.
+
+5. Check for consistency with common sense and general knowledge:
+   - It is reasonable that the atomic number of hydrogen, being the first element, is a small number (1).
+   - It is also reasonable that a popular music group like the Spice Girls had more than one member (5).
+
+6. Formulate the final answer:
+   The square of hydrogen's atomic number (1) does not exceed the number of Spice Girls (5).
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+
+Solution:
+1. Identify the key components:
+   - Entities: frost, college commencements
+   - Relationship: frost occurring during college commencements
+
+2. Break down the question into subquestions:
+   - What is a college commencement?
+   - When do college commencements typically occur?
+   - What weather conditions are common during those times?
+   - Is frost a common weather condition during college commencements?
+
+3. Retrieve relevant background knowledge:
+   - College commencements are graduation ceremonies held by universities and colleges.
+   - In many regions, college commencements often occur in late spring or early summer.
+   - During late spring and early summer, overnight temperatures can still drop below freezing in some areas, leading to frost formation.
+
+4. Combine subquestions and background knowledge:
+   - College commencements typically occur in late spring or early summer.
+   - In some regions, overnight temperatures during this time can drop below freezing, causing frost formation.
+   - Therefore, it is possible to see frost during some college commencements, depending on the location and weather conditions.
+
+5. Check for consistency with common sense and general knowledge:
+   - It is a well-known phenomenon that frost can occur in certain areas during the spring and early summer months.
+   - College commencements are outdoor events, often held in the morning or evening when temperatures are cooler.
+   - The inference that frost can occur during some college commencements is consistent with common knowledge.
+
+6. Formulate the final answer:
+   The answer is yes, it is common to see frost during some college commencements, especially in regions where overnight temperatures can drop below freezing in late spring or early summer.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution:
+1. Identify the key components:
+   - Entities: llama, War in Vietnam
+   - Properties: llama birth, time period (1945-46)
+
+2. Break down into subquestions:
+   - What is the gestation period of a llama?
+   - When did the War in Vietnam occur?
+   - Is it possible for a llama to give birth twice within the duration of the War in Vietnam?
+
+3. Retrieve relevant background knowledge:
+   - Llama gestation period is around 11-12 months.
+   - The War in Vietnam, also known as the First Indochina War, lasted from December 1946 to August 1954.
+
+4. Combine subquestions and background knowledge:
+   - The War in Vietnam lasted from 1946 to 1954, which is longer than the given time period of 1945-46.
+   - Even if the time period is corrected, the duration of 1945-46 is only about 1 year, which is shorter than the llama gestation period.
+   - Therefore, it is not possible for a llama to give birth twice during the specified time period.
+
+5. Check for consistency with common sense and general knowledge:
+   - It is biologically implausible for a llama to give birth twice within a span of 1 year or less.
+
+6. Formulate the final answer:
+   The answer is no, a llama could not birth twice during the War in Vietnam (1945-46).
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+
+Solution:
+1. Identify the key components of the question:
+   - Entity: pear
+   - Property to determine: whether it sinks in water
+
+2. Break down the question into simpler subquestions or facts:
+   - What is the density of a pear?
+   - What is the density of water?
+   - Do objects with a density greater than water sink in water?
+
+3. Retrieve relevant background knowledge or facts:
+   - The density of a pear is around 0.6 g/cm³.
+   - The density of water is 1 g/cm³.
+   - Objects with a density greater than water sink in water, while objects with a lower density float.
+
+4. Logically combine the subquestions and background knowledge:
+   - The density of a pear (0.6 g/cm³) is lower than the density of water (1 g/cm³).
+   - Since objects with a lower density than water float, a pear will float in water.
+
+5. Check if the inferred answer is consistent with common sense and general knowledge:
+   - It is commonly observed that pears float in water, which is consistent with the inferred answer.
+
+6. Formulate the final answer:
+   The answer is no, a pear would not sink in water.
+
+Answer: The answer is no.

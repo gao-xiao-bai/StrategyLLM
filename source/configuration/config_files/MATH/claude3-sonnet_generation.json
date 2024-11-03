@@ -1,0 +1,6 @@
+{
+  "LM": "claude-3-sonnet-20240229",
+  "prompt_name": "standard",
+  "n_votes": 30,
+  "temperature": 1
+}

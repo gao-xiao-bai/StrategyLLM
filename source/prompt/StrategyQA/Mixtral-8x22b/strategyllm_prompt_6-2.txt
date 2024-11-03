@@ -1,0 +1,193 @@
+Strategy:
+1. Extract key entities and relationships from the question. This involves identifying the main subject, any relevant attributes, and the relationship or action being asked about. For example, in the question "Do hamsters provide food for any animals?", the key entities are "hamsters" and "food", and the relationship is "provide for".
+
+2. Determine the type of question. Is it asking for a yes/no answer, a factual answer, or a multi-step explanation? Understanding the type of question will guide the subsequent steps.
+
+3. Break down the question into simpler sub-questions, if necessary. This is especially important for multi-hop questions that require multiple steps to answer. Each sub-question should correspond to a part of the original question and should be answerable independently.
+
+4. For each sub-question, research and gather relevant information from reliable sources. This may involve querying a knowledge base, searching the internet, or accessing a specialized database.
+
+5. Analyze and interpret the gathered information in the context of the original question and its sub-questions. This may involve comparing data points, making logical deductions, or using mathematical operations.
+
+6. Synthesize the findings into a concise answer to the original question. If the question was multi-step, this should involve combining the answers to the sub-questions into a coherent response.
+
+7. Review the answer for accuracy and relevance. Ensure it directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format. If a yes/no answer is required, provide a clear affirmative or negative response. If a more detailed answer is needed, provide a clear, concise explanation.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+
+Solution:
+1. Key entities and relationships: The key entities are "hamsters" and "food", and the relationship is "provide for".
+2. Type of question: This is a yes/no question.
+3. Sub-questions: The main sub-question here is "What do hamsters provide for other animals?"
+4. Research and gather information: Hamsters are known to be prey animals for various predators such as snakes, birds of prey, and foxes. However, they do not directly provide food for other animals in the way that, for example, a bee provides food for humans by pollinating plants.
+5. Analyze and interpret information: While hamsters do not actively provide food for other animals, they can indirectly do so when they are preyed upon.
+6. Synthesize findings: The answer to the original question is yes, hamsters can provide food for other animals, but only in the context of being prey.
+7. Review answer: The answer is accurate and relevant to the original question.
+8. Provide answer: The answer is yes.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+
+Solution:
+1. Extract key entities and relationships from the question.
+   - Key entities: Brooke Shields, University of Pennsylvania
+   - Relationship: succeed at
+
+2. Determine the type of question.
+   - The question is asking for a yes/no answer.
+
+3. Break down the question into simpler sub-questions.
+   - What is Brooke Shields' educational background?
+   - What are the admission requirements for the University of Pennsylvania?
+
+4. For each sub-question, research and gather relevant information from reliable sources.
+   - Brooke Shields graduated from Princeton University with a bachelor's degree in Romance Languages.
+   - The University of Pennsylvania has rigorous admission requirements, including a high GPA and strong extracurricular involvement.
+
+5. Analyze and interpret the gathered information in the context of the original question and its sub-questions.
+   - Brooke Shields has a successful educational background, having graduated from a prestigious university.
+   - The University of Pennsylvania has high admission standards, but there is no information to suggest that Brooke Shields would not meet these standards.
+
+6. Synthesize the findings into a concise answer to the original question.
+   - Given Brooke Shields' successful educational background and the lack of information suggesting she would not meet the University of Pennsylvania's admission standards, it is reasonable to infer that she could succeed at the University of Pennsylvania.
+
+7. Review the answer for accuracy and relevance.
+   - The answer directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format.
+   - The answer is yes.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution:
+1. Extract key entities and relationships from the question:
+   - Key entities: Hydrogen, atomic number, Spice Girls
+   - Relationship: comparing the square of Hydrogen's atomic number with the number of Spice Girls
+
+2. Determine the type of question:
+   - The question is asking for a yes/no answer.
+
+3. Break down the question into simpler sub-questions:
+   - What is the atomic number of Hydrogen?
+   - What is the square of Hydrogen's atomic number?
+   - How many Spice Girls are there?
+
+4. Research and gather relevant information:
+   - Hydrogen's atomic number is 1.
+   - The square of Hydrogen's atomic number is 1^2 = 1.
+   - The number of Spice Girls is 5.
+
+5. Analyze and interpret the gathered information:
+   - The square of Hydrogen's atomic number (1) does not exceed the number of Spice Girls (5).
+
+6. Synthesize the findings into a concise answer:
+   - The square of Hydrogen's atomic number does not exceed the number of Spice Girls.
+
+7. Review the answer for accuracy and relevance:
+   - The answer directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format:
+   - The answer is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+
+Solution:
+1. Extract key entities and relationships from the question.
+   - Key entities: "frost", "college commencements"
+   - Relationship: "common to see during"
+
+2. Determine the type of question.
+   - The question is asking for a yes/no answer.
+
+3. Break down the question into simpler sub-questions.
+   - What is the typical time of year for college commencements?
+   - What is the typical weather during this time of year in regions where colleges are located?
+
+4. Research and gather relevant information from reliable sources.
+   - College commencements typically occur in late spring (May or June) in the Northern Hemisphere.
+   - The weather during this time of year can vary, but it is not uncommon for there to be frost in the early morning in some regions.
+
+5. Analyze and interpret the gathered information.
+   - Since college commencements often occur in late spring, the weather can still be quite cool, especially in the early morning.
+   - In some regions, particularly those at higher latitudes or altitudes, it is not uncommon for there to be frost during this time of year.
+
+6. Synthesize the findings into a concise answer.
+   - Yes, it is common to see frost during some college commencements, especially in regions where the weather is cooler in late spring.
+
+7. Review the answer for accuracy and relevance.
+   - The answer directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format.
+   - The answer is yes.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution:
+1. Extract key entities and relationships from the question:
+   - Key entities: "llama", "birth", "twice", "War in Vietnam (1945-46)"
+   - Relationship: "Could a llama birth twice during War in Vietnam (1945-46)?"
+
+2. Determine the type of question: This is a yes/no question.
+
+3. Break down the question into simpler sub-questions:
+   - What is the gestation period of a llama?
+   - How many times can a llama give birth in a year?
+   - When was the War in Vietnam (1945-46)?
+
+4. Research and gather relevant information:
+   - The gestation period of a llama is approximately 11 to 12 months.
+   - Llamas typically give birth to one offspring per year.
+   - The War in Vietnam (1945-46) was a conflict that took place in Vietnam from 1945 to 1946.
+
+5. Analyze and interpret the gathered information:
+   - Since the gestation period of a llama is 11 to 12 months, it is not possible for a llama to give birth twice in a year.
+   - Therefore, it is not possible for a llama to give birth twice during the War in Vietnam (1945-46), which lasted for less than a year.
+
+6. Synthesize the findings into a concise answer: No, a llama could not birth twice during the War in Vietnam (1945-46).
+
+7. Review the answer for accuracy and relevance: The answer directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format: The answer is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+
+Solution:
+1. Extract key entities and relationships from the question. The main subject is "pear", the attribute is "sink", and the relationship is "in water".
+
+2. Determine the type of question. This is a yes/no question asking whether a pear would sink in water.
+
+3. Break down the question into simpler sub-questions. The sub-question here is: Does a pear have a density greater than water?
+
+4. For the sub-question, research and gather relevant information from reliable sources. According to the USDA, the average density of a pear is about 0.71 g/cm³, while the density of water is 1 g/cm³.
+
+5. Analyze and interpret the gathered information. Since the density of a pear is less than the density of water, it would not sink in water.
+
+6. Synthesize the findings into a concise answer to the original question. A pear would not sink in water because its density is less than that of water.
+
+7. Review the answer for accuracy and relevance. The answer directly addresses the original question and does not contain extraneous information.
+
+8. Provide the answer in the requested format. The answer is no.
+
+Answer: The answer is no.

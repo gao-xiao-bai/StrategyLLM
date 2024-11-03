@@ -1,0 +1,57 @@
+Strategy:
+1. Begin by identifying all the numbers and operations in the given problem. 
+2. Apply the mathematical rules of order operations. The correct order of operations is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.
+3. Start solving the problem from the inside of the parentheses first, keeping PEMDAS rule in mind. 
+4. While doing multiplication, division, addition, and subtraction (in the order), make sure to change the sign of the number if there is a negative sign before it. 
+5. After solving the operations inside the parentheses, proceed solving the operations outside the parentheses. Remember to still follow the rules and order of operations.
+6. Continue to calculate step by step until you reach the final answer.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution: 
+1. Identify all the numbers and operations in the problem. The numbers are -5, 9, -4, 0, 4, -7, 0, -5. The operations are addition (+), multiplication (*), and subtraction (-).
+2. Apply the mathematical rules of order operations (PEMDAS).
+3. Start solving the problem from the inside of the parentheses first. 
+   - In the first parentheses, we have -5 + 9 * -4 - 0. According to PEMDAS, we should do multiplication first. So, 9 * -4 = -36. Now, the expression becomes -5 + -36 - 0. Then, do the addition and subtraction from left to right. So, -5 + -36 = -41, and -41 - 0 = -41.
+   - In the second parentheses, we have 4 + -7 + 0 * -5. According to PEMDAS, we should do multiplication first. But 0 * -5 = 0, so it doesn't change anything. Now, the expression becomes 4 + -7 + 0. Then, do the addition from left to right. So, 4 + -7 = -3, and -3 + 0 = -3.
+4. After solving the operations inside the parentheses, the expression becomes -41 * -3.
+5. Proceed to solve the multiplication operation. So, -41 * -3 = 123.
+6. The final answer is 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution: 
+1. Identify all the numbers and operations in the given problem. The numbers are -9, 7, -9, 4, -9, 8, -4. The operations are multiplication (*), addition (+), and subtraction (-).
+2. Apply the mathematical rules of order operations (PEMDAS).
+3. Start solving the problem from the inside of the parentheses first. 
+   - The first parentheses is (-9 * 7 * 7 * -9). According to the order of operations, we should do multiplication first. So, -9 * 7 = -63, -63 * 7 = -441, -441 * -9 = 3969.
+   - The second parentheses is (4 * -9 - 8 - -4). According to the order of operations, we should do multiplication first and then subtraction. So, 4 * -9 = -36, -36 - 8 = -44, -44 - -4 = -40.
+4. After solving the operations inside the parentheses, proceed solving the operations outside the parentheses. So, 3969 + -40 = 3929.
+5. Continue to calculate step by step until you reach the final answer.
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution: 
+1. Identify all the numbers and operations in the problem: -3, 5, 8, -4, 9, -8, -7, -9 and the operations are addition, multiplication, and subtraction.
+2. Apply the mathematical rules of order operations (PEMDAS).
+3. Start solving the problem from the inside of the parentheses first.
+   - For the first parentheses, (-3 + 5 * 8 * -4), start with the multiplication: 5 * 8 = 40, then 40 * -4 = -160. So, the expression becomes (-3 + -160).
+   - Then, do the addition: -3 + -160 = -163.
+   - So, the first parentheses simplifies to -163.
+4. Do the same for the second parentheses, (9 - 8 * -7 + -9).
+   - Start with the multiplication: 8 * -7 = -56. So, the expression becomes (9 - -56 + -9).
+   - Then, do the subtraction and addition from left to right: 9 - -56 = 65, then 65 + -9 = 56.
+   - So, the second parentheses simplifies to 56.
+5. Now, the original problem simplifies to (-163 - 56).
+6. Finally, do the subtraction: -163 - 56 = -219.
+
+Answer: The answer is -219.

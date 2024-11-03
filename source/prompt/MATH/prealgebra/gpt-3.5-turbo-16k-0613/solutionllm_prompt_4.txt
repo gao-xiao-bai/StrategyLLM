@@ -1,0 +1,59 @@
+Question: Pete thinks of a number. He doubles it, adds 10, multiplies by 4, and ends up with 120. What was his original number?
+Solution: Let's assume the original number Pete thought of is x.
+According to the given information, Pete doubles the number, so the new number is 2x.
+Then, he adds 10 to the new number, so the new number becomes 2x + 10.
+After that, Pete multiplies the new number by 4, so we have the equation 4(2x + 10) = 120.
+Expanding the equation, we get 8x + 40 = 120.
+Subtracting 40 from both sides of the equation, we have 8x = 80.
+Dividing both sides of the equation by 8, we get x = 10.
+Answer: The answer is 10.
+
+
+
+Question: A standard deck of 52 cards has 13 ranks (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) and 4 suits ($\spadesuit$, $\heartsuit$, $\diamondsuit$, and $\clubsuit$), such that there is exactly one card for any given rank and suit.  Two of the suits ($\spadesuit$ and $\clubsuit$) are black and the other two suits ($\heartsuit$ and $\diamondsuit$) are red.  The deck is randomly arranged. What is the probability that the top card is a $\heartsuit$?
+Answer: The answer is \frac{1}{4}
+
+Solution: 
+There are 52 cards in a standard deck, and 13 of them are hearts. Therefore, the probability of drawing a heart as the top card is $\frac{13}{52}$. Simplifying this fraction gives us $\frac{1}{4}$.
+
+Answer: The answer is $\frac{1}{4}$
+
+
+
+Question: A number in the set $\{50, 51, 52, 53, ... , 999\}$ is randomly selected. What is the probability that it is a two-digit number? Express your answer as a common fraction.
+Solution: To find the probability, we need to determine the number of favorable outcomes (two-digit numbers) and the total number of possible outcomes.
+
+The smallest two-digit number in the given set is 50, and the largest is 99. So, there are 99 - 50 + 1 = 50 two-digit numbers in the set.
+
+The total number of possible outcomes is the number of elements in the set, which is 999 - 50 + 1 = 950.
+
+Therefore, the probability of selecting a two-digit number is $\frac{50}{950} = \frac{1}{19}$.
+
+Answer: The answer is $\frac{1}{19}$
+
+
+
+Question: A pentagon is drawn by placing an isosceles right triangle on top of a square as pictured. What percent of the area of the pentagon is the area of the right triangle?
+
+[asy]
+size(50);
+draw((0,0)--(0,-1)--(1,-1)--(1,0)--(0,0)--(.5,.5)--(1,0));
+[/asy]
+Answer: The answer is 20
+
+Solution: To find the percent of the area of the pentagon that is the area of the right triangle, we need to compare the areas of the two shapes.
+
+The area of a square is given by the formula A = s^2, where s is the length of a side. In this case, the side length of the square is 1, so the area of the square is 1^2 = 1.
+
+The area of an isosceles right triangle is given by the formula A = (1/2) * b * h, where b is the base length and h is the height. In this case, the base length and height of the triangle are both 1, so the area of the triangle is (1/2) * 1 * 1 = 1/2.
+
+To find the percent of the area of the pentagon that is the area of the right triangle, we divide the area of the triangle by the area of the pentagon and multiply by 100.
+
+Percent = (Area of Triangle / Area of Pentagon) * 100
+        = (1/2 / 1) * 100
+        = 1/2 * 100
+        = 50
+
+Therefore, the area of the right triangle is 50% of the area of the pentagon.
+
+Answer: The answer is 50.

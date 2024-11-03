@@ -1,0 +1,19 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+Answer: The answer is \frac{3}{4}
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+[asy] import three; import math; unitsize(1.5cm); currentprojection=orthographic(2,0.2,1);  triple A=(0,0,1); triple B=(sqrt(2)/2,sqrt(2)/2,0); triple C=(sqrt(2)/2,-sqrt(2)/2,0); triple D=(-sqrt(2)/2,-sqrt(2)/2,0); triple E=(-sqrt(2)/2,sqrt(2)/2,0); triple F=(0,0,-1); draw(A--B--E--cycle); draw(A--C--D--cycle); draw(F--C--B--cycle); draw(F--D--E--cycle,dotted+linewidth(0.7)); [/asy]
+$\textbf {(A)}\ 210 \qquad \textbf {(B)}\ 560 \qquad \textbf {(C)}\ 840 \qquad \textbf {(D)}\ 1260 \qquad \textbf {(E)}\ 1680$
+Answer: The answer is 1680
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+Answer: The answer is 21
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+Answer: The answer is 92378

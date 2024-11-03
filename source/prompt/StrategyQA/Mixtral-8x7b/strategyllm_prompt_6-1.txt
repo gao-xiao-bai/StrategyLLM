@@ -1,0 +1,94 @@
+Strategy:
+1. Understand the question: Parse the question to identify the main request (e.g., determining if something is possible, comparing numbers, or checking if an object sinks in water).
+2. Identify required knowledge categories: Determine the types of information needed to answer the question (e.g., animal traits, properties of elements, historical facts, etc.).
+3. Gather background knowledge: Retrieve relevant background knowledge from memory, external databases, or knowledge graphs to answer the question.
+4. Evaluate conditional statements: If the question contains any conditional statements, make necessary calculations to determine their truth values (e.g., hydrogen's atomic number, length of a war, etc.).
+5. Synthesize an answer: Based on the information gathered and evaluated, determine the final answer to the question (e.g., yes, no, or uncertain).
+6. Formulate the response: Present the answer in a clear and concise manner, including the word "the" before stating "answer" in affirmative sentences (e.g., "The answer is yes" or "The answer is no").
+
+Examples:
+Question: Do hamsters provide food for any animals?
+
+Solution:
+1. Understand the question: The main request is to determine if hamsters are a source of food for any animals.
+2. Identify required knowledge categories: We need to know about the dietary habits of hamsters and other animals.
+3. Gather background knowledge: Hamsters are omnivores that eat a variety of foods, including fruits, vegetables, seeds, and insects. However, there is no evidence that hamsters are a significant food source for any other animals in the wild.
+4. Evaluate conditional statements: There are no conditional statements in the question.
+5. Synthesize an answer: Based on the information gathered, hamsters do not provide food for any animals as a significant food source.
+6. Formulate the response: The answer is yes, because hamsters do not provide food for any animals.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+
+Solution:
+1. Understand the question: The main request in this question is determining if something is possible.
+2. Identify required knowledge categories: The types of information needed to answer the question are related to Brooke Shields' abilities and the University of Pennsylvania's admissions and academic standards.
+3. Gather background knowledge: Brooke Shields is a well-known American actress and model. She has also demonstrated her intelligence and dedication in various roles and interviews. The University of Pennsylvania is an Ivy League university known for its rigorous academic standards and competitive admissions process.
+4. Evaluate conditional statements: There are no conditional statements in the question.
+5. Synthesize an answer: Given Brooke Shields' proven abilities and the fact that she has already been admitted to and attended the University of Pennsylvania (she graduated in 1987), it is reasonable to infer that she could succeed at the university.
+6. Formulate the response: Present the answer in a clear and concise manner, including the word "the" before stating "answer" in affirmative sentences.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution:
+1. Understand the question: The main request is to compare two numbers and determine which one is greater.
+2. Identify required knowledge categories: We need to know the atomic number of hydrogen and the number of Spice Girls.
+3. Gather background knowledge:
+a. Hydrogen's atomic number is 1.
+b. The number of Spice Girls is 5 (Ginger Spice, Scary Spice, Baby Spice, Sporty Spice, and Posh Spice).
+4. Evaluate conditional statements:
+a. Calculate the square of hydrogen's atomic number: 1^2 = 1.
+b. Compare the two numbers: 1 (hydrogen's atomic number squared) does not exceed 5 (number of Spice Girls).
+5. Synthesize an answer: Based on the information gathered and evaluated, the answer is no.
+6. Formulate the response: Present the answer in a clear and concise manner: "The answer is no."
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+
+Solution:
+1. Understand the question: The main request in this question is to determine if it is common to see frost during some college commencements.
+2. Identify required knowledge categories: We need information about the typical weather conditions during college commencements.
+3. Gather background knowledge: College commencements typically occur during spring or summer months when frost is not common in most regions. However, in some northern colleges, commencements might take place in cold indoor spaces or even outdoors in colder climates where frost is possible.
+4. Evaluate conditional statements: There are no conditional statements in the question.
+5. Synthesize an answer: Based on the gathered information, it is possible to see frost during some college commencements, but it is not common.
+6. Formulate the response: The answer is yes, it is possible but not common to see frost during some college commencements.
+
+Answer: The answer is yes, it is possible but not common to see frost during some college commencements.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution:
+1. Understand the question: The main request is to determine if something is possible, specifically if a llama could give birth twice during the time frame of the Vietnam War (1945-46).
+2. Identify required knowledge categories: We need to know the gestation period of a llama and the duration of the Vietnam War.
+3. Gather background knowledge: A llama's gestation period is approximately 11 to 12 months. The Vietnam War lasted from 1955 to 1975, with the first phase being the anti-colonial war from 1945 to 1954.
+4. Evaluate conditional statements: Since a llama's gestation period is approximately 11 to 12 months, it is impossible for a llama to give birth twice within the 9-month time frame of the Vietnam War (1945-46).
+5. Synthesize an answer: Based on the information gathered and evaluated, the answer is no.
+6. Formulate the response: Present the answer in a clear and concise manner, including the word "the" before stating "answer" in affirmative sentences.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+
+Solution:
+1. Understand the question: The main request is determining if something (a pear) sinks in a specific substance (water).
+2. Identify required knowledge categories: We need to know the properties of pears and how they interact with water.
+3. Gather background knowledge: Pears are fruits that are less dense than water.
+4. Evaluate conditional statements: There are no conditional statements in the question.
+5. Synthesize an answer: Since pears are less dense than water, they will float.
+6. Formulate the response: Present the answer in a clear and concise manner, including the word "the" before stating "answer" in affirmative sentences.
+
+Answer: The answer is no.

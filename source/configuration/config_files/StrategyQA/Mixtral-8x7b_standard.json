@@ -1,0 +1,5 @@
+{
+  "LM": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "prompt_name": "standard",
+  "n_votes": 1
+}

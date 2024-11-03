@@ -1,0 +1,31 @@
+Question: Sort the following words alphabetically: List: oven costume counterpart
+Solution: To sort the list of words alphabetically, we can use the built-in sort() function in Python. This function rearranges the elements of a list in ascending order. 
+
+Here is the solution:
+
+word_list = ['oven', 'costume', 'counterpart']
+word_list.sort()
+
+Answer: The answer is costume counterpart oven.
+
+
+
+Question: Sort the following words alphabetically: List: hypochlorite ponderosa phone credulity
+Solution: To sort the given list of words alphabetically, we can use the built-in sort() function in Python. This function arranges the elements of a list in ascending order.
+
+list_of_words = ['hypochlorite', 'ponderosa', 'phone', 'credulity']
+list_of_words.sort()
+
+Answer: The answer is credulity hypochlorite phone ponderosa.
+
+
+
+Question: Sort the following words alphabetically: List: newt arson parthia seismography mugho aspect census
+Solution: To sort the given list of words alphabetically, we can use the built-in sort() function in Python. This function arranges the elements of a list in ascending order.
+
+Here is the solution:
+
+word_list = ['newt', 'arson', 'parthia', 'seismography', 'mugho', 'aspect', 'census']
+word_list.sort()
+
+Answer: The answer is arson aspect census mugho newt parthia seismography.

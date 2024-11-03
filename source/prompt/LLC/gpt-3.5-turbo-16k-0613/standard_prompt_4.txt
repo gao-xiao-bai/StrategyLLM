@@ -1,0 +1,17 @@
+Question: Take the last letters of the words in "Elon Musk" and concatenate them.
+Answer: The answer is nk.
+
+
+
+Question: Take the last letters of the words in "Larry Page" and concatenate them.
+Answer: The answer is ye.
+
+
+
+Question: Take the last letters of the words in "Sergey Brin" and concatenate them.
+Answer: The answer is yn.
+
+
+
+Question: Take the last letters of the words in "Bill Gates" and concatenate them.
+Answer: The answer is ls.

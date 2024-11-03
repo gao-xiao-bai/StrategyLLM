@@ -1,0 +1,40 @@
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$.  Find $c$.
+Solution: Since a rotation around $c$ fixes $c$, the complex number $c$ must satisfy $f(c) = c$.  In other words,
+\[c = \frac{(-1 + i \sqrt{3}) c + (-2 \sqrt{3} - 18i)}{2}\]Then $2c = (-1 + i \sqrt{3}) c + (-2 \sqrt{3} - 18i)$, so
+\[(3 - i \sqrt{3}) c = -2 \sqrt{3} - 18i.\]Then
+\begin{align*}
+c &= \frac{-2 \sqrt{3} - 18i}{3 - i \sqrt{3}} \\
+&= \frac{(-2 \sqrt{3} - 18i)(3 + i \sqrt{3})}{(3 - i \sqrt{3})(3 + i \sqrt{3})} \\
+&= \frac{-6 \sqrt{3} - 6i - 54i + 18 \sqrt{3}}{12} \\
+&= \frac{12 \sqrt{3} - 60i}{12} \\
+&= \boxed{\sqrt{3} - 5i}.
+\end{align*}
+Answer: The answer is \sqrt{3}-5i
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+Solution: In rectangular coordinates, $\left( 8, \frac{7 \pi}{6} \right)$ becomes
+\[\left( 8 \cos \frac{7 \pi}{6}, 8 \sin \frac{7 \pi}{6} \right) = \boxed{(-4 \sqrt{3},-4)}.\]
+Answer: The answer is (-4\sqrt{3},-4)
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+Solution: We have that
+\[\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix} = \begin{pmatrix} (2)(8) + (0)(1) & (2)(-2) + (0)(1) \\ (5)(8) + (-3)(1) & (5)(-2) + (-3)(1) \end{pmatrix} = \boxed{\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}}.\]
+Answer: The answer is \begin{pmatrix}16&-4\37&-13\end{pmatrix}
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+Solution: Let the line be
+\[\begin{pmatrix} x \\ y \end{pmatrix} = \mathbf{a} + t \mathbf{d}.\]Then from the given information,
+\begin{align*}
+\begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{a} + 2 \mathbf{d}, \\
+\begin{pmatrix} 3 \\ -4 \end{pmatrix} = \mathbf{a} + 3 \mathbf{d}.
+\end{align*}We can treat this system as a linear set of equations in $\mathbf{a}$ and $\mathbf{d}.$  Accordingly, we can solve to get $\mathbf{a} = \begin{pmatrix} -3 \\ 20 \end{pmatrix}$ and $\mathbf{d} = \begin{pmatrix} 2 \\ -8 \end{pmatrix}.$  Hence,
+\[\begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} -3 \\ 20 \end{pmatrix} + t \begin{pmatrix} 2 \\ -8 \end{pmatrix}.\]Taking $t = -7,$ we get
+\[\begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} -3 \\ 20 \end{pmatrix} - 7 \begin{pmatrix} 2 \\ -8 \end{pmatrix} = \boxed{\begin{pmatrix} -17 \\ 76 \end{pmatrix}}.\]
+Answer: The answer is \begin{pmatrix}-17\76\end{pmatrix}

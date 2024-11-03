@@ -1,0 +1,137 @@
+Strategy:
+1. Determine the current date based on the given information.
+2. Calculate the number of hours or days given in the question.
+3. Determine if the time period given is in the past or future.
+4. Adjust the current date based on the time period and direction (past or future).
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+6. Provide the final date as the answer to the question.
+
+Examples:
+Question: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - The current date is not explicitly given in the question, so we need to determine it based on the information provided.
+   - We know that 2015 is coming in 36 hours, which means the current year is 2014.
+   - We also know that the current date is one week before the date mentioned in the question.
+   - Let's assume the current date is 12/30/2014.
+
+2. Calculate the number of hours or days given in the question.
+   - The question mentions one week from today, so we need to calculate the number of days in one week.
+   - One week has 7 days.
+
+3. Determine if the time period given is in the past or future.
+   - The time period mentioned in the question is in the future because it says "one week from today."
+
+4. Adjust the current date based on the time period and direction (past or future).
+   - Since the time period is in the future, we need to add the number of days (7) to the current date.
+   - 12/30/2014 + 7 days = 01/06/2015
+
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The adjusted date is already in the required format (MM/DD/YYYY).
+
+6. Provide the final date as the answer to the question.
+Answer: The answer is 01/06/2015.
+
+
+
+Question: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - The first day of 2019 is a Tuesday.
+   - Today is the first Monday of 2019.
+   - We know that the first day of the year is a Tuesday, so we can determine the day of the week for any other date in 2019.
+   - To find the current date, we need to determine the number of days between the first day of the year and today.
+   - Since the first day of the year is a Tuesday and today is the first Monday, there are 6 days between them.
+   - Therefore, the current date is 6 days after the first day of the year.
+
+2. Calculate the number of hours or days given in the question.
+   - The question does not specify any number of hours or days.
+
+3. Determine if the time period given is in the past or future.
+   - The question does not specify a time period.
+
+4. Adjust the current date based on the time period and direction (past or future).
+   - Since there is no time period given, we do not need to adjust the current date.
+
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The current date is 6 days after the first day of the year, which is January 1, 2019.
+   - The date format is MM/DD/YYYY, so the current date is 01/07/2019.
+
+Answer: The answer is 01/07/2019.
+
+
+
+Question: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - The concert was delayed by one day, so the current date is 06/02/1943.
+2. Calculate the number of days given in the question.
+   - The question asks for the date 10 days ago.
+3. Determine if the time period given is in the past or future.
+   - The time period is in the past.
+4. Adjust the current date based on the time period and direction (past or future).
+   - Subtract 10 days from the current date: 06/02/1943 - 10 days = 05/23/1943.
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The adjusted date is already in the required format: 05/23/1943.
+6. Provide the final date as the answer to the question.
+Answer: The answer is 05/23/1943.
+
+
+
+Question: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - Current date: 4/19/1969
+2. Calculate the number of hours or days given in the question.
+   - 24 hours
+3. Determine if the time period given is in the past or future.
+   - The time period is in the future.
+4. Adjust the current date based on the time period and direction (past or future).
+   - Add 24 hours to the current date.
+   - 4/19/1969 + 24 hours = 4/20/1969
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The adjusted date is already in the required format.
+6. Provide the final date as the answer to the question.
+Answer: The answer is 04/20/1969.
+
+
+
+Question: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - The current date is Mar 12, 2002.
+2. Calculate the number of hours or days given in the question.
+   - The question asks for the date 24 hours later.
+3. Determine if the time period given is in the past or future.
+   - The time period is in the future.
+4. Adjust the current date based on the time period and direction (past or future).
+   - Add 24 hours to the current date.
+   - Mar 12, 2002 + 24 hours = Mar 13, 2002.
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The adjusted date is Mar 13, 2002, which can be written as 03/13/2002.
+6. Provide the final date as the answer to the question.
+Answer: The answer is 03/13/2002.
+
+
+
+Question: Jane was born on the last day of February in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Solution:
+1. Determine the current date based on the given information.
+   - Jane's birthday is on the last day of February in 2001.
+   - Today is her 16-year-old birthday.
+   - So, the current date is 02/28/2017.
+
+2. Calculate the number of hours or days given in the question.
+   - The question asks for the date yesterday, which means we need to subtract 1 day from the current date.
+
+3. Determine if the time period given is in the past or future.
+   - The time period given is in the past since we need to find the date yesterday.
+
+4. Adjust the current date based on the time period and direction (past or future).
+   - Subtract 1 day from the current date: 02/28/2017 - 1 day = 02/27/2017.
+
+5. Convert the adjusted date to the required format (MM/DD/YYYY) as specified in the question.
+   - The adjusted date is already in the required format.
+
+6. Provide the final date as the answer to the question.
+Answer: The answer is 02/27/2017.

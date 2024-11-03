@@ -1,0 +1,84 @@
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution: First, we follow the order of operations (PEMDAS/BODMAS), which means we perform calculations in the following order: Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right).
+
+First, we evaluate the expression inside the first parentheses:
+
+-5 + 9 * -4 - 0
+
+We start by performing the multiplication:
+
+-5 + 36 - 0
+
+Then, we do addition and subtraction from left to right:
+
+31
+
+Next, we evaluate the expression inside the second parentheses:
+
+4 + -7 + 0 * -5
+
+We start by performing the multiplication:
+
+4 + -7 + 0
+
+Then, we do addition and subtraction from left to right:
+
+-3
+
+Finally, we multiply the results of the two parentheses expressions:
+
+31 * -3
+
+Which gives us the answer:
+
+-93
+
+Answer: The answer is -93.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+Solution: First, perform the multiplication operations:
+(-9 * 7 * 7 * -9) = (3969) and (4 * -9) = (-36)
+
+Next, perform the addition and subtraction operations inside the second parentheses:
+(-36 - 8 - -4) = (-28 - -4) = (-24)
+
+Finally, add the two results:
+(3969 + -24) = 3945
+
+Answer: The answer is 3945.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution: First, we follow the order of operations (PEMDAS/BODMAS) to solve the expressions inside the parentheses. 
+
+For the left expression: (-3 + 5 * 8 * -4), we should perform multiplication first:
+
+= (-3 + 5 * 64 * -4)
+= (-3 + 320 * -4)
+
+Now, we perform multiplication:
+
+= (-3 + -1280)
+= -1283
+
+For the right expression: (9 - 8 * -7 + -9), we should perform multiplication first:
+
+= (9 - 8 * 7 + -9)
+= (9 - 56 + -9)
+
+Now, we perform subtraction and addition from left to right:
+
+= (-47 + -9)
+= -56
+
+So, the original expression becomes: (-1283) - (-56). We perform subtraction:
+
+= -1283 + 56
+= -1227
+
+Answer: The answer is -1227.

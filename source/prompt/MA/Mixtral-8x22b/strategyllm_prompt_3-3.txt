@@ -1,0 +1,100 @@
+Strategy:
+1. Extract the arithmetic expression from the input.
+2. Parse the expression to identify the operators and operands.
+3. Prioritize the operators based on the order of operations (PEMDAS/BODMAS): Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+4. Perform operations inside parentheses first, if any.
+5. Calculate exponents, if any.
+6. Perform multiplication and division operations from left to right.
+7. Perform addition and subtraction operations from left to right.
+8. Continue evaluating the expression according to the above rules until no operators remain in the expression.
+9. Return the final result as the answer.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Extract the arithmetic expression from the input: (-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)
+2. Parse the expression to identify the operators and operands:
+   Operators: +, *, -
+   Operands: -5, 9, -4, 0, 4, -7, 0, -5
+3. Prioritize the operators based on the order of operations (PEMDAS/BODMAS):
+   Parentheses: (-5 + 9 * -4 - 0), (4 + -7 + 0 * -5)
+   Multiplication and Division (from left to right): 9 * -4, 0 * -5
+   Addition and Subtraction (from left to right): -5 + -36, -3 + -7, -40 + 0
+4. Perform operations inside parentheses first:
+   (-5 + 9 * -4 - 0) = (-5 + -36 - 0) = -41
+   (4 + -7 + 0 * -5) = (-3 + 0) = -3
+5. Calculate exponents, if any (there are no exponents in this example).
+6. Perform multiplication and division operations from left to right:
+   9 * -4 = -36
+   0 * -5 = 0
+7. Perform addition and subtraction operations from left to right:
+   -5 + -36 = -41
+   -3 + 0 = -3
+8. Continue evaluating the expression according to the above rules until no operators remain in the expression:
+   (-41) * (-3) = 123
+9. Return the final result as the answer: 123
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. Extract the arithmetic expression: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+2. Parse the expression to identify the operators and operands:
+   - Operators: *, +, -
+   - Operands: -9, 7, 4, 8
+3. Prioritize the operators based on the order of operations (PEMDAS/BODMAS):
+   - Parentheses: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+   - Exponents: None
+   - Multiplication and Division (from left to right): -9 * 7 * 7 * -9, 4 * -9
+   - Addition and Subtraction (from left to right): (-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)
+4. Perform operations inside parentheses first:
+   - Calculate -9 * 7 * 7 * -9:
+      - First, multiply -9 and 7: -63
+      - Then, multiply the result by 7: -441
+      - Finally, multiply the result by -9: 3969
+   - Calculate 4 * -9: -36
+   - Calculate 4 * -9 - 8 - -4:
+      - First, multiply 4 and -9: -36
+      - Then, subtract 8 from the result: -44
+      - Finally, add -4 to the result: -40
+5. Perform addition and subtraction operations from left to right:
+   - Add the results from step 4: 3969 + (-40) = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. Extract the arithmetic expression from the input: (-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)
+2. Parse the expression to identify the operators and operands:
+   - Operators: +, *, -
+   - Operands: -3, 5, 8, -4, 9, -7, -9
+3. Prioritize the operators based on the order of operations (PEMDAS/BODMAS):
+   - Parentheses: (-3 + 5 * 8 * -4), (9 - 8 * -7 + -9)
+   - Multiplication and Division (from left to right): 5 * 8 * -4, 8 * -7
+   - Addition and Subtraction (from left to right): -3 + (result of 5 * 8 * -4), 9 - (result of 8 * -7) + -9
+4. Perform operations inside parentheses first:
+   - (-3 + 5 * 8 * -4):
+      - Calculate 5 * 8 * -4: 5 * 8 = 40, 40 * -4 = -160
+      - Add -3 to the result: -3 + (-160) = -163
+   - (9 - 8 * -7 + -9):
+      - Calculate 8 * -7: 8 * -7 = -56
+      - Subtract the result from 9: 9 - (-56) = 65
+      - Add -9 to the result: 65 + (-9) = 56
+5. Perform multiplication and division operations from left to right:
+   - 5 * 8 * -4: 5 * 8 = 40, 40 * -4 = -160
+   - 8 * -7: 8 * -7 = -56
+6. Perform addition and subtraction operations from left to right:
+   - -3 + (-160): -3 - 160 = -163
+   - 9 - (-56) + -9: 9 + 56 - 9 = 56
+7. Continue evaluating the expression according to the above rules:
+   - (-163) - 56: -163 - 56 = -219
+8. Return the final result as the answer: -219
+
+Answer: The answer is -219.

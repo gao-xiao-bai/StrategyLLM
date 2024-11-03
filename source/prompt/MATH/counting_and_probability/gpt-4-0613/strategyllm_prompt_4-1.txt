@@ -1,0 +1,69 @@
+Strategy:
+1. Identify the type of the counting or probability problem presented.
+2. If the problem is regarding permutations or combinations, identify all possible outcomes and arrange or select the required number of objects accordingly.
+3. If the problem is about probability, assess the sample space, the number of possible outcomes and the number of favorable outcomes.
+4. For probability questions, use the formula of probability, which is the number of favorable outcomes divided by the number of total outcomes.
+5. If the problem involves conditions or restrictions, ensure to factor in these when calculating probability or counting the possible arrangements or selections.
+6. If the problem involves complex calculations, break them down into smaller manageable calculations.
+7. Apply the suitable rule or formula according to the type of counting or probability problem, such as multiplication rule, addition rule, arrangement rules, rules of permutations and combinations, or probability rules.
+8. Compute the result using arithmetic calculation or mathematical formulas, and write down the answer.
+9. Review the process and the answer to ensure accuracy.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: 
+1. The problem is about probability.
+2. The problem involves arranging 4 digits to form a number. The total number of possible outcomes is 4!, which is 4*3*2*1 = 24.
+3. To be an odd number, the last digit must be 3, 5 or 7. So, there are 3 choices for the last digit.
+4. For the remaining 3 digits, they can be arranged in 3! ways, which is 3*2*1 = 6.
+5. So, the number of favorable outcomes is 3*6 = 18.
+6. The probability is the number of favorable outcomes divided by the number of total outcomes, which is 18/24.
+7. Simplify the fraction to get the final answer.
+
+Answer: The answer is \frac{3}{4}.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: 
+1. The problem is about counting the number of ways to construct a regular octahedron with eight different colored equilateral triangles. This is a permutation problem.
+2. The octahedron has 8 faces, and we have 8 different colored triangles. So, we need to arrange these 8 triangles on the 8 faces of the octahedron.
+3. Since the triangles are all different colors, the order in which they are placed on the octahedron matters. Therefore, we need to use the formula for permutations.
+4. The formula for permutations is nPr = n! / (n-r)!, where n is the total number of objects and r is the number of objects to be arranged. In this case, n and r are both 8.
+5. So, the number of ways to arrange the 8 triangles is 8P8 = 8! / (8-8)! = 8! / 0! = 8! = 8*7*6*5*4*3*2*1 = 40320.
+6. However, this counts rotations of the same octahedron as different, so we need to divide by the number of rotations of the octahedron. An octahedron has 24 rotations (6 for each of the 4 vertices).
+7. So, the number of distinguishable ways to construct the octahedron is 40320 / 24 = 1680.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: 
+1. The problem is about counting the number of possible arrangements with certain restrictions.
+2. There are 3 words in the Gnollish language, and we need to form a 3-word sentence. Without any restrictions, there would be 3^3 = 27 possible sentences because each of the 3 positions in the sentence can be filled by any of the 3 words.
+3. However, there is a restriction that the word "splargh" cannot come directly before "glumph". We need to count the number of sentences that violate this rule and subtract them from the total.
+4. If "splargh" comes before "glumph", there are 2 positions this pair can be in: the first and second words, or the second and third words. For each of these 2 positions, the remaining word can be any of the 3 words. So there are 2*3 = 6 sentences that violate the rule.
+5. Subtracting the number of invalid sentences from the total gives 27 - 6 = 21 valid sentences.
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: 
+1. The problem is about combinations, which is a type of counting problem.
+2. The problem is asking for the number of ways to choose 9 items from a set of 19, which is represented by $\binom{19}{9}$.
+3. We are given the values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$, which can be used to calculate $\binom{19}{9}$.
+4. The formula for combinations is $\binom{n}{r} = \frac{n!}{r!(n-r)!}$, where n is the total number of items, r is the number of items to choose, and '!' denotes factorial.
+5. However, we can use the property of combinations that $\binom{n}{r} = \binom{n}{n-r}$, and the relationship between $\binom{n+1}{r}$ and $\binom{n}{r-1}$ and $\binom{n}{r}$, which is $\binom{n+1}{r} = \binom{n}{r-1} + \binom{n}{r}$.
+6. Using these properties, we can express $\binom{19}{9}$ as $\binom{18}{8} + \binom{18}{9}$.
+7. Similarly, $\binom{18}{8}$ can be expressed as $\binom{17}{7} + \binom{17}{8}$, and $\binom{18}{9}$ can be expressed as $\binom{17}{8} + \binom{17}{9}$.
+8. Substituting the given values, we get $\binom{19}{9} = (19448 + 24310) + (24310 + 24310)$.
+9. Performing the arithmetic calculation, we get $\binom{19}{9} = 43758 + 48620 = 92378$.
+
+Answer: The answer is 92378.

@@ -1,0 +1,211 @@
+Strategy:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+5. Look for any clues or hints within the question that can help in finding the answer.
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+8. If additional information is required, either use external sources or gather relevant data from memory.
+9. Organize the information and answer the question clearly and concisely.
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking if hamsters provide food for any animals.
+
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question is a simple "yes or no" question.
+
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - The key elements are hamsters and providing food for other animals.
+
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No need to break down the question further.
+
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question itself is straightforward.
+
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - The approach requires knowledge of specific facts about hamsters.
+
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - Hamsters are not known to provide food for other animals.
+
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required.
+
+9. Organize the information and answer the question clearly and concisely.
+   - The answer is no, hamsters do not provide food for any animals.
+
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+    - The answer accurately addresses the question.
+
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+    - The answer aligns with the requirements.
+
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+    - Answer: The answer is no.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking if Brooke Shields could succeed at the University of Pennsylvania.
+
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question requires a simple "yes or no" answer.
+
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - Key elements: Brooke Shields, University of Pennsylvania, succeed.
+
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No need to break down the question further.
+
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question does not provide any specific clues or hints.
+
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - The approach requires logical reasoning and knowledge of the University of Pennsylvania.
+
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - The University of Pennsylvania is a prestigious university known for its rigorous academic programs. Brooke Shields, as a successful actress and model, may have the potential to succeed at the university.
+
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required.
+
+9. Organize the information and answer the question clearly and concisely.
+   - The answer is yes, Brooke Shields could succeed at the University of Pennsylvania.
+
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+    - The answer accurately addresses the question and provides a correct response.
+
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+    - The answer aligns with the requirements and request.
+
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+    - Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking whether the square of hydrogen's atomic number exceeds the number of Spice Girls.
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question is a "yes or no" question.
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - Key elements: hydrogen's atomic number, square of hydrogen's atomic number, number of Spice Girls.
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No hidden information or assumptions.
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question explicitly mentions hydrogen's atomic number and the number of Spice Girls.
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - The approach requires comparison and analysis.
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - Hydrogen's atomic number is 1.
+   - The number of Spice Girls is 5.
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required.
+9. Organize the information and answer the question clearly and concisely.
+   - The square of hydrogen's atomic number (1^2) is 1.
+   - The number of Spice Girls is 5.
+   - 1 does not exceed 5.
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+    - The answer accurately states that the square of hydrogen's atomic number does not exceed the number of Spice Girls.
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+    - The answer aligns with the requirements and request.
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+    - The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking whether it is common to see frost during some college commencements.
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question is a "yes or no" question.
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - Key elements: frost, college commencements, common.
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No need to break down the question further.
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question mentions "common," indicating that the answer should be based on the frequency of frost during college commencements.
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - The approach requires knowledge of specific facts or general understanding.
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - In many regions, college commencements occur during the spring season when frost is less common.
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required.
+9. Organize the information and answer the question clearly and concisely.
+   - Based on general understanding, the answer is yes, it is common to see frost during some college commencements.
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+   - The answer accurately addresses the question by stating that it is common to see frost during some college commencements.
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+   - The answer aligns with the requirements and request of providing a "yes or no" response.
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+   - Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking whether a llama could give birth twice during the War in Vietnam (1945-46).
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question is a "yes or no" question.
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - The key elements are "llama," "birth," and "War in Vietnam (1945-46)."
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No further breakdown is necessary.
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question mentions the time period of the War in Vietnam (1945-46).
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - The approach requires knowledge of llama reproduction and the historical context of the War in Vietnam (1945-46).
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - Llamas, like most mammals, have a gestation period of around 11 months. It is highly unlikely for a llama to give birth twice within a span of one year.
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required.
+9. Organize the information and answer the question clearly and concisely.
+   - The answer is no, it is not possible for a llama to give birth twice during the War in Vietnam (1945-46).
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+   - The answer accurately addresses the question.
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+   - The answer aligns with the requirements and request.
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+   - The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution:
+1. Read and understand the question fully by carefully analyzing the given information and requirements.
+   - The question is asking whether a pear would sink in water.
+2. Identify the type of question being asked, whether it is a simple "yes or no" question or if there is a need to provide a specific answer.
+   - The question is a simple "yes or no" question.
+3. Determine the key elements and concepts mentioned in the question that need to be addressed.
+   - The key elements are the pear and water.
+4. Break down the question into smaller parts, if necessary, to identify any hidden information or assumptions.
+   - No further breakdown is necessary for this question.
+5. Look for any clues or hints within the question that can help in finding the answer.
+   - The question explicitly mentions a pear and water.
+6. Decide on the approach to be used, whether it requires logical reasoning, knowledge of specific facts, comparison, or analysis.
+   - This question requires knowledge of specific facts about the density of pears and water.
+7. Use prior knowledge and general understanding to answer the question, if applicable.
+   - Pears are generally less dense than water, so they would float rather than sink.
+8. If additional information is required, either use external sources or gather relevant data from memory.
+   - No additional information is required for this question.
+9. Organize the information and answer the question clearly and concisely.
+   - The answer is no, a pear would not sink in water.
+10. Review the answer to ensure it accurately addresses the question and provides a correct response.
+   - The answer accurately states that a pear would not sink in water.
+11. If necessary, double-check the answer to ensure it aligns with the requirements and request.
+   - The answer aligns with the requirements of providing a "yes or no" response.
+12. Finally, present the answer in a clear and understandable manner, either as a "yes or no" response or as a specific answer as required by the question.
+   - The answer is: The answer is no.

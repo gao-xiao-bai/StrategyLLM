@@ -1,0 +1,195 @@
+Strategy:
+1. Identify the type of problem:
+   - Determine whether the problem involves algebra, trigonometry, matrices, or vectors.
+   - Categorize the problem based on the specific topic within precalculus.
+
+2. Review the relevant concepts and formulas:
+   - Recall the definitions, properties, and formulas related to the identified topic.
+   - Make sure to review any special cases or exceptions.
+
+3. Analyze the given information:
+   - Read and understand the problem statement carefully.
+   - Identify the known values, variables, and any additional conditions given.
+
+4. Solve the problem step by step:
+   - Use the relevant formulas and methods to solve the problem.
+   - Show all necessary calculations and logical steps.
+   - Pay attention to any units or restrictions on the solutions.
+
+5. Check and verify the solution:
+   - Review the obtained solution for accuracy and completeness.
+   - Verify the solution by substituting it back into the original equation or problem statement.
+   - Check if the solution satisfies any given conditions or constraints.
+
+6. Communicate the final answer:
+   - Write the answer in the appropriate format (rectangular coordinates, polar coordinates, matrix notation, vector form, etc.).
+   - Clearly state the answer with any necessary units or labels.
+   - Use proper mathematical notation and formatting.
+
+7. Provide additional explanations or interpretations if required:
+   - Explain any implications or consequences of the solution.
+   - Discuss any patterns, relationships, or meanings behind the obtained result.
+   - Make any necessary connections to other topics or concepts within precalculus.
+
+Examples:
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$. Find $c$.
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves algebra and complex numbers.
+
+2. Review the relevant concepts and formulas:
+   - To find the complex number $c$, we need to solve the equation $f(z) = z$.
+   - We can simplify the equation by multiplying both sides by 2 to eliminate the denominator.
+
+3. Analyze the given information:
+   - The function $f(z)$ represents a rotation around some complex number $c$.
+   - We need to find the value of $c$.
+
+4. Solve the problem step by step:
+   - Multiply both sides of the equation $f(z) = z$ by 2:
+     \[2f(z) = 2z\]
+   - Expand the expression on the left side:
+     \[(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i) = 2z\]
+   - Combine like terms:
+     \[(-1 + i \sqrt{3}) z - 2z = 18i + 2 \sqrt{3}\]
+   - Factor out $z$ on the left side:
+     \[(i \sqrt{3} - 1)z - 2z = 18i + 2 \sqrt{3}\]
+   - Combine like terms:
+     \[(i \sqrt{3} - 3)z = 18i + 2 \sqrt{3}\]
+   - Divide both sides by $(i \sqrt{3} - 3)$ to solve for $z$:
+     \[z = \frac{18i + 2 \sqrt{3}}{i \sqrt{3} - 3}\]
+   - Rationalize the denominator by multiplying the numerator and denominator by the conjugate of the denominator:
+     \[z = \frac{(18i + 2 \sqrt{3})(i \sqrt{3} + 3)}{(i \sqrt{3} - 3)(i \sqrt{3} + 3)}\]
+   - Simplify the numerator:
+     \[z = \frac{-54 + 54i + 6 \sqrt{3}i + 6 \sqrt{3}}{-3i^2 + 9}\]
+   - Simplify the denominator:
+     \[z = \frac{-54 + 54i + 6 \sqrt{3}i + 6 \sqrt{3}}{3 + 9}\]
+     \[z = \frac{-54 + 54i + 6 \sqrt{3}i + 6 \sqrt{3}}{12}\]
+     \[z = \frac{-54 + 6 \sqrt{3} + 54i + 6 \sqrt{3}i}{12}\]
+     \[z = \frac{-54 + 6 \sqrt{3}}{12} + \frac{54i + 6 \sqrt{3}i}{12}\]
+     \[z = \frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\]
+   - Rearrange the terms to separate the real and imaginary parts:
+     \[z = \frac{-9}{2} + \frac{\sqrt{3}}{2} + \frac{9i}{2} + \frac{\sqrt{3}i}{2}\]
+   - Combine like terms:
+     \[z = \frac{-9 + 9i}{2} + \frac{\sqrt{3} + \sqrt{3}i}{2}\]
+   - Write the complex number $z$ in rectangular form:
+     \[z = \frac{-9 + 9i + \sqrt{3} + \sqrt{3}i}{2}\]
+     \[z = \frac{-9 + \sqrt{3} + 9i + \sqrt{3}i}{2}\]
+     \[z = \frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\]
+
+5. Check and verify the solution:
+   - Substitute the obtained value of $z$ back into the original equation $f(z) = z$:
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\]
+   - Simplify the expression on the left side:
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{(-1 + i \sqrt{3}) \left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) + (-2 \sqrt{3} - 18i)}{2}\]
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{\frac{9 - 3\sqrt{3} + 9i\sqrt{3} - 3i + 9i\sqrt{3} + 3}{2} + (-2 \sqrt{3} - 18i)}{2}\]
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{\frac{12 - 3\sqrt{3} + 18i\sqrt{3} - 3i}{2} + (-2 \sqrt{3} - 18i)}{2}\]
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{12 - 3\sqrt{3} + 18i\sqrt{3} - 3i - 4 \sqrt{3} - 36i}{4}\]
+     \[f\left(\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\right) = \frac{8 - 7\sqrt{3} + 18i\sqrt{3} - 39i}{4}\]
+   - Simplify the expression on the right side:
+     \[\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\]
+   - Compare the left and right sides of the equation:
+     \[\frac{8 - 7\sqrt{3} + 18i\sqrt{3} - 39i}{4} = \frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}\]
+   - The left and right sides are equal, so the obtained value of $z$ is correct.
+
+6. Communicate the final answer:
+   - The complex number $c$ is equal to $\frac{-9 + \sqrt{3}}{2} + \frac{9i + \sqrt{3}i}{2}$.
+
+Answer: The answer is $\sqrt{3}-5i$.
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves converting polar coordinates to rectangular coordinates.
+
+2. Review the relevant concepts and formulas:
+   - The conversion formulas are:
+     - $x = r \cos(\theta)$
+     - $y = r \sin(\theta)$
+
+3. Analyze the given information:
+   - The given point is $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates.
+
+4. Solve the problem step by step:
+   - Using the conversion formulas:
+     - $x = 8 \cos\left(\frac{7 \pi}{6}\right)$
+     - $y = 8 \sin\left(\frac{7 \pi}{6}\right)$
+   - Evaluating the trigonometric functions:
+     - $x = 8 \cdot \left(-\frac{\sqrt{3}}{2}\right) = -4\sqrt{3}$
+     - $y = 8 \cdot \left(-\frac{1}{2}\right) = -4$
+   
+5. Check and verify the solution:
+   - The obtained rectangular coordinates are $(-4\sqrt{3}, -4)$.
+   - To verify, we can substitute these values back into the conversion formulas:
+     - $r = \sqrt{(-4\sqrt{3})^2 + (-4)^2} = \sqrt{48 + 16} = \sqrt{64} = 8$
+     - $\theta = \arctan\left(\frac{-4}{-4\sqrt{3}}\right) = \arctan\left(\frac{1}{\sqrt{3}}\right) = \frac{\pi}{6}$
+   - The polar coordinates obtained are $\left( 8, \frac{\pi}{6} \right)$.
+   - The obtained polar coordinates match the given polar coordinates, so the solution is correct.
+
+6. Communicate the final answer:
+   - The rectangular coordinates of the point $\left( 8, \frac{7 \pi}{6} \right)$ are $(-4\sqrt{3}, -4)$.
+
+Answer: The answer is $(-4\sqrt{3}, -4)$.
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves matrix multiplication.
+
+2. Review the relevant concepts and formulas:
+   - Matrix multiplication: To multiply two matrices, we multiply the corresponding elements in each row of the first matrix with the corresponding elements in each column of the second matrix, and then sum the products.
+
+3. Analyze the given information:
+   - We are given two matrices: $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix}$ and $\begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}$.
+
+4. Solve the problem step by step:
+   - To compute the product of the two matrices, we multiply the corresponding elements in each row of the first matrix with the corresponding elements in each column of the second matrix, and then sum the products.
+   - Let's calculate the elements of the resulting matrix:
+     - The first element of the resulting matrix is $2 \cdot 8 + 0 \cdot 1 = 16$.
+     - The second element of the resulting matrix is $2 \cdot (-2) + 0 \cdot 1 = -4$.
+     - The third element of the resulting matrix is $5 \cdot 8 + (-3) \cdot 1 = 37$.
+     - The fourth element of the resulting matrix is $5 \cdot (-2) + (-3) \cdot 1 = -13$.
+
+5. Check and verify the solution:
+   - The calculated elements of the resulting matrix are: $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+   - Comparing this with the given answer, we can see that the solution is correct.
+
+6. Communicate the final answer:
+   - The answer is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves vectors.
+
+2. Review the relevant concepts and formulas:
+   - The formula for finding a vector on a line given two points is $\mathbf{v} = \mathbf{v}_0 + t \mathbf{d},$ where $\mathbf{v}_0$ is a vector on the line and $\mathbf{d}$ is the direction vector of the line.
+
+3. Analyze the given information:
+   - We are given two vectors on the line at $t = 2$ and $t = 3.$
+   - We need to find the vector on the line at $t = -7.$
+
+4. Solve the problem step by step:
+   - Let $\mathbf{v}_0 = \begin{pmatrix} 1 \\ 4 \end{pmatrix}$ be the vector on the line at $t = 2.$
+   - Let $\mathbf{d} = \begin{pmatrix} 3 \\ -4 \end{pmatrix} - \begin{pmatrix} 1 \\ 4 \end{pmatrix} = \begin{pmatrix} 2 \\ -8 \end{pmatrix}$ be the direction vector of the line.
+   - Substitute $t = -7$ into the formula $\mathbf{v} = \mathbf{v}_0 + t \mathbf{d}$ to find the vector on the line at $t = -7.$
+     - $\mathbf{v} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} + (-7) \begin{pmatrix} 2 \\ -8 \end{pmatrix}$
+     - $\mathbf{v} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} + \begin{pmatrix} -14 \\ 56 \end{pmatrix}$
+     - $\mathbf{v} = \begin{pmatrix} -13 \\ 60 \end{pmatrix}$
+
+5. Check and verify the solution:
+   - The obtained vector $\mathbf{v} = \begin{pmatrix} -13 \\ 60 \end{pmatrix}$ satisfies the given conditions.
+   - Substituting $t = -7$ into the formula $\mathbf{v} = \mathbf{v}_0 + t \mathbf{d},$ we get $\begin{pmatrix} -13 \\ 60 \end{pmatrix} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} + (-7) \begin{pmatrix} 2 \\ -8 \end{pmatrix},$ which is true.
+
+Answer: The answer is $\begin{pmatrix} -13 \\ 60 \end{pmatrix}.$

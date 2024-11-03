@@ -1,0 +1,6 @@
+Question: [QUESTION]
+Let’s first prepare relevant information and make a plan. Then, let’s answer the question step by step (pay attention to commonsense and logical coherence).
+The result must be in the following format:
+Plan: Plan for the question
+Solution: Solution to the question by carrying out the plan
+Answer: Answer to the question, which must include the string 'The answer (yes or no) is '

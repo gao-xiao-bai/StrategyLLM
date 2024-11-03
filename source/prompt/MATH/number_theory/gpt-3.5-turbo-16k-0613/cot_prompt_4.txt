@@ -1,0 +1,43 @@
+Question: Let $x$ be a positive integer such that $9x\equiv 1\pmod{25}$.
+
+What is the remainder when $11+x$ is divided by $25$?
+Solution: The given information can be expressed by writing $x\equiv 9^{-1}\pmod{25}$. Thus we wish to compute $11+9^{-1}\pmod{25}$.
+
+Modulo $25$, we can write $11$ as $11\cdot (9\cdot 9^{-1}) \equiv (11\cdot 9)\cdot 9^{-1} \equiv 99\cdot 9^{-1}$. Thus \begin{align*}
+11 + 9^{-1} &\equiv 99\cdot 9^{-1} + 1\cdot 9^{-1} \\
+&\equiv 100\cdot 9^{-1} \\
+&\equiv 0\cdot 9^{-1} \\
+&\equiv 0\pmod{25},
+\end{align*}so the remainder when $11+x$ is divided by $25$ is $\boxed{0}$.
+
+Notice that the trick we used here is analogous to using a common denominator to add fractions.
+Answer: The answer is 0
+
+
+
+Question: Let $m$ be the product of all positive integers less than $4!$ which are invertible modulo $4!$. Find the remainder when $m$ is divided by $4!$.
+
+(Here $n!$ denotes $1\times\cdots\times n$ for each positive integer $n$.)
+Solution: We compute that $4!=1\times 2\times 3\times 4 = 2^{3}\times 3=24$. So we want exactly the numbers in the set $\{1,\ldots,24\}$ which are divisible by neither $2$ nor $3$, since an integer $a$ is invertible modulo $n$ for some positive integer $n$ if and only if $\gcd(a,n)=1$. These turn out to be $\{1,5,7,11,13,17,19,23\}$. Then \begin{align*}
+m & \equiv 1\cdot 5\cdot 7\cdot 11\cdot 13\cdot 17\cdot 19\cdot 23\\
+& \equiv 1\cdot 5\cdot 7\cdot 11\cdot (-11)\cdot (-7)\cdot (-5)\cdot (-1)\\
+& \equiv (5\cdot 7\cdot 11)^2\\
+& \equiv (35\cdot 11)^2\\
+& \equiv (11\cdot 11)^2\\
+& \equiv (121)^2\\
+& \equiv 1^2\\
+& \equiv \boxed{1}\pmod {24}
+\end{align*}
+Answer: The answer is 1
+
+
+
+Question: Find $2^{-1} \pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)
+Solution: Since $2 \cdot 93 \equiv 186 \equiv 1 \pmod{185}$, $2^{-1} \equiv \boxed{93} \pmod{185}$.
+Answer: The answer is 93
+
+
+
+Question: What is the remainder when $2007$ is divided by $81$?
+Solution: Dividing using long division, we find that $2007=81\cdot24 + 63$, so the remainder is $\boxed{63}$.
+Answer: The answer is 63

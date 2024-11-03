@@ -1,0 +1,24 @@
+Question: Take the last letters of the words in "Elon Musk" and concatenate them.
+Solution: The last letters of the words in "Elon Musk" are 'n' and 'k'. Concatenating them gives us 'nk'.
+Answer: The answer is nk.
+
+
+
+Question: Take the last letters of the words in "Larry Page" and concatenate them.
+Solution: The solution is to take the last letters of each word in "Larry Page" and concatenate them together.
+Answer: The answer is ye.
+
+
+
+Question: Take the last letters of the words in "Sergey Brin" and concatenate them.
+Solution: The last letters of the words "Sergey Brin" are "y" and "n". Concatenating them gives us "yn".
+Answer: The answer is yn.
+
+
+
+Question: Take the last letters of the words in "Bill Gates" and concatenate them.
+Solution: To solve this problem, we need to extract the last letters of each word in the given phrase and concatenate them together. 
+First, we identify the words in the phrase "Bill Gates" which are "Bill" and "Gates". 
+Next, we take the last letter of each word, which are "l" and "s". 
+Finally, we concatenate these last letters together to get the final answer. 
+Answer: The answer is ls.

@@ -1,0 +1,181 @@
+Strategy:
+1. Understand the problem statement and identify the variables involved.
+2. Translate the problem statement into a mathematical equation or inequality.
+3. Solve the equation or inequality to find the value of the unknown variable.
+4. Check the solution by substituting the value back into the original equation or inequality.
+5. Verify that the solution satisfies any given conditions or constraints.
+6. Compute the probability by dividing the number of favorable outcomes by the number of possible outcomes.
+7. Simplify the probability expression to the lowest terms if necessary.
+8. Use geometric properties or formulas to find the percent or ratio of areas.
+9. Convert the answer to a fraction or decimal if necessary.
+
+Examples:
+Question: Pete thinks of a number. He doubles it, adds 10, multiplies by 4, and ends up with 120. What was his original number?
+Solution:
+1. Understand the problem statement and identify the variables involved.
+   - Pete's original number (unknown variable)
+
+2. Translate the problem statement into a mathematical equation or inequality.
+   - Let x be Pete's original number.
+   - Pete doubles his original number: 2x
+   - Pete adds 10 to the doubled number: 2x + 10
+   - Pete multiplies the sum by 4: 4(2x + 10)
+   - The result is 120: 4(2x + 10) = 120
+
+3. Solve the equation or inequality to find the value of the unknown variable.
+   - Distribute 4 to the terms inside the parentheses: 8x + 40 = 120
+   - Subtract 40 from both sides: 8x = 80
+   - Divide both sides by 8: x = 10
+
+4. Check the solution by substituting the value back into the original equation or inequality.
+   - Substitute x = 10 into the equation: 4(2(10) + 10) = 120
+   - Simplify: 4(20 + 10) = 120
+   - Simplify further: 4(30) = 120
+   - The equation is true, so the solution is correct.
+
+5. Verify that the solution satisfies any given conditions or constraints.
+   - There are no given conditions or constraints in this problem.
+
+6. Compute the probability by dividing the number of favorable outcomes by the number of possible outcomes.
+   - There is no probability involved in this problem.
+
+7. Simplify the probability expression to the lowest terms if necessary.
+   - N/A
+
+8. Use geometric properties or formulas to find the percent or ratio of areas.
+   - N/A
+
+9. Convert the answer to a fraction or decimal if necessary.
+   - N/A
+
+Answer: The answer is 10
+
+
+
+Question: A standard deck of 52 cards has 13 ranks (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) and 4 suits ($\spadesuit$, $\heartsuit$, $\diamondsuit$, and $\clubsuit$), such that there is exactly one card for any given rank and suit.  Two of the suits ($\spadesuit$ and $\clubsuit$) are black and the other two suits ($\heartsuit$ and $\diamondsuit$) are red.  The deck is randomly arranged. What is the probability that the top card is a $\heartsuit$?
+
+Solution:
+1. Understand the problem statement and identify the variables involved.
+   - The problem is asking for the probability of drawing a $\heartsuit$ card as the top card from a standard deck of 52 cards.
+   - The variable involved is the probability.
+
+2. Translate the problem statement into a mathematical equation or inequality.
+   - Let P be the probability of drawing a $\heartsuit$ card as the top card.
+   - P = Number of favorable outcomes / Number of possible outcomes.
+
+3. Solve the equation or inequality to find the value of the unknown variable.
+   - Number of favorable outcomes: There are 13 $\heartsuit$ cards in a deck.
+   - Number of possible outcomes: There are 52 cards in a deck.
+   - P = 13/52.
+
+4. Check the solution by substituting the value back into the original equation or inequality.
+   - P = 13/52 = 1/4.
+
+5. Verify that the solution satisfies any given conditions or constraints.
+   - The solution satisfies the condition that there is exactly one card for any given rank and suit in a standard deck.
+
+6. Compute the probability by dividing the number of favorable outcomes by the number of possible outcomes.
+   - P = 13/52 = 1/4.
+
+7. Simplify the probability expression to the lowest terms if necessary.
+   - P = 1/4.
+
+8. Use geometric properties or formulas to find the percent or ratio of areas.
+   - N/A
+
+9. Convert the answer to a fraction or decimal if necessary.
+   - The answer is 1/4.
+
+
+
+Question: A number in the set $\{50, 51, 52, 53, ... , 999\}$ is randomly selected. What is the probability that it is a two-digit number? Express your answer as a common fraction.
+
+Solution:
+1. Understand the problem statement and identify the variables involved.
+   - The set of numbers: $\{50, 51, 52, 53, ... , 999\}$
+   - The event: selecting a two-digit number
+   - The probability: the likelihood of selecting a two-digit number
+
+2. Translate the problem statement into a mathematical equation or inequality.
+   - We need to find the probability of selecting a two-digit number from the given set.
+
+3. Solve the equation or inequality to find the value of the unknown variable.
+   - The set contains numbers from 50 to 999, inclusive.
+   - To find the number of two-digit numbers in the set, we subtract the number of one-digit numbers and three-digit numbers from the total number of numbers in the set.
+   - The number of one-digit numbers: 9 (from 1 to 9)
+   - The number of three-digit numbers: 900 (from 100 to 999)
+   - Total number of numbers in the set: 999 - 50 + 1 = 950
+   - Number of two-digit numbers: 950 - 9 - 900 = 41
+
+4. Check the solution by substituting the value back into the original equation or inequality.
+   - The number of two-digit numbers is 41.
+
+5. Verify that the solution satisfies any given conditions or constraints.
+   - The solution satisfies the condition of finding the number of two-digit numbers in the given set.
+
+6. Compute the probability by dividing the number of favorable outcomes by the number of possible outcomes.
+   - Number of favorable outcomes (two-digit numbers): 41
+   - Number of possible outcomes (total numbers in the set): 950
+   - Probability = 41/950
+
+7. Simplify the probability expression to the lowest terms if necessary.
+   - The probability is already in its simplest form.
+
+8. Use geometric properties or formulas to find the percent or ratio of areas.
+   - Not applicable to this problem.
+
+9. Convert the answer to a fraction or decimal if necessary.
+   - The probability is 41/950.
+
+Answer: The answer is $\frac{41}{950}$
+
+
+
+Question: A pentagon is drawn by placing an isosceles right triangle on top of a square as pictured. What percent of the area of the pentagon is the area of the right triangle?
+
+[asy]
+size(50);
+draw((0,0)--(0,-1)--(1,-1)--(1,0)--(0,0)--(.5,.5)--(1,0));
+[/asy]
+
+Solution:
+1. Understand the problem statement and identify the variables involved.
+   - The problem involves finding the percent of the area of the pentagon that is occupied by the right triangle.
+   - Variables: area of the pentagon, area of the right triangle, percent of the area.
+
+2. Translate the problem statement into a mathematical equation or inequality.
+   - Let A_pentagon be the area of the pentagon.
+   - Let A_triangle be the area of the right triangle.
+   - We need to find the percent of A_triangle in A_pentagon.
+
+3. Solve the equation or inequality to find the value of the unknown variable.
+   - The area of the pentagon is equal to the sum of the areas of the square and the right triangle.
+   - The area of the square is equal to the side length squared.
+   - The area of the right triangle is equal to half the product of the lengths of the two equal sides.
+   - Let s be the side length of the square.
+   - Let a be the length of the equal sides of the right triangle.
+   - The area of the pentagon is A_pentagon = s^2 + (1/2)(a^2).
+   - The area of the right triangle is A_triangle = (1/2)(a^2).
+   - The percent of A_triangle in A_pentagon is (A_triangle / A_pentagon) * 100.
+
+4. Check the solution by substituting the value back into the original equation or inequality.
+   - No specific values are given in the problem, so we cannot check the solution with actual numbers.
+
+5. Verify that the solution satisfies any given conditions or constraints.
+   - No specific conditions or constraints are given in the problem.
+
+6. Compute the probability by dividing the number of favorable outcomes by the number of possible outcomes.
+   - There is no probability involved in this problem.
+
+7. Simplify the probability expression to the lowest terms if necessary.
+   - There is no probability involved in this problem.
+
+8. Use geometric properties or formulas to find the percent or ratio of areas.
+   - The area of the pentagon is equal to the sum of the areas of the square and the right triangle.
+   - The area of the right triangle is half the product of the lengths of the two equal sides.
+   - The percent of the area of the right triangle in the pentagon is (A_triangle / A_pentagon) * 100.
+
+9. Convert the answer to a fraction or decimal if necessary.
+   - The answer will be in the form of a percentage.
+
+Answer: The answer is 20.

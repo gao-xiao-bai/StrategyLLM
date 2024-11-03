@@ -1,0 +1,7 @@
+We show you several task examples of how to generate solutions. Please develop a general strategy that consists of a sequence of subtasks to solve the task and apply the strategy to the following question to obtain its solution and answer.
+Question: [QUESTION]
+The result must be in the following format:
+Strategy: Strategy employed to solve the task
+Question: Provided question
+Solution: Solution obtained by applying the strategy to the question
+Answer: Answer to the question, which must include the string 'The answer is '

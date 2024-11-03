@@ -1,0 +1,89 @@
+Question: Two sectors of a circle of radius $12$ overlap as shown, with $P$ and $R$ as the centers of the respective circles. Determine the area of the shaded region.
+
+Solution: To find the area of the shaded region, we need to find the area of the two sectors and subtract the area of the triangle formed by the centers of the circles.
+
+The area of a sector of a circle is given by the formula $A = \frac{\theta}{360^\circ} \pi r^2$, where $\theta$ is the central angle of the sector and $r$ is the radius of the circle.
+
+In this case, each sector has a central angle of $60^\circ$ and a radius of $12$. So the area of each sector is $A = \frac{60}{360} \pi (12)^2 = 24\pi$.
+
+The triangle formed by the centers of the circles is an equilateral triangle with side length $12$. The area of an equilateral triangle is given by the formula $A = \frac{\sqrt{3}}{4} s^2$, where $s$ is the length of a side.
+
+So the area of the triangle is $A = \frac{\sqrt{3}}{4} (12)^2 = 36\sqrt{3}$.
+
+To find the area of the shaded region, we subtract the area of the triangle from the sum of the areas of the two sectors: $A_{\text{shaded}} = 2(24\pi) - 36\sqrt{3} = 48\pi - 36\sqrt{3}$.
+
+Answer: The answer is $48\pi - 36\sqrt{3}$.
+
+
+
+Question: The square with vertices $(-a, -a), (a, -a), (-a, a), (a, a)$ is cut by the line $y = x/2$ into congruent quadrilaterals.  The perimeter of one of these congruent quadrilaterals divided by $a$ equals what?  Express your answer in simplified radical form.
+
+Solution: To find the perimeter of one of the congruent quadrilaterals, we need to determine the length of each side. Let's consider one of the quadrilaterals formed by the square and the line $y = x/2$.
+
+First, let's find the points of intersection between the square and the line. Setting $y = x/2$, we can substitute this into the equation of the square to find the x-coordinates of the intersection points:
+
+$(-a) = x/2 \implies x = -2a$
+$(a) = x/2 \implies x = 2a$
+
+So the intersection points are $(-2a, -a)$ and $(2a, a)$.
+
+Next, let's find the length of one side of the quadrilateral. We can use the distance formula between the two intersection points:
+
+$\sqrt{((-2a) - (2a))^2 + ((-a) - (a))^2} = \sqrt{(-4a)^2 + (-2a)^2} = \sqrt{16a^2 + 4a^2} = \sqrt{20a^2} = 2a\sqrt{5}$
+
+Since the quadrilaterals are congruent, all four sides have the same length of $2a\sqrt{5}$.
+
+Therefore, the perimeter of one quadrilateral is $4(2a\sqrt{5}) = 8a\sqrt{5}$.
+
+To find the answer, we divide the perimeter by $a$:
+
+$\frac{8a\sqrt{5}}{a} = 8\sqrt{5}$
+
+Answer: The answer is $8+\sqrt{5}$
+
+
+
+Question: A right circular cylinder with radius 2 is inscribed in a hemisphere with radius 5 so that its bases are parallel to the base of the hemisphere. What is the height of this cylinder?
+Solution: 
+
+Let's first visualize the problem. We have a hemisphere with radius 5, and a right circular cylinder inscribed inside it. The bases of the cylinder are parallel to the base of the hemisphere.
+
+To find the height of the cylinder, we need to find the distance between the two bases of the cylinder.
+
+Let's consider a cross-section of the hemisphere and the inscribed cylinder. We can see that the cross-section is a semicircle with radius 5, and the inscribed cylinder is a rectangle with height h (the height we want to find) and width 2r (twice the radius of the cylinder).
+
+Using the Pythagorean theorem, we can find the height of the cylinder:
+
+h^2 + r^2 = (2r)^2
+h^2 + 4 = 4r^2
+h^2 = 4r^2 - 4
+h^2 = 4(r^2 - 1)
+h = sqrt(4(r^2 - 1))
+h = 2sqrt(r^2 - 1)
+
+Substituting the given radius of the cylinder (r = 2), we can find the height:
+
+h = 2sqrt(2^2 - 1)
+h = 2sqrt(4 - 1)
+h = 2sqrt(3)
+h = sqrt(12)
+
+Answer: The answer is sqrt(12)
+
+
+
+Question: Parallelogram $ABCD$ with $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$ is reflected across the $x$-axis to $A'B'C'D'$ and then $A'B'C'D'$ is reflected across the line $y=x+1$ to $A''B''C''D''$. This is done such that $D'$ is the image of $D$, and $D''$ is the image of $D'$. What is the ordered pair of $D''$ in the coordinate plane?
+Solution: 
+To find the image of point $D$ after reflecting across the $x$-axis, we need to change the sign of the $y$-coordinate. Since the $y$-coordinate of $D$ is $1$, the $y$-coordinate of $D'$ will be $-1$. Therefore, the coordinates of $D'$ are $(4, -1)$.
+
+Next, we need to find the image of $D'$ after reflecting across the line $y=x+1$. To do this, we need to find the equation of the line perpendicular to $y=x+1$ that passes through $D'$. The slope of the line $y=x+1$ is $1$, so the slope of the perpendicular line is $-1$. Using the point-slope form of a line, we can write the equation of the perpendicular line as $y-(-1)=-1(x-4)$, which simplifies to $y=-x+3$.
+
+To find the intersection point of the perpendicular line and the line $y=x+1$, we can solve the system of equations:
+$y=x+1$
+$y=-x+3$
+
+Solving this system, we find that the intersection point is $(1,2)$.
+
+Since $D'$ is reflected across the line $y=x+1$, the image of $D'$, which is $D''$, will be the same distance from the line $y=x+1$ as $D'$, but on the opposite side. Therefore, the coordinates of $D''$ will be the reflection of $(4, -1)$ across the line $y=x+1$, which is $(2, 1)$.
+
+Answer: The answer is (-2,5)

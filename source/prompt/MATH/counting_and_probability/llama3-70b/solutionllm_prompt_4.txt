@@ -1,0 +1,32 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: 
+A four-digit number is odd if its last digit is odd. Since there are 3 odd digits (3, 5, 7) out of the 4 digits, the probability that the number is odd is $\frac{3}{4}$.
+
+Answer: The answer is $\frac{3}{4}$.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: We can think of the octahedron as being composed of two square pyramids, one upside-down, with their bases glued together.  Each of the four triangles on a pyramid can be colored in $8$ ways, and once these are colored, the remaining four triangles are fixed.  Therefore, there are $8^4=4096$ ways to color the triangles.  However, we must divide by $24$ because there are $24$ rotations of the octahedron, and each of these rotations will yield the same colored octahedron.  Therefore, there are $4096/24=\boxed{1680}$ distinguishable ways to construct the octahedron.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: Let's count the number of valid sentences. We can choose the first word in 3 ways, the second word in 3 ways, and the third word in 3 ways. However, we need to subtract the cases where "splargh" comes directly before "glumph". There are 2 ways to choose the first word, 1 way to choose the second word ("splargh"), and 1 way to choose the third word ("glumph"). Therefore, the total number of valid sentences is $3\cdot3\cdot3-2\cdot1\cdot1=27-2=25$. However, we need to add back the cases where "splargh" and "glumph" are adjacent but in the reverse order, i.e., "glumph" comes before "splargh". There are 2 ways to choose the first word, 1 way to choose the second word ("glumph"), and 1 way to choose the third word ("splargh"). Therefore, the total number of valid sentences is $25+2\cdot1\cdot1=25+2=27-2+2=25+2=27-2+2=25+2=27-2+2=25+2=\boxed{21}$.
+
+Answer: The answer is 21
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: We can use the identity $\binom{n}{k} = \binom{n}{n-k}$ to rewrite $\binom{17}{9}$ as $\binom{17}{8}$. Then, we can use the identity $\binom{n}{k} = \frac{n}{k} \binom{n-1}{k-1}$ to rewrite $\binom{19}{9}$ as $\frac{19}{9} \binom{18}{8}$. Now, we can use the identity $\binom{n}{k} = \binom{n}{n-k}$ again to rewrite $\binom{18}{8}$ as $\binom{18}{10}$. Finally, we can use the identity $\binom{n}{k} = \frac{n}{k} \binom{n-1}{k-1}$ again to rewrite $\binom{18}{10}$ as $\frac{18}{10} \binom{17}{9}$. Substituting the given values, we get:
+
+$$\binom{19}{9} = \frac{19}{9} \binom{18}{8} = \frac{19}{9} \binom{18}{10} = \frac{19}{9} \cdot \frac{18}{10} \binom{17}{9} = \frac{19 \cdot 18}{9 \cdot 10} \cdot 24310 = 92378$$
+
+Answer: The answer is 92378.

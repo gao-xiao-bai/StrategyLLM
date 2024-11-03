@@ -1,0 +1,74 @@
+Strategy:
+1. Identify the given arithmetic problem.
+2. Determine the order of operations in the problem (PEMDAS/BODMAS). This means solving operations inside Parentheses first, followed by Exponents/Orders (squaring and square roots, etc.), Multiplication and Division from left to right, and Addition and Subtraction from left to right.
+3. Break down the problem into smaller parts, based on the order of operations. Group operations to be performed together.
+4. Calculate the value of each smaller part incrementally, moving step-by-step from the innermost parentheses outwards.
+5. Keep solving for each part of the problem, upholding the order of operations, removing parentheses and simplifying the problem further.
+6. Continue until the entire problem has been solved. If the problem is long or complex, it may require several rounds of simplification.
+7. Finalize the answer and check the answer for any calculation or interpretation errors.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Identify the given arithmetic problem: The given arithmetic problem is ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)).
+2. Determine the order of operations: According to PEMDAS/BODMAS, we need to solve operations inside Parentheses first, followed by Multiplication and Division from left to right, and Addition and Subtraction from left to right.
+3. Break down the problem into smaller parts:
+   - First, solve the multiplication inside the first parentheses: 9 * -4 = -36.
+   - Next, solve the addition and subtraction inside the first parentheses: -5 + (-36) - 0 = -41.
+   - Then, solve the multiplication inside the second parentheses: 0 * -5 = 0.
+   - Finally, solve the addition and subtraction inside the second parentheses: 4 + (-7) + 0 = -3.
+4. Calculate the value of each smaller part incrementally:
+   - The value inside the first parentheses is -41.
+   - The value inside the second parentheses is -3.
+5. Keep solving for each part of the problem:
+   - Multiply the values from the first and second parentheses: -41 * -3 = 123.
+6. Continue until the entire problem has been solved: The entire problem has been solved in the previous step.
+7. Finalize the answer and check for any calculation or interpretation errors: The final answer is 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. Identify the given arithmetic problem: The problem is ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)).
+2. Determine the order of operations: According to PEMDAS/BODMAS, we need to solve operations inside Parentheses first, followed by Exponents/Orders, Multiplication and Division from left to right, and Addition and Subtraction from left to right.
+3. Break down the problem into smaller parts:
+   - First, solve the multiplication inside the first parentheses: (-9 * 7 * 7 * -9).
+   - Second, solve the multiplication and subtraction inside the second parentheses: (4 * -9 - 8 - -4).
+4. Calculate the value of each smaller part:
+   - For the first part: (-9 * 7 * 7 * -9) = 441 * -9 = -3969.
+   - For the second part: (4 * -9 - 8 - -4) = (-36 - 8 + 4) = -40.
+5. Solve for the entire problem:
+   - Now, add the results of the two parts: -3969 + (-40) = -3969 - 40 = -4009.
+6. Finalize the answer: The answer is -4009.
+
+Answer: The answer is -4009.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. Identify the given arithmetic problem: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9))
+2. Determine the order of operations (PEMDAS/BODMAS):
+   - Parentheses: (-3 + 5 * 8 * -4) and (9 - 8 * -7 + -9)
+   - Multiplication: 5 * 8 * -4 and 8 * -7
+   - Addition and Subtraction: -3 + (result of multiplication), 9 - (result of multiplication), and (result of first parentheses) - (result of second parentheses)
+3. Break down the problem into smaller parts:
+   - First parentheses: -3 + 5 * 8 * -4
+     - Multiplication: 5 * 8 * -4 = 40 * -4 = -160
+     - Addition: -3 + (-160) = -163
+   - Second parentheses: 9 - 8 * -7 + -9
+     - Multiplication: 8 * -7 = -56
+     - Subtraction: 9 - (-56) = 9 + 56 = 65
+     - Addition: 65 + (-9) = 56
+4. Calculate the value of each smaller part incrementally:
+   - First parentheses: -163
+   - Second parentheses: 56
+5. Solve for the entire problem:
+   - Subtraction: -163 - 56 = -219
+
+Answer: The answer is -219.

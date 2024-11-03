@@ -1,0 +1,110 @@
+Strategy:
+Strategy to solve the last letter concatenation problem:
+
+1. Read the input string.
+2. Initialize an empty string to store the concatenation of the last letters.
+3. Split the input string into individual words.
+4. Iterate over each word in the split string.
+5. Get the last letter of the current word.
+6. Concatenate the last letter to the previously obtained concatenation string.
+7. Repeat steps 5-6 for all words in the input string.
+8. Print the final concatenation string as the answer.
+
+Examples:
+Question: Take the last letters of the words in "Elon Musk" and concatenate them.
+Solution:
+1. Read the input string.
+   - Input: "Elon Musk"
+2. Initialize an empty string to store the concatenation of the last letters.
+   - Concatenation: ""
+3. Split the input string into individual words.
+   - Split: ["Elon", "Musk"]
+4. Iterate over each word in the split string.
+   - Current word: "Elon"
+   - Current word: "Musk"
+5. Get the last letter of the current word.
+   - Last letter: "n"
+   - Last letter: "k"
+6. Concatenate the last letter to the previously obtained concatenation string.
+   - Concatenation: "n"
+   - Concatenation: "nk"
+7. Repeat steps 5-6 for all words in the input string.
+8. Print the final concatenation string as the answer.
+   - Answer: "The answer is nk"
+
+Answer: The answer is nk.
+
+
+
+Question: Take the last letters of the words in "Larry Page" and concatenate them.
+Solution:
+1. Read the input string.
+   - Input: "Larry Page"
+2. Initialize an empty string to store the concatenation of the last letters.
+   - Concatenation: ""
+3. Split the input string into individual words.
+   - Split: ["Larry", "Page"]
+4. Iterate over each word in the split string.
+   - Current word: "Larry"
+   - Current word: "Page"
+5. Get the last letter of the current word.
+   - Last letter: "y"
+   - Last letter: "e"
+6. Concatenate the last letter to the previously obtained concatenation string.
+   - Concatenation: "y"
+   - Concatenation: "ye"
+7. Repeat steps 5-6 for all words in the input string.
+8. Print the final concatenation string as the answer.
+   - Answer: "The answer is ye"
+
+Answer: The answer is ye.
+
+
+
+Question: Take the last letters of the words in "Sergey Brin" and concatenate them.
+Solution:
+1. Read the input string.
+   - Input: "Sergey Brin"
+2. Initialize an empty string to store the concatenation of the last letters.
+   - Concatenation: ""
+3. Split the input string into individual words.
+   - Split: ["Sergey", "Brin"]
+4. Iterate over each word in the split string.
+   - Current word: "Sergey"
+   - Current word: "Brin"
+5. Get the last letter of the current word.
+   - Last letter: "y"
+   - Last letter: "n"
+6. Concatenate the last letter to the previously obtained concatenation string.
+   - Concatenation: "y"
+   - Concatenation: "yn"
+7. Repeat steps 5-6 for all words in the input string.
+8. Print the final concatenation string as the answer.
+   - Answer: "The answer is yn"
+
+Answer: The answer is yn.
+
+
+
+Question: Take the last letters of the words in "Bill Gates" and concatenate them.
+Solution:
+1. Read the input string.
+   - Input: "Bill Gates"
+2. Initialize an empty string to store the concatenation of the last letters.
+   - Concatenation: ""
+3. Split the input string into individual words.
+   - Split: ["Bill", "Gates"]
+4. Iterate over each word in the split string.
+   - Current word: "Bill"
+   - Current word: "Gates"
+5. Get the last letter of the current word.
+   - Last letter of "Bill": "l"
+   - Last letter of "Gates": "s"
+6. Concatenate the last letter to the previously obtained concatenation string.
+   - Concatenation: "l"
+   - Concatenation: "ls"
+7. Repeat steps 5-6 for all words in the input string.
+8. Print the final concatenation string as the answer.
+   - Answer: The answer is "ls"
+
+Answer: The answer is ls.

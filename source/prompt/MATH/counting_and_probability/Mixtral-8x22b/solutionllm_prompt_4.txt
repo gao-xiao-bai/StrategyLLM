@@ -1,0 +1,61 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: To form an odd number, the unit digit must be either 3, 5, or 7. There are 3 favorable outcomes for the unit digit. Since the digits are arranged randomly, there are 4 choices for the first digit, 3 choices for the second digit, 2 choices for the third digit, and 1 choice for the fourth digit. Therefore, there are a total of 4 × 3 × 2 × 1 = 24 possible outcomes. Out of these, 3 × 3 × 2 × 1 = 18 outcomes result in an odd number (since there are 3 choices for the unit digit and 3 choices for each of the other digits). Thus, the probability of forming an odd number is the number of favorable outcomes divided by the total number of outcomes, which is 18/24. Simplifying this fraction gives us 3/4.
+
+Answer: The answer is \frac{3}{4}
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: To solve this problem, we can use the Polya Enumeration Theorem. The symmetry group of the octahedron is $S_4$, the symmetric group on 4 elements, which has order 24. The cycle index of $S_4$ is:
+
+\[P(x_1, x_2, x_3, x_4) = \frac{1}{24}(x_1^4 + 6x_1^2x_2 + 3x_2^2 + 8x_1x_3 + 6x_4)\]
+
+Since we have 8 colors, we substitute $x_i = 8$ for $i = 1, 2, 3, 4$ into the cycle index to get the number of distinguishable colorings:
+
+\[P(8, 8, 8, 8) = \frac{1}{24}(8^4 + 6 \cdot 8^2 \cdot 8 + 3 \cdot 8^2 + 8 \cdot 8 \cdot 8 + 6 \cdot 8) = 1680\]
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, "splargh," "glumph," and "amr." In a sentence, "splargh" cannot come directly before "glumph"; all other sentences are grammatically correct (including sentences with repeated words). How many valid 3-word sentences are there in Gnollish?
+
+Solution: To find the number of valid 3-word sentences in Gnollish, we can consider the possible arrangements of the words while avoiding the invalid combination of "splargh" followed by "glumph."
+
+First, let's find the total number of possible 3-word sentences without any restrictions. Since there are 3 words and each word can be used in any of the three positions, the total number of sentences is 3^3 = 27.
+
+Now, let's find the number of invalid sentences where "splargh" is followed by "glumph." There are 2 positions where "splargh" can be placed (first or second), and for each of these positions, there is only 1 valid position for "glumph" (immediately after "splargh"). The third word can be any of the 3 words, so there are 2 * 1 * 3 = 6 invalid sentences.
+
+To find the number of valid sentences, we subtract the number of invalid sentences from the total number of sentences: 27 - 6 = 21.
+
+Therefore, there are 21 valid 3-word sentences in Gnollish.
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: To find $\binom{19}{9}$, we can use the identity $\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$. This identity allows us to express a binomial coefficient in terms of two smaller binomial coefficients.
+
+Starting with $\binom{19}{9}$, we can apply the identity twice:
+
+$\binom{19}{9} = \binom{18}{8} + \binom{18}{9}$
+
+Now, we can apply the identity again to $\binom{18}{8}$ and $\binom{18}{9}$:
+
+$\binom{18}{8} = \binom{17}{7} + \binom{17}{8}$
+$\binom{18}{9} = \binom{17}{8} + \binom{17}{9}$
+
+Substituting the given values for $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$, we get:
+
+$\binom{18}{8} = 19448 + 24310 = 43758$
+$\binom{18}{9} = 24310 + 24310 = 48620$
+
+Now, we can find $\binom{19}{9}$:
+
+$\binom{19}{9} = \binom{18}{8} + \binom{18}{9} = 43758 + 48620 = 92378$
+
+Answer: The answer is 92378.

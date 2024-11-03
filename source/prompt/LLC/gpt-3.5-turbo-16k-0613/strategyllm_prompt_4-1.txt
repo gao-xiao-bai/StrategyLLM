@@ -1,0 +1,82 @@
+Strategy:
+1. Identify the given input, which will be a string containing multiple words separated by spaces.
+2. Split the input string into individual words.
+3. Initialize an empty string to store the last letters of the words.
+4. Iterate through each word in the list of words.
+5. Get the last letter of each word.
+6. Concatenate the last letter to the string from step 3.
+7. Continue steps 4-6 until all words have been processed.
+8. Print or return the final concatenated string.
+
+Examples:
+Question: Take the last letters of the words in "Elon Musk" and concatenate them.
+Solution:
+1. Identify the given input: "Elon Musk"
+2. Split the input string into individual words: ["Elon", "Musk"]
+3. Initialize an empty string: last_letters = ""
+4. Iterate through each word in the list of words:
+   - For the word "Elon":
+     - Get the last letter: last_letter = "n"
+     - Concatenate the last letter to last_letters: last_letters = "n"
+   - For the word "Musk":
+     - Get the last letter: last_letter = "k"
+     - Concatenate the last letter to last_letters: last_letters = "nk"
+5. Continue steps 4-6 until all words have been processed.
+6. Print or return the final concatenated string: "nk"
+
+Answer: The answer is nk.
+
+
+
+Question: Take the last letters of the words in "Larry Page" and concatenate them.
+Solution:
+1. Identify the given input: "Larry Page"
+2. Split the input string into individual words: ["Larry", "Page"]
+3. Initialize an empty string: last_letters = ""
+4. Iterate through each word in the list of words:
+   - For the word "Larry":
+     - Get the last letter: last_letter = "y"
+     - Concatenate the last letter to the string: last_letters = "y"
+   - For the word "Page":
+     - Get the last letter: last_letter = "e"
+     - Concatenate the last letter to the string: last_letters = "ye"
+5. Continue steps 4-6 until all words have been processed.
+6. Print or return the final concatenated string.
+
+Answer: The answer is ye.
+
+
+
+Question: Take the last letters of the words in "Sergey Brin" and concatenate them.
+Solution:
+1. Identify the given input: "Sergey Brin"
+2. Split the input string into individual words: ["Sergey", "Brin"]
+3. Initialize an empty string: last_letters = ""
+4. Iterate through each word in the list of words:
+   - For the word "Sergey":
+     - Get the last letter: last_letter = "y"
+     - Concatenate the last letter to the string: last_letters = "y"
+   - For the word "Brin":
+     - Get the last letter: last_letter = "n"
+     - Concatenate the last letter to the string: last_letters = "yn"
+5. Print or return the final concatenated string.
+
+Answer: The answer is yn.
+
+
+
+Question: Take the last letters of the words in "Bill Gates" and concatenate them.
+Solution:
+1. Identify the given input: "Bill Gates"
+2. Split the input string into individual words: ["Bill", "Gates"]
+3. Initialize an empty string: last_letters = ""
+4. Iterate through each word in the list of words:
+   - For the word "Bill":
+     - Get the last letter: last_letter = "l"
+     - Concatenate the last letter to last_letters: last_letters = "l"
+   - For the word "Gates":
+     - Get the last letter: last_letter = "s"
+     - Concatenate the last letter to last_letters: last_letters = "ls"
+5. Print or return the final concatenated string: "ls"
+
+Answer: The answer is ls.

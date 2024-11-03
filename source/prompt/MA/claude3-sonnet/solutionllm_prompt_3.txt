@@ -1,0 +1,40 @@
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+Step 1: Evaluate the expression inside the first parentheses
+(-5 + 9 * -4 - 0) = (-5 + (-36) - 0) = (-5 - 36) = -41
+
+Step 2: Evaluate the expression inside the second parentheses
+(4 + -7 + 0 * -5) = (4 - 7 + 0) = (4 - 7) = -3
+
+Step 3: Multiply the results from Step 1 and Step 2
+(-41) * (-3) = 123
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+(-9 * 7 * 7 * -9) = (-9 * 49 * -9) = (-441 * -9) = 3969
+(4 * -9 - 8 - -4) = (-36 - 8 + 4) = -40
+3969 + (-40) = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+Step 1: Evaluate the expression inside the first parentheses
+(-3 + 5 * 8 * -4) = (-3 + (-160)) = -163
+
+Step 2: Evaluate the expression inside the second parentheses
+(9 - 8 * -7 + -9) = (9 - (-56) + -9) = (9 + 56 - 9) = 56
+
+Step 3: Subtract the second expression from the first expression
+-163 - 56 = -219
+
+Answer: The answer is -219.

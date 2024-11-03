@@ -1,0 +1,21 @@
+Question: Let $x$ be a positive integer such that $9x\equiv 1\pmod{25}$.
+
+What is the remainder when $11+x$ is divided by $25$?
+Answer: The answer is 0
+
+
+
+Question: Let $m$ be the product of all positive integers less than $4!$ which are invertible modulo $4!$. Find the remainder when $m$ is divided by $4!$.
+
+(Here $n!$ denotes $1\times\cdots\times n$ for each positive integer $n$.)
+Answer: The answer is 1
+
+
+
+Question: Find $2^{-1} \pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)
+Answer: The answer is 93
+
+
+
+Question: What is the remainder when $2007$ is divided by $81$?
+Answer: The answer is 63

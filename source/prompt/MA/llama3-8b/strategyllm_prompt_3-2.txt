@@ -1,0 +1,127 @@
+Strategy:
+Here is a general strategy to solve multi-step arithmetic problems:
+
+1. **Separate the problem into smaller expressions**: Break down the problem into smaller, manageable expressions using parentheses, if necessary. This will help to avoid confusion and ensure accurate evaluation of the problem.
+
+2. **Evaluate expressions inside parentheses**: Evaluate each expression inside parentheses first, working from the innermost to the outermost. This will help to simplify the problem and reduce the number of calculations required.
+
+3. **Follow order of operations (PEMDAS)**: Once expressions inside parentheses have been evaluated, follow the order of operations (PEMDAS): parentheses, exponents, multiplication and division, and addition and subtraction.
+
+4. **Simplify expressions**: Simplify each expression by combining like terms and evaluating any additional calculations.
+
+5. **Repeat steps 2-4**: Continue evaluating expressions inside parentheses, following the order of operations, and simplifying until the problem has been fully evaluated.
+
+6. **Check your answer**: Verify that the final answer is reasonable and accurate by checking your calculations and plugging in known values.
+
+By following these subtasks in this order, you can systematically solve multi-step arithmetic problems and arrive at the correct solution.
+
+Examples:
+Here is the step-by-step solution to the example:
+
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+
+Step 1: Separate the problem into smaller expressions
+(((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Step 2: Evaluate expressions inside parentheses
+(-5 + 9 * -4 - 0) = ? (evaluate the expression inside the innermost parentheses)
+9 * -4 = -36
+-5 + (-36) - 0 = -41
+
+So, (-5 + 9 * -4 - 0) = -41
+
+Now, evaluate the expression inside the outermost parentheses:
+(-41) * (4 + -7 + 0 * -5) = ?
+
+Step 3: Evaluate expressions inside parentheses
+4 + -7 + 0 * -5 = ? (evaluate the expression inside the innermost parentheses)
+0 * -5 = 0
+4 + -7 + 0 = -3
+
+So, 4 + -7 + 0 * -5 = -3
+
+Now, multiply -41 by -3:
+(-41) * (-3) = 123
+
+Step 4: Simplify expressions
+No further simplification is needed.
+
+Step 5: Repeat steps 2-4
+No further calculations are needed.
+
+Step 6: Check your answer
+The final answer is 123, which is reasonable and accurate.
+
+Answer: The answer is 123.
+
+
+
+Here is the step-by-step solution to the example:
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+
+Step 1: Separate the problem into smaller expressions
+(-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)
+
+Step 2: Evaluate expressions inside parentheses
+(-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4) = ?
+
+First, evaluate the expression inside the innermost parentheses:
+4 * -9 = -36
+-36 - 8 = -44
+-44 - -4 = -40
+
+So, the expression becomes:
+(-9 * 7 * 7 * -9) + (-40)
+
+Step 3: Follow order of operations (PEMDAS)
+Evaluate the expression inside the outermost parentheses:
+-9 * 7 = -63
+-63 * 7 = -441
+-441 * -9 = 3969
+
+Now, the expression becomes:
+3969 + (-40)
+
+Step 4: Simplify expressions
+3969 + (-40) = 3929
+
+Step 5: Repeat steps 2-4
+No further simplification is possible.
+
+Step 6: Check your answer
+The final answer is 3929, which is reasonable and accurate.
+
+Answer: The answer is 3929.
+
+
+
+Here is the step-by-step solution to the example:
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+
+Step 1: Separate the problem into smaller expressions
+(-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)
+
+Step 2: Evaluate expressions inside parentheses
+(-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9) = (-3 + 5 * (-32)) - (9 + 56 + -9)
+
+Step 3: Follow order of operations (PEMDAS)
+(-3 + 5 * (-32)) - (9 + 56 + -9) = (-3 + -160) - (9 + 56 + -9)
+
+Step 4: Simplify expressions
+(-3 + -160) - (9 + 56 + -9) = -163 - (9 + 56 + -9)
+
+Step 5: Simplify expressions
+-163 - (9 + 56 + -9) = -163 - 56 - 9
+
+Step 6: Simplify expressions
+-163 - 56 - 9 = -228
+
+Answer: The answer is -219.

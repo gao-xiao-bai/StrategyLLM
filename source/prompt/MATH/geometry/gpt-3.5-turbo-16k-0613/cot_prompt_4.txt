@@ -1,0 +1,89 @@
+Question: Two sectors of a circle of radius $12$ overlap as shown, with $P$ and $R$ as the centers of the respective circles. Determine the area of the shaded region.
+
+[asy]
+draw((0,0)--(10.3923,-6)--(20.7846,0)--(10.3923,6)--cycle,black+linewidth(1));
+filldraw((10.3923,6)..(12,0)..(10.3923,-6)--cycle,gray,black+linewidth(1));
+filldraw((10.3923,6)..(8.7846,0)..(10.3923,-6)--cycle,gray,black+linewidth(1));
+label("$P$",(0,0),W);
+label("$Q$",(10.3923,6),N);
+label("$R$",(20.7846,0),E);
+label("$S$",(10.3923,-6),S);
+label("$60^\circ$",(0,0),2E);
+label("$60^\circ$",(20.7846,0),2W);
+[/asy]
+Solution: By symmetry, the areas of the two parts of the shaded region are equal. Consider the right part of the shaded region and the left triangle.
+
+[asy]
+draw((0,0)--(10.3923,-6)--(10.3923,6)--cycle,black+linewidth(1));
+filldraw((10.3923,6)..(12,0)..(10.3923,-6)--cycle,gray,black+linewidth(1));
+draw((0,0)--(10.3923,0),black+linewidth(1));
+draw((10.3923,0)--(9.3923,0)--(9.3923,1)--(10.3923,1),black+linewidth(1));
+label("$P$",(0,0),W);
+label("$Q$",(10.3923,6),N);
+label("$S$",(10.3923,-6),S);
+label("$Z$",(10.3923,0),SW);
+[/asy]
+
+The shaded area is equal to the area of sector $PQS$ minus the area of triangle $PQS.$
+
+Since $\angle PQS = 60^\circ$ and $PQ = 12,$ the area of sector $PQS$ is
+\[\frac{1}{6} \cdot 12^2 \cdot \pi = 24 \pi.\]Also, triangle $PQS$ is equilateral with side length 12, so its area is
+\[\frac{\sqrt{3}}{4} \cdot 12^2 = 36 \sqrt{3}.\]Thus, the area of the right part of the shaded region is $24\pi - 36\sqrt{3},$ so the area of the entire shaded region is $$2(24\pi-36\sqrt{3})=\boxed{48\pi-72\sqrt{3}}.$$
+Answer: The answer is 48\pi-72\sqrt{3}
+
+
+
+Question: The square with vertices $(-a, -a), (a, -a), (-a, a), (a, a)$ is cut by the line $y = x/2$ into congruent quadrilaterals.  The perimeter of one of these congruent quadrilaterals divided by $a$ equals what?  Express your answer in simplified radical form.
+Solution: The line $y=\frac x2$ will intersect the two vertical sides of the square, as shown below:
+[asy]
+real f(real x)
+{
+
+return x/2;
+}
+
+import graph;
+size(6cm);
+real a = 8;
+pair A=(-a,a), B=(a,a), C=(a,-a), D=(-a,-a);
+draw(A--B--C--D--cycle);
+draw(graph(f,-11,11),Arrows);
+axes(Arrows(4));
+dot("$(-a,a)$",A,N);
+dot("$(a,a)$",B,N);
+dot("$(a,-a)$",C,S);
+dot("$(-a,-a)$",D,S);
+real eps=0.2;
+dot((8,4)^^(-8,-4));
+draw(shift((10,0))*"$2a$",(-a+eps,-a/2-.5)--(a-eps,-a/2-.5),Arrows);
+draw(shift((0,10))*"$a$",(a+2*eps,-a/2)--(a+2*eps,a/2),Arrows);[/asy]
+The equation of the right side of the square is $x=a,$ so we have $y= \frac x2 = \frac a2,$ which means that the intersection point with the right side of the square is $\left(a, \frac a2 \right).$ Similarly, the equation of the left side of the square is $x=-a,$ so we have $y= \frac x2 = -\frac a2,$ which means that the intersection point with the left side of the square is $\left(-a, -\frac a2 \right).$ It follows that the sides of each quadrilateral have lengths $\frac a2,$ $2a,$ $\frac{3a}2,$ and $\sqrt{a^2 + (2a)^2} = a\sqrt{5},$ by the Pythagorean theorem. Hence, the perimeter of the quadrilateral is \[\frac a2 + 2a + \frac{3a}2 + a\sqrt{5} = \left(4+\sqrt5\right)a,\]and when this is divided by $a,$ we get $\boxed{4+\sqrt{5}}.$
+Answer: The answer is 4+\sqrt{5}
+
+
+
+Question: A right circular cylinder with radius 2 is inscribed in a hemisphere with radius 5 so that its bases are parallel to the base of the hemisphere.  What is the height of this cylinder?
+Solution: We draw and label a diagram as follows: [asy]
+
+size(110);
+pair O = (0,0); pair A = (.3,.94); pair B = (.3,.075);
+draw(O--A--B--cycle,heavycyan);
+label("$O$",O,W); label("$A$",A,N); label("$B$",B,S);
+import solids; import three; defaultpen(linewidth(0.8)); currentprojection = orthographic(5,0,1.3);
+revolution c = cylinder((0,0,0), .4, .91);
+draw(c,black);
+
+draw(scale(1,.25)*arc((0,0),1,0,180),dashed);
+draw(scale(1,.25)*arc((0,0),1,180,360));
+draw(Arc((0,0),1,0,180));
+
+[/asy]
+
+Let the center of the hemisphere be $O$, and let $A$ be a point on the circumference of the top circle of the cylinder.  Since the cylinder is inscribed in the hemisphere, $A$ lies on the hemisphere as well, so $OA=5$.  We drop a perpendicular from $A$ to the base of the hemisphere and let it intersect the base of the hemisphere at $B$.  Since the cylinder is right and $AB$ is a height of the cylinder, $\angle OBA$ is a right angle, and $B$ lies on the circumference of the bottom circle of the cylinder.  Thus, $OB$ is a radius of the cylinder, so $OB=2$. We have that $\triangle OBA$ is right, so by the Pythagorean theorem, we have \[AB=\sqrt{OA^2-OB^2}=\sqrt{5^2-2^2}=\sqrt{21}.\]Thus, the height of the cylinder is $\boxed{\sqrt{21}}$.
+Answer: The answer is \sqrt{21}
+
+
+
+Question: Parallelogram $ABCD$ with $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$ is reflected across the $x$-axis to $A'B'C'D'$ and then $A'B'C'D'$ is reflected across the line $y=x+1$ to $A''B''C''D''$. This is done such that $D'$ is the image of $D$, and $D''$ is the image of $D'$. What is the ordered pair of $D''$ in the coordinate plane?
+Solution: Reflecting a point across the $x$-axis multiplies its $y$-coordinate by $-1$.  Therefore, $D'=(4,-1)$.  To reflect $D'$ across the line $y=x+1$, we first translate both the line and the point down one unit so that the equation of the translated line is $y=x$ and the coordinates of the translated point are $(4,-2)$.  To reflect across $y=x$, we switch the $x$-coordinate and $y$-coordinate to obtain $(-2,4)$.  Translating this point one unit up, we find that $D''=\boxed{(-2,5)}$.
+Answer: The answer is (-2,5)

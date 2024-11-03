@@ -1,0 +1,65 @@
+Strategy:
+1. Identify the type of counting or probability problem that needs to be solved.
+2. Define all the elements or variables involved in the problem.
+3. Depending on the problem, determine the total number of possible outcomes. This might involve counting permutations, combinations, or applying the principles of probability.
+4. Apply the right formula or method to compute the desired outcome or probability. This could be a formula or calculation based on counting principles, permutations, combinations, or principles of probability.
+5. Solve for the desired outcome or probability and verify if it makes sense in the context of the problem.
+6. Review your calculations for any mathematical errors and ensure your answer is in the correct format as per question.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: 
+1. The problem is a probability problem involving permutations of digits to form a number.
+2. The elements involved are the digits 2, 3, 5, and 7.
+3. The total number of possible outcomes is the total number of ways these four digits can be arranged to form a four-digit number. This is a permutation problem, and the total number of permutations of n distinct items taken r at a time is given by nPr = n!/(n-r)!. Here, n = 4 (the number of digits) and r = 4 (since we are forming a four-digit number), so the total number of permutations is 4P4 = 4!/(4-4)! = 4! = 4*3*2*1 = 24.
+4. To find the probability that the number is odd, we need to find the number of ways the digits can be arranged to form an odd number. An odd number ends in 1, 3, 5, 7, or 9. In this case, the only odd digits we have are 3, 5, and 7. So, the last digit of the number can be any of these three digits. Once the last digit is chosen, the remaining three digits can be arranged in 3! = 3*2*1 = 6 ways. So, the total number of ways to form an odd number is 3*6 = 18.
+5. The probability that the number is odd is therefore the number of ways to form an odd number divided by the total number of possible outcomes, which is 18/24 = 3/4.
+6. Reviewing the calculations, everything seems correct and the answer is in the correct format as a common fraction.
+
+Answer: The answer is \frac{3}{4}.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: 
+1. The problem is a counting problem involving permutations of different colored triangles on an octahedron.
+2. The elements involved in the problem are the eight different colored triangles.
+3. The total number of possible outcomes is the number of ways to arrange the eight triangles on the octahedron.
+4. To compute the desired outcome, we need to count the number of distinguishable arrangements of the triangles. This involves counting permutations of the triangles.
+5. We start by arranging the triangles in any order, which can be done in 8! ways. However, this counts rotations of the same arrangement as distinct, which we don't want. An octahedron has 24 rotations (think of placing it on one of the 6 vertices, and then rotating it about that vertex in one of 4 ways), so we've counted each arrangement 24 times. Therefore, we divide the total by 24 to get the number of distinguishable arrangements.
+6. So, the number of distinguishable ways to construct the octahedron is 8!/24 = 1680.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: 
+1. The problem is a counting problem where we need to find the number of valid 3-word sentences in the Gnollish language.
+2. The elements involved in the problem are the three words: "splargh", "glumph", and "amr". The constraint is that "splargh" cannot come directly before "glumph".
+3. The total number of possible 3-word sentences without any constraints would be 3^3 = 27. This is because for each of the three positions in the sentence, there are three possible words that can be used.
+4. To find the number of valid sentences, we need to subtract the number of invalid sentences from the total number of sentences. The invalid sentences are those where "splargh" comes directly before "glumph". This can happen in two cases: "splargh" is the first word and "glumph" is the second, or "splargh" is the second word and "glumph" is the third. In both cases, the remaining position can be filled by any of the three words. So, the total number of invalid sentences is 2*3 = 6.
+5. Subtracting the number of invalid sentences from the total number of sentences gives us the number of valid sentences: 27 - 6 = 21.
+6. Reviewing the calculations, we find that they are correct and the answer is in the correct format.
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: 
+1. The problem is a counting problem involving combinations.
+2. The elements involved in the problem are the numbers 17, 7, 8, 9, and 19. The variables are the combinations of these numbers.
+3. The total number of possible outcomes is not required in this problem as we are asked to calculate a specific combination.
+4. The formula for combinations is $\binom{n}{r} = \frac{n!}{r!(n-r)!}$, where n is the total number of items, r is the number of items to choose, and '!' denotes factorial. However, in this problem, we can use the property of Pascal's triangle which states that $\binom{n+1}{r} = \binom{n}{r-1} + \binom{n}{r}$.
+5. Using the property of Pascal's triangle, we can calculate $\binom{19}{9}$ as follows:
+   - First, calculate $\binom{18}{8}$ using $\binom{17}{7}$ and $\binom{17}{8}$: $\binom{18}{8} = \binom{17}{7} + \binom{17}{8} = 19448 + 24310 = 43758$.
+   - Then, calculate $\binom{18}{9}$ using $\binom{17}{8}$ and $\binom{17}{9}$: $\binom{18}{9} = \binom{17}{8} + \binom{17}{9} = 24310 + 24310 = 48620$.
+   - Finally, calculate $\binom{19}{9}$ using $\binom{18}{8}$ and $\binom{18}{9}$: $\binom{19}{9} = \binom{18}{8} + \binom{18}{9} = 43758 + 48620 = 92378$.
+6. The calculations are correct and the answer is in the correct format.
+
+Answer: The answer is 92378.

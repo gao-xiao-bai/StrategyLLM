@@ -1,0 +1,802 @@
+[
+    {
+        "question": "Take the last letters of the words in \"Solomon Aida Clarence Reina Pj Tj Daisy Gino\" and concatenate them.",
+        "answer": "naeajjyo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Traci Marcia Alexa Brittney Lala Ashleigh Melisa Edith\" and concatenate them.",
+        "answer": "iaayahah"
+    },
+    {
+        "question": "Take the last letters of the words in \"Eliseo Rickey Cesar Hayden Evan Louie Heath Leanne\" and concatenate them.",
+        "answer": "oyrnnehe"
+    },
+    {
+        "question": "Take the last letters of the words in \"Abel Kenya Britt Giselle Shannon Federico Ximena Paola\" and concatenate them.",
+        "answer": "latenoaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kristy Kristin Rich Dolores Azucena Cody Billy Bernard\" and concatenate them.",
+        "answer": "ynhsayyd"
+    },
+    {
+        "question": "Take the last letters of the words in \"Duane Lamont Carmelo Elva Cynthia German Ulises Marcel\" and concatenate them.",
+        "answer": "etoaansl"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rosie Freddy Samantha Fernando Andrea Makayla Karl Lucas\" and concatenate them.",
+        "answer": "eyaoaals"
+    },
+    {
+        "question": "Take the last letters of the words in \"Niko Izzy Milton Carly Bret Lucio Cassidy Margo\" and concatenate them.",
+        "answer": "oynytoyo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Mel Oliver Fernanda Nadine Asha Kari Irene Tere\" and concatenate them.",
+        "answer": "lraeaiee"
+    },
+    {
+        "question": "Take the last letters of the words in \"Flor Daniela Gerry Mickey Sheri Stephen Ricardo Benny\" and concatenate them.",
+        "answer": "rayyinoy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lizzy Melissa Katy Willie Heidi Alejandra Drake Erin\" and concatenate them.",
+        "answer": "yayeiaen"
+    },
+    {
+        "question": "Take the last letters of the words in \"Warren Lizeth Calvin Howard Hans Janie Ariana Jacinto\" and concatenate them.",
+        "answer": "nhndseao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Marcos Tamika Nadia Zack Jacques Tanner Keisha Earl\" and concatenate them.",
+        "answer": "saaksral"
+    },
+    {
+        "question": "Take the last letters of the words in \"Chelsey Matthew Pooja Trevor Jody Gerard Greg Joanne\" and concatenate them.",
+        "answer": "ywarydge"
+    },
+    {
+        "question": "Take the last letters of the words in \"Mari Jose Manuel Brandon Geoff Bianca Violeta Rita Brianna\" and concatenate them.",
+        "answer": "ilnfaaaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Guillermo Gina Ciara Deb Martina Melinda Ericka Lane\" and concatenate them.",
+        "answer": "oaabaaae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Violet Georgina Olivia Briana Antoine Candice Theresa Kristian\" and concatenate them.",
+        "answer": "taaaeean"
+    },
+    {
+        "question": "Take the last letters of the words in \"Hayley Bobbie Krystal Jane Star Haley Darrin Miguel\" and concatenate them.",
+        "answer": "yelerynl"
+    },
+    {
+        "question": "Take the last letters of the words in \"Carl Celso Russ Tonya Parker Quinn Judith Salma\" and concatenate them.",
+        "answer": "losarnha"
+    },
+    {
+        "question": "Take the last letters of the words in \"Cary Maricela Cooper Alisa Dominique Meghan Ed Lili\" and concatenate them.",
+        "answer": "yaraendi"
+    },
+    {
+        "question": "Take the last letters of the words in \"Carolina Chrissy Brenda Nic Mahesh Steve Devon Charles\" and concatenate them.",
+        "answer": "ayachens"
+    },
+    {
+        "question": "Take the last letters of the words in \"Charlotte Ram Anthony Ramon Courtney Noah Natasha Rohan\" and concatenate them.",
+        "answer": "emynyhan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kaitlyn Jeanette Margarita Marisa Florence Don Laurel Mona\" and concatenate them.",
+        "answer": "neaaenla"
+    },
+    {
+        "question": "Take the last letters of the words in \"Sherry Elida Branden Nathalie Gisela Jules Gio Jon\" and concatenate them.",
+        "answer": "yaneason"
+    },
+    {
+        "question": "Take the last letters of the words in \"Doug Robyn Maddy Kimberly Yadira Colby Connor Xiomara\" and concatenate them.",
+        "answer": "gnyyayra"
+    },
+    {
+        "question": "Take the last letters of the words in \"Payton Davis Larissa Wendy Bridget Shelley Adrienne Sandra\" and concatenate them.",
+        "answer": "nsaytyea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lulu Pilar Cristal Janet Denis Gloria Wilson Clint\" and concatenate them.",
+        "answer": "urltsant"
+    },
+    {
+        "question": "Take the last letters of the words in \"Brandy Noemi Andre Jimmie Dulce Jamal Pierre Chance\" and concatenate them.",
+        "answer": "yieeelee"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jeremy Shauna Dawn Lourdes Anderson Mina John Jasmin\" and concatenate them.",
+        "answer": "yansnann"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jacqueline Lizzie Myriam Mitchell Paloma Maddie Alan Mimi\" and concatenate them.",
+        "answer": "eemlaeni"
+    },
+    {
+        "question": "Take the last letters of the words in \"Timothy Amilcar Gail Sheryl Hugh Roland Mireya Phillip\" and concatenate them.",
+        "answer": "yrllhdap"
+    },
+    {
+        "question": "Take the last letters of the words in \"Paul Ricky Walter Rebeca Marco Antonio Perry Jos\u00e9 Bryant\" and concatenate them.",
+        "answer": "lyraoy\u00e9t"
+    },
+    {
+        "question": "Take the last letters of the words in \"Esteban Ramesh Elisabeth Martha Seth Mirian Abhishek Gregory\" and concatenate them.",
+        "answer": "nhhahnky"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rigo Jose Luis Thomas Bill Bertha Trisha Gerardo Marisol\" and concatenate them.",
+        "answer": "osslaaol"
+    },
+    {
+        "question": "Take the last letters of the words in \"Marshall Floyd Garcia Malcolm Francine Ronaldo Marina Kelvin\" and concatenate them.",
+        "answer": "ldameoan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Gabe Summer Cassie Kathryn Maryann Elsa Jorge Sebastian\" and concatenate them.",
+        "answer": "erennaen"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kasey Carol Gwendolyn Linda Ra\u00fal Sophie Martinez Ana\" and concatenate them.",
+        "answer": "ylnaleza"
+    },
+    {
+        "question": "Take the last letters of the words in \"Alina Lynne Lindsey Juanito Renato Charlie Eugenia Kenia\" and concatenate them.",
+        "answer": "aeyooeaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Candy Jonas Hilary Doreen Marta Katherine Claudia Harrison\" and concatenate them.",
+        "answer": "ysynaean"
+    },
+    {
+        "question": "Take the last letters of the words in \"Crystal Caleb Fabiola Liam King Kai Kira Preston\" and concatenate them.",
+        "answer": "lbamgian"
+    },
+    {
+        "question": "Take the last letters of the words in \"Camilo Denisse Jojo Jana Ian Justine Anton Meagan\" and concatenate them.",
+        "answer": "oeoanenn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Terence Marcelino Eddy Grace Socorro Isabelle Clarissa June\" and concatenate them.",
+        "answer": "eoyeoeae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dustin Richie Igor Angel Cliff Nicky Gretchen Riley\" and concatenate them.",
+        "answer": "nerlfyny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Aly Kristie Ruby Marty Leah Rocky Ajay Laura\" and concatenate them.",
+        "answer": "yeyyhyya"
+    },
+    {
+        "question": "Take the last letters of the words in \"Francis Jerome Graciela Geo Manny Dennis Kerri Ethan\" and concatenate them.",
+        "answer": "seaoysin"
+    },
+    {
+        "question": "Take the last letters of the words in \"Arlene Andres Melvin Everardo Josiah Terrell Krishna Antony\" and concatenate them.",
+        "answer": "esnohlay"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jess Kirk Nichole Glenn Sofia Liliana Arianna Brendan\" and concatenate them.",
+        "answer": "skenaaan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Gustavo Ivy Eileen Becca Delia Lacey Dany Israel\" and concatenate them.",
+        "answer": "oynaayyl"
+    },
+    {
+        "question": "Take the last letters of the words in \"Isaiah Sal Nathaniel Maira Mirna Sabrina Randi Iris\" and concatenate them.",
+        "answer": "hllaaais"
+    },
+    {
+        "question": "Take the last letters of the words in \"Camille Pretty Millie Cris Junior Kay Julian Ada\" and concatenate them.",
+        "answer": "eyesryna"
+    },
+    {
+        "question": "Take the last letters of the words in \"Russell Andi Kenneth Felicia Landon Lucky Hussein Tariq\" and concatenate them.",
+        "answer": "lihanynq"
+    },
+    {
+        "question": "Take the last letters of the words in \"Regina Kate Gilbert Robbie Gigi Horacio Rose Antonio\" and concatenate them.",
+        "answer": "aeteioeo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Roxana Ramiro Griselda Garry Helen Armando Shelby Yoni\" and concatenate them.",
+        "answer": "aoaynoyi"
+    },
+    {
+        "question": "Take the last letters of the words in \"Marsha Camila Katie Aracely Ross Tiffany Levi Bradley\" and concatenate them.",
+        "answer": "aaeysyiy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Chad Kenny Jade Angela Ellie Rebecca Taylor Ashok\" and concatenate them.",
+        "answer": "dyeaeark"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jo Mo Holly Geoffrey Tami Rodolfo Red Candace\" and concatenate them.",
+        "answer": "ooyyiode"
+    },
+    {
+        "question": "Take the last letters of the words in \"Melody Pearl Clifton Susy Toni Jazmin Faustino Jared\" and concatenate them.",
+        "answer": "ylnyinod"
+    },
+    {
+        "question": "Take the last letters of the words in \"Philip Felix Genevieve Luke Fausto Larry Neha Lalo\" and concatenate them.",
+        "answer": "pxeeoyao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Nayeli Dalton Annie Mary Ann Mandy Fran Uriel Yvette\" and concatenate them.",
+        "answer": "inenynle"
+    },
+    {
+        "question": "Take the last letters of the words in \"Sonny Nicholas Bryce Kris Pablo Claude Carter Elvia\" and concatenate them.",
+        "answer": "ysesoera"
+    },
+    {
+        "question": "Take the last letters of the words in \"Margaret Marilu Erica Dan Lorenzo Lisa Shawn Leandro\" and concatenate them.",
+        "answer": "tuanoano"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jasmine Cj Isaias Willy Cameron Joana Vidal Gregorio\" and concatenate them.",
+        "answer": "ejsynalo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Timmy Gary Kevin Tino Jimmy Lorraine Lynn Stacie\" and concatenate them.",
+        "answer": "yynoyene"
+    },
+    {
+        "question": "Take the last letters of the words in \"Karina Leo Leonard Alexander Ben Ida Alexis Terri\" and concatenate them.",
+        "answer": "aodrnasi"
+    },
+    {
+        "question": "Take the last letters of the words in \"Loretta Tim Pancho Angie Nestor Jenna Jen Jayden\" and concatenate them.",
+        "answer": "amoerann"
+    },
+    {
+        "question": "Take the last letters of the words in \"Genesis Wil Isidro Lea Peyton Beau Cedric Rossy\" and concatenate them.",
+        "answer": "sloanucy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dave Ash Julia Hilario V\u00edctor Stanley Jefferson Bethany\" and concatenate them.",
+        "answer": "ehaoryny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lindsay Lenny Erick Rigoberto Wilfredo Zac Abdi Betsy\" and concatenate them.",
+        "answer": "yykoociy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Teddy Emerson Kara Tomas Art Mitch Joshua Perla\" and concatenate them.",
+        "answer": "ynasthaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Aileen Jeannette Lidia Silvia Stacey Alyssa Garrett Lana\" and concatenate them.",
+        "answer": "neaayata"
+    },
+    {
+        "question": "Take the last letters of the words in \"Emiliano Desiree Layla Carmen Andr\u00e9s Stan Justice Aj\" and concatenate them.",
+        "answer": "oeansnej"
+    },
+    {
+        "question": "Take the last letters of the words in \"Ernesto Laila Lena Mariah Matias Tito Daphne Dena\" and concatenate them.",
+        "answer": "oaahsoea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Josefina Rusty Kendall Gene Terrence Kathleen Carlton Rodney\" and concatenate them.",
+        "answer": "ayleenny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Ronald Tia Emilio Herman Jordan Quentin Sammy Katrina\" and concatenate them.",
+        "answer": "daonnnya"
+    },
+    {
+        "question": "Take the last letters of the words in \"Theo Kylie Mia Gerson Janice Denise Barb Porfirio\" and concatenate them.",
+        "answer": "oeaneebo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Niki Itzel Artemio Nelly La Brad Micaela Tay\" and concatenate them.",
+        "answer": "iloyaday"
+    },
+    {
+        "question": "Take the last letters of the words in \"Maria Fiona Santos Joann Saul Yuri Johanna Aimee\" and concatenate them.",
+        "answer": "aasnliae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Roy Alicia Tony Jr Jocelyn Cristy Christian Charity\" and concatenate them.",
+        "answer": "yayrnyny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jeannie Faisal Mabel Angeles Carmela Lia Reyna Alberto\" and concatenate them.",
+        "answer": "ellsaaao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Sanjay Nina Estela Hanna Jenni Madeline Stefanie Priyanka\" and concatenate them.",
+        "answer": "yaaaieea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Faith Katia Reinaldo Jada Patricio Ernie Raymond Judi\" and concatenate them.",
+        "answer": "haoaoedi"
+    },
+    {
+        "question": "Take the last letters of the words in \"Alma Efrain Tasha Austin Cassandra Eleanor Cat Eve\" and concatenate them.",
+        "answer": "ananarte"
+    },
+    {
+        "question": "Take the last letters of the words in \"Corina Louis Brayan Ivan Matt Ashley Diego Lonnie\" and concatenate them.",
+        "answer": "asnntyoe"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dora Tina Shana Angelo Mary Malik Vladimir Dante\" and concatenate them.",
+        "answer": "aaaoykre"
+    },
+    {
+        "question": "Take the last letters of the words in \"Roberto Meredith Moses Anibal \u00c1ngel Marlon Penny Oscar\" and concatenate them.",
+        "answer": "ohsllnyr"
+    },
+    {
+        "question": "Take the last letters of the words in \"Bryan Caitlin Sandeep Scotty Anand Clay Ernest Kathy\" and concatenate them.",
+        "answer": "nnpydyty"
+    },
+    {
+        "question": "Take the last letters of the words in \"Drew Rogelio Myles Marcela Jamie Leticia Ari Roger\" and concatenate them.",
+        "answer": "wosaeair"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rohit Donnie Mac Sonia Aura Trish Ryan Priya\" and concatenate them.",
+        "answer": "tecaahna"
+    },
+    {
+        "question": "Take the last letters of the words in \"Evelin Hazel Rajesh Emanuel Vicky Brian Gil Irma\" and concatenate them.",
+        "answer": "nlhlynla"
+    },
+    {
+        "question": "Take the last letters of the words in \"Gee Caroline Bonnie Sandi Alissa Ted Amit Teri\" and concatenate them.",
+        "answer": "eeeiadti"
+    },
+    {
+        "question": "Take the last letters of the words in \"Virginia Sarah Nolan Joan Lois Joni Francesca Lorena\" and concatenate them.",
+        "answer": "ahnnsiaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Suzy Patrice Alonso Kayla Li Helena Suzanne Steven\" and concatenate them.",
+        "answer": "yeoaiaen"
+    },
+    {
+        "question": "Take the last letters of the words in \"Stella Rachel Monica Bo Dane Beth Paula Marlene\" and concatenate them.",
+        "answer": "alaoehae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Santa Guadalupe Robin Hope Shari Irving Jorge Luis Simone\" and concatenate them.",
+        "answer": "aeneigse"
+    },
+    {
+        "question": "Take the last letters of the words in \"Diane Glen Juana Rey Ester Elmer Hugo Flavio\" and concatenate them.",
+        "answer": "enayrroo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Araceli Kc Bella Sadie Noel Anil Britney Moe\" and concatenate them.",
+        "answer": "icaellye"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dania Jake Sid Johnnie Sierra Maribel Jonah Jeffery\" and concatenate them.",
+        "answer": "aedealhy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Gaby Amy Miranda Emma Rebekah Edna Sky Raymundo\" and concatenate them.",
+        "answer": "yyaahayo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Yesenia Rony Ezequiel Al Manuel To\u00f1o Skyler Julissa\" and concatenate them.",
+        "answer": "aylllora"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rafa Skylar Gordon Lucy Maxine Lou Darlene Mikey\" and concatenate them.",
+        "answer": "arnyeuey"
+    },
+    {
+        "question": "Take the last letters of the words in \"Anna Jp Ely Terrance Rahul Anita Petra Lexi\" and concatenate them.",
+        "answer": "apyelaai"
+    },
+    {
+        "question": "Take the last letters of the words in \"Allison Daryl Cecilia Naomi Eva Elizabeth Agnes Zoe\" and concatenate them.",
+        "answer": "nlaiahse"
+    },
+    {
+        "question": "Take the last letters of the words in \"Deanna Isaac Svetlana Arnold Mateo Latoya Joseluis Alfred\" and concatenate them.",
+        "answer": "acadoasd"
+    },
+    {
+        "question": "Take the last letters of the words in \"Ravi Irvin Lilia Arnoldo Victoria Dani Justin Cruz\" and concatenate them.",
+        "answer": "inaoainz"
+    },
+    {
+        "question": "Take the last letters of the words in \"Karin Jenifer Henry Clifford Alonzo Jaclyn Fabian Audrey\" and concatenate them.",
+        "answer": "nrydonny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Amalia Ann Ivette Bobby Freddie Heriberto Kaleb Jackson\" and concatenate them.",
+        "answer": "aneyeobn"
+    },
+    {
+        "question": "Take the last letters of the words in \"America Elvis Brett Ken Rosita Monika Tabitha Chuck\" and concatenate them.",
+        "answer": "astnaaak"
+    },
+    {
+        "question": "Take the last letters of the words in \"Prince Gabrielle Rod Megan Darin Bernardo Lola Luis\" and concatenate them.",
+        "answer": "eednnoas"
+    },
+    {
+        "question": "Take the last letters of the words in \"Donny Clayton Sally Reynaldo Noelia Paris Byron Zachary\" and concatenate them.",
+        "answer": "ynyoasny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Susan Teresa Lydia Abby Franklin Janine Jacky Maritza\" and concatenate them.",
+        "answer": "naayneya"
+    },
+    {
+        "question": "Take the last letters of the words in \"Domingo Devin Jennie Julieta Lina Aubrey Shay Isabel\" and concatenate them.",
+        "answer": "oneaayyl"
+    },
+    {
+        "question": "Take the last letters of the words in \"Paco Leroy Frederick Eliza Veronica Kristina Edgar Elia\" and concatenate them.",
+        "answer": "oykaaara"
+    },
+    {
+        "question": "Take the last letters of the words in \"Johnny Michel Chanel Jes\u00fas Fred Adan Cam Paulo\" and concatenate them.",
+        "answer": "yllsdnmo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Daniella Jairo Ray Cyndi Cecy Javi Will Fer\" and concatenate them.",
+        "answer": "aoyiyilr"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jesus Curtis Amanda Alison Nana Bree Jessi Brady\" and concatenate them.",
+        "answer": "ssanaeiy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Stefan Arturo Fermin Ginger Vernon Monique Stevie Darrell\" and concatenate them.",
+        "answer": "nonrneel"
+    },
+    {
+        "question": "Take the last letters of the words in \"Roderick Grant Melanie Victor Dale Arnulfo Yessenia Tre\" and concatenate them.",
+        "answer": "ktereoae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lilian Dana Benito Jose Missy Kent Jazmine Shelly\" and concatenate them.",
+        "answer": "naoeytey"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lori Amber Salvador Dwight Martin Chuy Augusto Bee\" and concatenate them.",
+        "answer": "irrtnyoe"
+    },
+    {
+        "question": "Take the last letters of the words in \"Patricia Efren Angelica Soledad Marvin Caitlyn Buddy Sergio\" and concatenate them.",
+        "answer": "anadnnyo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Albert Sherri Debbie Carson Adrianna Glenda Keith Randy\" and concatenate them.",
+        "answer": "tienaahy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Juan Reyes Kurt Alex Rachael Allen William Allan\" and concatenate them.",
+        "answer": "nstxlnmn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Chandra Jhonny Celina Nathan Derek Ty Suresh Marla\" and concatenate them.",
+        "answer": "ayankyha"
+    },
+    {
+        "question": "Take the last letters of the words in \"Humberto Nidia Jc Mario Jae Marisela Gayle Lazaro\" and concatenate them.",
+        "answer": "oacoeaeo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Blanca Maya Troy Brittany Karen Osvaldo Juliet Wes\" and concatenate them.",
+        "answer": "aayynots"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jaime Lilly Yazmin Beatrice Lila Ariel Carolyn Janette\" and concatenate them.",
+        "answer": "eynealne"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jonny Esther Vickie Becky Carlo Flaco Sophia Karla\" and concatenate them.",
+        "answer": "yreyooaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Christine Olga Reggie Romeo Jermaine Patsy Cheryl Faye\" and concatenate them.",
+        "answer": "eaeoeyle"
+    },
+    {
+        "question": "Take the last letters of the words in \"Emilia Hailey Pat Tyson Fidel Trent Jayson Abigail\" and concatenate them.",
+        "answer": "aytnltnl"
+    },
+    {
+        "question": "Take the last letters of the words in \"Stephanie Leonardo Yanira Mercedes Mauricio Connie Amado Kristen\" and concatenate them.",
+        "answer": "eoasoeon"
+    },
+    {
+        "question": "Take the last letters of the words in \"Aidan Renata Mindy Nacho Nora Manuela Luz Dominick\" and concatenate them.",
+        "answer": "nayoaazk"
+    },
+    {
+        "question": "Take the last letters of the words in \"Carlitos Logan Juan Carlos Ginny Edgardo Vinny Jenn Sunny\" and concatenate them.",
+        "answer": "snsyoyny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Frances Claudio Barry Avi H\u00e9ctor Misty Cecil Winston\" and concatenate them.",
+        "answer": "soyiryln"
+    },
+    {
+        "question": "Take the last letters of the words in \"Diamond Donald Luiz Amina Kristine Ofelia Bernie Kendra\" and concatenate them.",
+        "answer": "ddzaeaea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Nataly Imelda Elena Guy Micheal Beverly Cristian Jonathon\" and concatenate them.",
+        "answer": "yaaylynn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lesly Mariana Orlando Elaine Eden Lillian Mark Tristan\" and concatenate them.",
+        "answer": "yaoennkn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Brent Alfredo Priscilla Tommy Blair Astrid Gregg Bri\" and concatenate them.",
+        "answer": "toayrdgi"
+    },
+    {
+        "question": "Take the last letters of the words in \"Brooke Yolanda Molly Nelson Colleen Meg Adriana Dee\" and concatenate them.",
+        "answer": "eaynngae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Edwin Nisha Ronnie Dallas Isela Chip Teresita Aldo\" and concatenate them.",
+        "answer": "naesapao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Pauline Alexandria Whitney Clyde Tracy Abbey Jhon Wayne\" and concatenate them.",
+        "answer": "eayeyyne"
+    },
+    {
+        "question": "Take the last letters of the words in \"Natalie Rafael Sara Alexandra Wilmer Darnell Mara Erik\" and concatenate them.",
+        "answer": "elaarlak"
+    },
+    {
+        "question": "Take the last letters of the words in \"Ingrid Rick Jessica Maurice Maxwell Rosy Lizbeth Nena\" and concatenate them.",
+        "answer": "dkaelyha"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jude Dusty Isabella Sydney Rina Wesley Jay Gabriella\" and concatenate them.",
+        "answer": "eyayayya"
+    },
+    {
+        "question": "Take the last letters of the words in \"Miriam Destiny Isa Susie Bruno Pamela Georgia Ace\" and concatenate them.",
+        "answer": "myaeoaae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Diana Josue Christa Rochelle Vera Rodrigo Eric Eduardo\" and concatenate them.",
+        "answer": "aeaeaoco"
+    },
+    {
+        "question": "Take the last letters of the words in \"Felipe Aman Elijah Franco Emmanuel April Raj Brandi\" and concatenate them.",
+        "answer": "enhollji"
+    },
+    {
+        "question": "Take the last letters of the words in \"Love James Ramona Trina Morgan Shawna Aditya Fabio\" and concatenate them.",
+        "answer": "esaanaao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Anastasia Marlen Aiden Shanna Stephan Sami Elvin Joy\" and concatenate them.",
+        "answer": "annaniny"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kareem Ralph Lovely Desmond Evelyn Brock Myra Hernan\" and concatenate them.",
+        "answer": "mhydnkan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rakesh Jan Margarito Ashton Gabby Deborah Jessy Shirley\" and concatenate them.",
+        "answer": "hnonyhyy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Tom Marcy Rachelle Lora Celeste Lance Nicolas Jillian\" and concatenate them.",
+        "answer": "myeaeesn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Tanya Jalen Maura Max Christina Vilma Hilda Dom\" and concatenate them.",
+        "answer": "anaxaaam"
+    },
+    {
+        "question": "Take the last letters of the words in \"Aaron Adolfo Harvey Mya Hunter Bernadette Bj Norman\" and concatenate them.",
+        "answer": "noyarejn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Gage Oswaldo Memo Gabi Kiara Kelsey Aaliyah Julio\" and concatenate them.",
+        "answer": "eooiayho"
+    },
+    {
+        "question": "Take the last letters of the words in \"Juan Manuel Boris Abe Francisca Paty Elba Dakota Ally\" and concatenate them.",
+        "answer": "lseayaay"
+    },
+    {
+        "question": "Take the last letters of the words in \"Carla Marie Consuelo Simon Polo Nikita Nate Mayra\" and concatenate them.",
+        "answer": "aeonoaea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Donovan Clara Yaneth Dino Patti Chino Keri Beto\" and concatenate them.",
+        "answer": "nahoioio"
+    },
+    {
+        "question": "Take the last letters of the words in \"Cindy Phyllis Heather Casey Quincy Ronny Dewayne Aisha\" and concatenate them.",
+        "answer": "ysryyyea"
+    },
+    {
+        "question": "Take the last letters of the words in \"Bert Arthur Adrian Lupe Corey Rosendo Van Steph\" and concatenate them.",
+        "answer": "trneyonh"
+    },
+    {
+        "question": "Take the last letters of the words in \"Sean Lewis Damon Hannah Allie Viviana Francisco Carrie\" and concatenate them.",
+        "answer": "nsnheaoe"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dorian Pam Vijay Dario Ron Vivian Vivek Leslie\" and concatenate them.",
+        "answer": "nmyonnke"
+    },
+    {
+        "question": "Take the last letters of the words in \"Nico Gladis Randall Aron Val Johnathan Jodi Familia\" and concatenate them.",
+        "answer": "oslnlnia"
+    },
+    {
+        "question": "Take the last letters of the words in \"Mackenzie Katelyn Magaly Edy Elias Benjamin Adalberto Marilyn\" and concatenate them.",
+        "answer": "enyysnon"
+    },
+    {
+        "question": "Take the last letters of the words in \"Misael Elvira Harley Bailey Mariano Chandler Annette Kike\" and concatenate them.",
+        "answer": "layyoree"
+    },
+    {
+        "question": "Take the last letters of the words in \"Deon Adam Perez Allyson Anabel Antonia Carina Douglas\" and concatenate them.",
+        "answer": "nmznlaas"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jack Mar Chris Sue Cristobal Marion Letty Vicente\" and concatenate them.",
+        "answer": "krselnye"
+    },
+    {
+        "question": "Take the last letters of the words in \"Eugene Bart Mike Paige Yessica Debi Lissette Mildred\" and concatenate them.",
+        "answer": "eteeaied"
+    },
+    {
+        "question": "Take the last letters of the words in \"Noe Juanita Lionel Sharon Deandre Jeremiah Micah Cara\" and concatenate them.",
+        "answer": "ealnehha"
+    },
+    {
+        "question": "Take the last letters of the words in \"Axel Bernice Krista Neal Michaela Collin Reginald Rosalba\" and concatenate them.",
+        "answer": "lealanda"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kaitlin Sonya Sandy Javier Robby Savannah Berta Mariela\" and concatenate them.",
+        "answer": "nayryhaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"Leonel Eunice Darren Dean Ellen El Carole Vishal\" and concatenate them.",
+        "answer": "lennnlel"
+    },
+    {
+        "question": "Take the last letters of the words in \"David Jacob Miles Dianna Sheena Gerald Alejandro Jenny\" and concatenate them.",
+        "answer": "dbsaadoy"
+    },
+    {
+        "question": "Take the last letters of the words in \"Marc Selvin Damaris Margie Michele Anne Ivonne Jim\" and concatenate them.",
+        "answer": "cnseeeem"
+    },
+    {
+        "question": "Take the last letters of the words in \"Stephany Jt Lily Samuel Dylan Milagros Billie Rocio\" and concatenate them.",
+        "answer": "ytylnseo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Ebony Rosemarie Arely Belinda Chloe Ileana Minerva Nick\" and concatenate them.",
+        "answer": "yeyaeaak"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rex Sam Derrick Bruce Selena Enrique Fanny Ashlee\" and concatenate them.",
+        "answer": "xmkeaeye"
+    },
+    {
+        "question": "Take the last letters of the words in \"Lloyd Roberta George Gonzalo Conor Kelly Susana Dick\" and concatenate them.",
+        "answer": "daeoryak"
+    },
+    {
+        "question": "Take the last letters of the words in \"Adela Avery Princess Amelia Alana Leila Jerry Gabino\" and concatenate them.",
+        "answer": "aysaaayo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Travis Young Fredy Tatiana Andy Raven Lamar Rob\" and concatenate them.",
+        "answer": "sgyaynrb"
+    },
+    {
+        "question": "Take the last letters of the words in \"Josie Mart\u00edn Gabriel Liza Lara Divya Johana Gracie\" and concatenate them.",
+        "answer": "enlaaaae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Giovanni Christopher Demetrius Alvaro Blake Sonja Alexia Marjorie\" and concatenate them.",
+        "answer": "irsoeaae"
+    },
+    {
+        "question": "Take the last letters of the words in \"Nigel Sunil Rosa Marissa Clinton Mar\u00eda Zak Santiago\" and concatenate them.",
+        "answer": "llaanako"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rene Carlos Mj Jill Zach Lorna Ruben Doris\" and concatenate them.",
+        "answer": "esjlhans"
+    },
+    {
+        "question": "Take the last letters of the words in \"Erika Cory Alba Curt Christie Neil Lupita Lauren\" and concatenate them.",
+        "answer": "ayatelan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Valentin Dina Barbara Tricia Pepe Jean Dre Patrick\" and concatenate them.",
+        "answer": "naaaenek"
+    },
+    {
+        "question": "Take the last letters of the words in \"Catherine Sasha Mason Kellie Alondra Kyle Lawrence Jessie\" and concatenate them.",
+        "answer": "eaneaeee"
+    },
+    {
+        "question": "Take the last letters of the words in \"Emily Spencer Kim Joyce Colton Miguel Angel Ines Kirsten\" and concatenate them.",
+        "answer": "yrmenlsn"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rosalinda Ever Alvin Rico Trey Peggy Lee Craig\" and concatenate them.",
+        "answer": "arnoyyeg"
+    },
+    {
+        "question": "Take the last letters of the words in \"Dorothy Eliana Shaun Deepak Hillary Roxanne Irina Madison\" and concatenate them.",
+        "answer": "yankyean"
+    },
+    {
+        "question": "Take the last letters of the words in \"Rubi Debra Kelley Raul Magda Elise Charlene Vero\" and concatenate them.",
+        "answer": "iaylaeeo"
+    },
+    {
+        "question": "Take the last letters of the words in \"Judy Gilberto Paulette Harold Terry Corinne Luciano Theodore\" and concatenate them.",
+        "answer": "yoedyeoe"
+    },
+    {
+        "question": "Take the last letters of the words in \"Chase Valeria Harry Ale Rory Wyatt Myrna Rolando\" and concatenate them.",
+        "answer": "eayeytao"
+    },
+    {
+        "question": "Take the last letters of the words in \"Debby Lesley Josh Jaden Joel Jackie Alice Dianne\" and concatenate them.",
+        "answer": "yyhnleee"
+    },
+    {
+        "question": "Take the last letters of the words in \"Vincent Marian Jj Eddie Daniel Flora Kennedy Mikayla\" and concatenate them.",
+        "answer": "tnjelaya"
+    },
+    {
+        "question": "Take the last letters of the words in \"Todd Omar Pete Maggie Norma Lino Pedro Loren\" and concatenate them.",
+        "answer": "dreeaoon"
+    },
+    {
+        "question": "Take the last letters of the words in \"Kassandra Breanna Rhonda Phil Kitty Pascual Donna Vicki\" and concatenate them.",
+        "answer": "aaalylai"
+    },
+    {
+        "question": "Take the last letters of the words in \"Cherie May Clark Valentina Belen Kristi Ant Elliott\" and concatenate them.",
+        "answer": "eykanitt"
+    },
+    {
+        "question": "Take the last letters of the words in \"Nikhil Lynette Gavin Haydee Tess Andrew Nicki Frank\" and concatenate them.",
+        "answer": "leneswik"
+    },
+    {
+        "question": "Take the last letters of the words in \"Sidney Marcus Herbert Angelina Denny Maryam Berenice Wally\" and concatenate them.",
+        "answer": "ystaymey"
+    },
+    {
+        "question": "Take the last letters of the words in \"Mauro Lester Braulio Aurora Saad Marco Jennifer Cole\" and concatenate them.",
+        "answer": "oroadore"
+    }
+]

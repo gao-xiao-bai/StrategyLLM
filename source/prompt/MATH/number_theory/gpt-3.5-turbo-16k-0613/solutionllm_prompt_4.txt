@@ -1,0 +1,72 @@
+Question: Let $x$ be a positive integer such that $9x\equiv 1\pmod{25}$.
+
+What is the remainder when $11+x$ is divided by $25$?
+Answer: The answer is 0
+
+Solution: To find the remainder when $11+x$ is divided by $25$, we need to find the value of $x$ that satisfies the congruence $9x\equiv 1\pmod{25}$.
+
+To solve this congruence, we can use the concept of modular inverse. The modular inverse of $9$ modulo $25$ is $14$, since $9\cdot 14\equiv 1\pmod{25}$.
+
+Multiplying both sides of the congruence $9x\equiv 1\pmod{25}$ by $14$, we get $14\cdot 9x\equiv 14\cdot 1\pmod{25}$.
+
+Simplifying, we have $126x\equiv 14\pmod{25}$.
+
+Since $126\equiv 1\pmod{25}$, we can simplify further to $x\equiv 14\pmod{25}$.
+
+Now, we can substitute this value of $x$ into the expression $11+x$ to find the remainder when it is divided by $25$.
+
+$11+x\equiv 11+14\pmod{25}$
+
+Simplifying, we have $11+x\equiv 25\pmod{25}$.
+
+Since $25\equiv 0\pmod{25}$, the remainder when $11+x$ is divided by $25$ is $0$.
+
+Answer: The answer is 0.
+
+
+
+Question: Let $m$ be the product of all positive integers less than $4!$ which are invertible modulo $4!$. Find the remainder when $m$ is divided by $4!$.
+
+(Here $n!$ denotes $1\times\cdots\times n$ for each positive integer $n$.)
+Answer: The answer is 1
+
+Solution: To find the product of all positive integers less than $4!$ which are invertible modulo $4!$, we need to find the numbers that are relatively prime to $4!$. 
+
+First, let's find the prime factorization of $4!$. We have $4! = 4 \times 3 \times 2 \times 1 = 2^3 \times 3 \times 2 \times 1 = 2^3 \times 3 \times 2!$. 
+
+Now, let's find the numbers that are relatively prime to $4!$. A number is relatively prime to $4!$ if it does not have any prime factors in common with $4!$. 
+
+Since $4!$ has prime factors $2$ and $3$, the numbers that are relatively prime to $4!$ are those that do not have $2$ or $3$ as factors. 
+
+The positive integers less than $4!$ that do not have $2$ or $3$ as factors are $1$ and $5$. 
+
+Therefore, the product of all positive integers less than $4!$ which are invertible modulo $4!$ is $1 \times 5 = 5$. 
+
+To find the remainder when $5$ is divided by $4!$, we can divide $5$ by $4!$ and find the remainder. 
+
+$5 \div 4! = 5 \div (2^3 \times 3 \times 2 \times 1) = 5 \div (2^3 \times 3 \times 2) = 5 \div (8 \times 3 \times 2) = 5 \div 48 = 0$ remainder $5$. 
+
+Therefore, the remainder when $m$ is divided by $4!$ is $5$. 
+
+Answer: The answer is 5.
+
+
+
+Question: Find $2^{-1} \pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)
+Solution: To find the modular inverse of 2 modulo 185, we need to find an integer $x$ such that $2x \equiv 1 \pmod{185}$.
+
+We can use the Extended Euclidean Algorithm to solve this equation. Starting with the equation $185 = 2 \cdot 92 + 1$, we can rewrite it as $1 = 185 - 2 \cdot 92$. 
+
+Now, we can see that $1 \equiv -2 \cdot 92 \pmod{185}$. Therefore, the modular inverse of 2 modulo 185 is -92.
+
+However, we need to find a positive residue between 0 and 184. To do this, we can add 185 to -92 until we get a positive residue. 
+
+Adding 185 to -92, we get 93. Therefore, the modular inverse of 2 modulo 185 is 93.
+
+Answer: The answer is 93.
+
+
+
+Question: What is the remainder when $2007$ is divided by $81$?
+Solution: To find the remainder when $2007$ is divided by $81$, we can use the concept of modular arithmetic. We can rewrite $2007$ as $81 \times 24 + 63$. This means that $2007$ can be expressed as $81$ times some integer plus a remainder of $63$. Therefore, the remainder when $2007$ is divided by $81$ is $63$.
+Answer: The answer is 63.

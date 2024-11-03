@@ -1,0 +1,103 @@
+Strategy:
+1. Understand the problem: Read and carefully analyze the given problem to understand the requirements and constraints.
+2. Identify the known and unknown information: Determine what information is provided and what needs to be calculated or determined.
+3. Translate the problem into mathematical equations or statements: Use appropriate mathematical symbols, equations, or statements to represent the problem.
+4. Solve the equations or statements: Use algebraic techniques to solve the mathematical equations or statements.
+5. Verify the solution: Substitute the found values back into the original problem to check if they satisfy the given conditions.
+6. Express the solution in the required format: Answer the question or provide the solution in the appropriate form, such as a fraction, decimal, or percentage.
+
+Examples:
+Question: Pete thinks of a number. He doubles it, adds 10, multiplies by 4, and ends up with 120. What was his original number?
+Solution:
+1. Understand the problem: Pete starts with a number, performs a series of operations on it, and ends up with a final result. We need to determine the original number.
+2. Identify the known and unknown information: 
+   Known information: Pete ends up with 120 after doubling the number, adding 10, and multiplying by 4.
+   Unknown information: The original number Pete started with.
+3. Translate the problem into mathematical equations or statements:
+   Let x be the original number Pete started with.
+   Pete doubles the number: 2x
+   Pete adds 10: 2x + 10
+   Pete multiplies by 4: 4(2x + 10)
+   Pete ends up with 120: 4(2x + 10) = 120
+4. Solve the equations or statements:
+   4(2x + 10) = 120
+   Distribute the 4: 8x + 40 = 120
+   Subtract 40 from both sides: 8x = 80
+   Divide both sides by 8: x = 10
+   The original number Pete started with is 10.
+5. Verify the solution: Substitute the found value back into the original problem.
+   Pete doubles 10: 2(10) = 20
+   Pete adds 10: 20 + 10 = 30
+   Pete multiplies by 4: 4(30) = 120
+   The final result is indeed 120, which matches the given information.
+6. Express the solution in the required format:
+Answer: The answer is 10
+
+
+
+Question: A standard deck of 52 cards has 13 ranks (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) and 4 suits ($\spadesuit$, $\heartsuit$, $\diamondsuit$, and $\clubsuit$), such that there is exactly one card for any given rank and suit.  Two of the suits ($\spadesuit$ and $\clubsuit$) are black and the other two suits ($\heartsuit$ and $\diamondsuit$) are red.  The deck is randomly arranged. What is the probability that the top card is a $\heartsuit$?
+
+Solution:
+1. Understand the problem: We are given a standard deck of 52 cards with 13 ranks and 4 suits. We need to find the probability of drawing a $\heartsuit$ as the top card.
+
+2. Identify the known and unknown information:
+   Known information:
+   - Total number of cards in the deck: 52
+   - Number of $\heartsuit$ cards in the deck: 13
+   Unknown information:
+   - Probability of drawing a $\heartsuit$ as the top card
+
+3. Translate the problem into mathematical equations or statements:
+   Let P($\heartsuit$) be the probability of drawing a $\heartsuit$ as the top card.
+   P($\heartsuit$) = Number of $\heartsuit$ cards / Total number of cards
+
+4. Solve the equations or statements:
+   Number of $\heartsuit$ cards = 13
+   Total number of cards = 52
+   P($\heartsuit$) = 13/52 = 1/4
+
+5. Verify the solution: Substitute the found values back into the original problem to check if they satisfy the given conditions.
+   P($\heartsuit$) = 1/4
+   The probability of drawing a $\heartsuit$ as the top card is indeed 1/4.
+
+6. Express the solution in the required format:
+Answer: The answer is 1/4.
+
+
+
+Question: A number in the set $\{50, 51, 52, 53, ... , 999\}$ is randomly selected. What is the probability that it is a two-digit number? Express your answer as a common fraction.
+
+Solution:
+1. Understand the problem: We are given a set of numbers and we need to find the probability of selecting a two-digit number from this set.
+2. Identify the known and unknown information: 
+   - Known information: The set of numbers $\{50, 51, 52, 53, ... , 999\}$
+   - Unknown information: The probability of selecting a two-digit number
+3. Translate the problem into mathematical equations or statements: 
+   - The total number of numbers in the set is 999 - 50 + 1 = 950.
+   - The total number of two-digit numbers in the set is 99 - 50 + 1 = 50.
+   - The probability of selecting a two-digit number is the ratio of the number of two-digit numbers to the total number of numbers.
+4. Solve the equations or statements: 
+   - The probability of selecting a two-digit number is 50/950 = 1/19.
+5. Verify the solution: 
+   - Substitute the values back into the original problem: The probability of selecting a two-digit number is indeed 1/19.
+6. Express the solution in the required format: 
+   - Answer: The answer is $\frac{1}{19}$.
+
+
+
+Question: A pentagon is drawn by placing an isosceles right triangle on top of a square as pictured. What percent of the area of the pentagon is the area of the right triangle?
+
+[asy]
+size(50);
+draw((0,0)--(0,-1)--(1,-1)--(1,0)--(0,0)--(.5,.5)--(1,0));
+[/asy]
+
+Solution:
+1. Understand the problem: We need to find the percentage of the area of the pentagon that is occupied by the right triangle.
+2. Identify the known and unknown information: The known information is that the pentagon is formed by placing an isosceles right triangle on top of a square. The unknown information is the percentage of the area of the pentagon occupied by the right triangle.
+3. Translate the problem into mathematical equations or statements: Let's denote the area of the pentagon as P and the area of the right triangle as T. We need to find the percentage of T in P, which can be represented as (T/P) * 100.
+4. Solve the equations or statements: To find the area of the pentagon, we need to find the areas of the square and the right triangle. The area of the square is equal to the side length squared, so let's assume the side length of the square is 1. Therefore, the area of the square is 1 * 1 = 1. The area of the right triangle can be found using the formula (base * height) / 2. Since the triangle is isosceles and right, the base and height are both equal to 1. Therefore, the area of the right triangle is (1 * 1) / 2 = 1/2.
+5. Verify the solution: The area of the pentagon is equal to the area of the square plus the area of the right triangle. Therefore, P = 1 + 1/2 = 3/2. The percentage of the area of the right triangle in the pentagon is (1/2) / (3/2) * 100 = 1/3 * 100 = 33.33%. 
+6. Express the solution in the required format: The answer is 33.33%.
+
+Answer: The answer is 33.33%

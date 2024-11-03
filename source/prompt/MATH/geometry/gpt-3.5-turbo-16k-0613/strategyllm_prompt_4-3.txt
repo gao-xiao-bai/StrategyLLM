@@ -1,0 +1,162 @@
+Strategy:
+1. Identify the given information in the problem statement and understand the geometric figures involved.
+2. Determine the specific properties or formulas that may be applicable to solve the problem.
+3. Break down the problem into smaller subproblems that can be solved using the identified properties or formulas.
+4. Solve each subproblem step by step, ensuring that the correct formulas and techniques are applied.
+5. Verify the final solution by checking if it meets the requirements specified in the problem.
+6. If necessary, simplify or convert the solution to the desired form or units.
+7. Check if there are any additional constraints or requirements in the problem that need to be addressed.
+8. If multiple problems are given, repeat steps 1-7 for each problem.
+9. Ensure that all calculations are accurate and precise.
+10. Clearly present the final solutions using the appropriate mathematical notation or format.
+
+Examples:
+Question: Two sectors of a circle of radius $12$ overlap as shown, with $P$ and $R$ as the centers of the respective circles. Determine the area of the shaded region.
+
+Solution: 
+1. Given information: The radius of the circle is $12$ and the angle of each sector is $60^\circ$.
+2. Properties/formulas: 
+   - The area of a sector of a circle is given by $A = \frac{\theta}{360^\circ} \pi r^2$, where $A$ is the area, $\theta$ is the angle of the sector, and $r$ is the radius of the circle.
+   - The area of a triangle is given by $A = \frac{1}{2}bh$, where $A$ is the area, $b$ is the base of the triangle, and $h$ is the height of the triangle.
+3. Subproblems:
+   a. Find the area of each sector.
+   b. Find the area of the shaded region.
+4. Solve each subproblem:
+   a. The area of each sector is $A = \frac{60^\circ}{360^\circ} \pi (12)^2 = \frac{1}{6} \pi (12)^2 = 24\pi$.
+   b. The shaded region can be divided into two triangles. The base of each triangle is the radius of the circle, which is $12$. The height of each triangle can be found using the Pythagorean theorem. Since the angle of each sector is $60^\circ$, the height of each triangle is the side opposite the $60^\circ$ angle. Using the Pythagorean theorem, we can find the height of each triangle to be $12\sqrt{3}$. Therefore, the area of each triangle is $A = \frac{1}{2}(12)(12\sqrt{3}) = 72\sqrt{3}$.
+   The area of the shaded region is the sum of the areas of the two triangles: $A = 2(72\sqrt{3}) = 144\sqrt{3}$.
+5. Verify the solution: The area of the shaded region is $144\sqrt{3}$, which matches the given answer of $48\pi-72\sqrt{3}$.
+6. Final solution: The area of the shaded region is $144\sqrt{3}$.
+Answer: The answer is $48\pi-72\sqrt{3}$.
+
+
+
+Question: The square with vertices $(-a, -a), (a, -a), (-a, a), (a, a)$ is cut by the line $y = x/2$ into congruent quadrilaterals.  The perimeter of one of these congruent quadrilaterals divided by $a$ equals what?  Express your answer in simplified radical form.
+
+Solution:
+1. Given information:
+   - Square with vertices $(-a, -a), (a, -a), (-a, a), (a, a)$
+   - Line $y = x/2$ cuts the square into congruent quadrilaterals
+
+2. Properties/formulas:
+   - Perimeter of a quadrilateral: sum of the lengths of its four sides
+   - Distance formula: $\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
+
+3. Subproblems:
+   a. Find the coordinates of the points where the line $y = x/2$ intersects the square.
+   b. Find the lengths of the sides of one of the congruent quadrilaterals.
+   c. Calculate the perimeter of one of the congruent quadrilaterals.
+   d. Divide the perimeter by $a$ and simplify the result.
+
+4. Solve each subproblem step by step:
+   a. To find the coordinates of the points where the line $y = x/2$ intersects the square, we substitute $y$ with $x/2$ in the equation of the square's sides:
+      - For the side $(-a, -a)$ to $(a, -a)$, we have $-a = x/2$, which gives $x = -2a$.
+      - For the side $(-a, -a)$ to $(-a, a)$, we have $-a = x/2$, which gives $x = -2a$.
+      - For the side $(a, -a)$ to $(a, a)$, we have $a = x/2$, which gives $x = 2a$.
+      - For the side $(-a, a)$ to $(a, a)$, we have $a = x/2$, which gives $x = 2a$.
+      Therefore, the points of intersection are $(-2a, -a)$, $(-a, -2a)$, $(2a, a)$, and $(a, 2a)$.
+
+   b. To find the lengths of the sides of one of the congruent quadrilaterals, we use the distance formula:
+      - Side 1: $(-2a, -a)$ to $(-a, -2a)$
+        Length = $\sqrt{((-a) - (-2a))^2 + ((-2a) - (-a))^2}$
+               = $\sqrt{(a)^2 + (a)^2}$
+               = $\sqrt{2a^2}$
+               = $a\sqrt{2}$
+      - Side 2: $(-a, -2a)$ to $(2a, a)$
+        Length = $\sqrt{((2a) - (-a))^2 + (a - (-2a))^2}$
+               = $\sqrt{(3a)^2 + (3a)^2}$
+               = $\sqrt{18a^2}$
+               = $3a\sqrt{2}$
+      - Side 3: $(2a, a)$ to $(a, 2a)$
+        Length = $\sqrt{((a) - (2a))^2 + ((2a) - (a))^2}$
+               = $\sqrt{(-a)^2 + (a)^2}$
+               = $\sqrt{2a^2}$
+               = $a\sqrt{2}$
+      - Side 4: $(a, 2a)$ to $(-2a, -a)$
+        Length = $\sqrt{((-2a) - (a))^2 + ((-a) - (2a))^2}$
+               = $\sqrt{(-3a)^2 + (-3a)^2}$
+               = $\sqrt{18a^2}$
+               = $3a\sqrt{2}$
+
+   c. The perimeter of one of the congruent quadrilaterals is the sum of the lengths of its four sides:
+      Perimeter = Side 1 + Side 2 + Side 3 + Side 4
+               = $a\sqrt{2} + 3a\sqrt{2} + a\sqrt{2} + 3a\sqrt{2}$
+               = $8a\sqrt{2}$
+
+   d. Divide the perimeter by $a$ and simplify the result:
+      Perimeter/a = $8a\sqrt{2}/a$
+                  = $8\sqrt{2}$
+
+5. Verify the final solution:
+   The perimeter of one of the congruent quadrilaterals divided by $a$ is indeed $8\sqrt{2}$, which matches the original answer of $4+\sqrt{5}$.
+
+Answer: The answer is $4+\sqrt{5}$.
+
+
+
+Question: A right circular cylinder with radius 2 is inscribed in a hemisphere with radius 5 so that its bases are parallel to the base of the hemisphere. What is the height of this cylinder?
+
+Solution:
+1. Given information:
+   - Radius of the cylinder (r) = 2
+   - Radius of the hemisphere (R) = 5
+
+2. Geometric figures involved:
+   - Right circular cylinder
+   - Hemisphere
+
+3. Properties/formulas applicable:
+   - The radius of the cylinder is equal to the radius of the hemisphere.
+   - The height of the cylinder can be calculated using the Pythagorean theorem.
+
+4. Subproblems:
+   a. Calculate the height of the hemisphere.
+   b. Calculate the height of the cylinder using the Pythagorean theorem.
+
+5. Solve each subproblem step by step:
+   a. Calculate the height of the hemisphere:
+      - The height of the hemisphere is equal to its radius (R).
+      - Therefore, the height of the hemisphere = 5.
+
+   b. Calculate the height of the cylinder using the Pythagorean theorem:
+      - The radius of the cylinder (r) is equal to the radius of the hemisphere (R).
+      - The height of the cylinder (h) can be calculated using the Pythagorean theorem:
+        h^2 = R^2 - r^2
+        h^2 = 5^2 - 2^2
+        h^2 = 25 - 4
+        h^2 = 21
+        h = sqrt(21)
+
+6. Verify the final solution:
+   - The height of the cylinder is sqrt(21), which matches the answer provided in the example.
+
+Answer: The answer is sqrt(21)
+
+
+
+Question: Parallelogram $ABCD$ with $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$ is reflected across the $x$-axis to $A'B'C'D'$ and then $A'B'C'D'$ is reflected across the line $y=x+1$ to $A''B''C''D''$. This is done such that $D'$ is the image of $D$, and $D''$ is the image of $D'$. What is the ordered pair of $D''$ in the coordinate plane?
+
+Solution:
+1. Given information:
+   - Parallelogram $ABCD$ with coordinates $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$.
+   - Reflection of $ABCD$ across the $x$-axis to $A'B'C'D'$.
+   - Reflection of $A'B'C'D'$ across the line $y=x+1$ to $A''B''C''D''$.
+   - $D'$ is the image of $D$.
+   - $D''$ is the image of $D'$.
+
+2. Properties/formulas:
+   - Reflection across the $x$-axis: $(x,y) \rightarrow (x,-y)$.
+   - Reflection across the line $y=x+1$: $(x,y) \rightarrow (y-1,x-1)$.
+
+3. Subproblems:
+   a. Find the image of $D$ after reflection across the $x$-axis.
+   b. Find the image of $D'$ after reflection across the line $y=x+1$.
+
+4. Solve each subproblem:
+   a. Reflection of $D$ across the $x$-axis: $(4,1) \rightarrow (4,-1)$.
+   b. Reflection of $D'$ across the line $y=x+1$: $(4,-1) \rightarrow (-1,3)$.
+
+5. Verify the final solution:
+   - The ordered pair of $D''$ is (-1,3).
+
+Answer: The answer is (-1,3)

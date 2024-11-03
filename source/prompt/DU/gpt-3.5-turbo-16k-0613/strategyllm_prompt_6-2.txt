@@ -1,0 +1,219 @@
+Strategy:
+1. Determine the current date.
+2. Calculate the time difference in hours between two given dates.
+3. Determine the day of the week for a given date.
+4. Calculate the date one week from a given date.
+5. Calculate the date x days ago from a given date.
+6. Calculate the date x days later from a given date.
+7. Determine if a given year is a leap year.
+8. Determine the last day of a given month in a given year.
+9. Calculate the date x years ago from a given date.
+10. Calculate the date x years later from a given date.
+
+Examples:
+Question: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - Today's date is 01/04/2015.
+
+2. Calculate the time difference in hours between two given dates.
+   - The time difference is 36 hours.
+
+3. Determine the day of the week for a given date.
+   - The day of the week for 01/04/2015 is Sunday.
+
+4. Calculate the date one week from a given date.
+   - One week from 01/04/2015 is 01/11/2015.
+
+5. Calculate the date x days ago from a given date.
+   - N/A
+
+6. Calculate the date x days later from a given date.
+   - N/A
+
+7. Determine if a given year is a leap year.
+   - 2015 is not a leap year.
+
+8. Determine the last day of a given month in a given year.
+   - The last day of January 2015 is 01/31/2015.
+
+9. Calculate the date x years ago from a given date.
+   - N/A
+
+10. Calculate the date x years later from a given date.
+    - N/A
+
+Answer: The answer is 01/11/2015.
+
+
+
+Question: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - Today is the first Monday of 2019.
+   - The first day of 2019 is a Tuesday.
+   - We know that the first Monday of 2019 is one day after the first day of 2019.
+   - Therefore, the current date is one day after January 1, 2019.
+   - The current date is January 2, 2019.
+
+2. Calculate the time difference in hours between two given dates.
+   - There is no need to calculate the time difference in hours for this problem.
+
+3. Determine the day of the week for a given date.
+   - The current date is January 2, 2019.
+   - We can use a calendar or a date calculation algorithm to determine the day of the week for this date.
+   - January 1, 2019 is a Tuesday, so January 2, 2019 is a Wednesday.
+
+4. Calculate the date one week from a given date.
+   - The current date is January 2, 2019.
+   - To calculate the date one week from this date, we add 7 days to the current date.
+   - January 2 + 7 = January 9.
+   - Therefore, the date one week from January 2, 2019 is January 9, 2019.
+
+5. Calculate the date x days ago from a given date.
+   - There is no need to calculate the date x days ago for this problem.
+
+6. Calculate the date x days later from a given date.
+   - There is no need to calculate the date x days later for this problem.
+
+7. Determine if a given year is a leap year.
+   - The year 2019 is not a leap year.
+
+8. Determine the last day of a given month in a given year.
+   - The current month is January and the current year is 2019.
+   - We can use a calendar or a date calculation algorithm to determine the last day of January 2019.
+   - The last day of January 2019 is January 31.
+
+9. Calculate the date x years ago from a given date.
+   - There is no need to calculate the date x years ago for this problem.
+
+10. Calculate the date x years later from a given date.
+    - There is no need to calculate the date x years later for this problem.
+
+Answer: The answer is 01/07/2019.
+
+
+
+Question: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - Today's date is 06/02/1943.
+
+2. Calculate the time difference in hours between two given dates.
+   - There is a time difference of 24 hours between the scheduled date and today's date.
+
+3. Determine the day of the week for a given date.
+   - The day of the week for 06/01/1943 is Tuesday.
+
+4. Calculate the date one week from a given date.
+   - One week from 06/01/1943 is 06/08/1943.
+
+5. Calculate the date x days ago from a given date.
+   - 10 days ago from 06/02/1943 is 05/23/1943.
+
+6. Calculate the date x days later from a given date.
+   - 10 days later from 06/02/1943 is 06/12/1943.
+
+7. Determine if a given year is a leap year.
+   - 1943 is not a leap year.
+
+8. Determine the last day of a given month in a given year.
+   - The last day of June 1943 is 06/30/1943.
+
+9. Calculate the date x years ago from a given date.
+   - 1 year ago from 06/02/1943 is 06/02/1942.
+
+10. Calculate the date x years later from a given date.
+    - 1 year later from 06/02/1943 is 06/02/1944.
+
+Answer: The answer is 05/23/1943.
+
+
+
+Question: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - Current date is 4/19/1969.
+2. Calculate the time difference in hours between two given dates.
+   - The time difference is 24 hours.
+3. Determine the day of the week for a given date.
+   - The day of the week for 4/19/1969 is Saturday.
+4. Calculate the date one week from a given date.
+   - One week from 4/19/1969 is 4/26/1969.
+5. Calculate the date x days ago from a given date.
+   - 24 hours ago from 4/19/1969 is 4/18/1969.
+6. Calculate the date x days later from a given date.
+   - 24 hours later from 4/19/1969 is 4/20/1969.
+7. Determine if a given year is a leap year.
+   - 1969 is not a leap year.
+8. Determine the last day of a given month in a given year.
+   - The last day of April in 1969 is 4/30/1969.
+9. Calculate the date x years ago from a given date.
+   - 1 year ago from 4/19/1969 is 4/19/1968.
+10. Calculate the date x years later from a given date.
+    - 1 year later from 4/19/1969 is 4/19/1970.
+
+Answer: The answer is 04/20/1969.
+
+
+
+Question: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - The current date is Mar 12, 2002.
+2. Calculate the time difference in hours between two given dates.
+   - The time difference is 24 hours.
+3. Determine the day of the week for a given date.
+   - The day of the week for Mar 12, 2002, is Tuesday.
+4. Calculate the date one week from a given date.
+   - One week from Mar 12, 2002, is Mar 19, 2002.
+5. Calculate the date x days ago from a given date.
+   - 1 day ago from Mar 12, 2002, is Mar 11, 2002.
+6. Calculate the date x days later from a given date.
+   - 24 hours later from Mar 12, 2002, is Mar 13, 2002.
+7. Determine if a given year is a leap year.
+   - The year 2002 is not a leap year.
+8. Determine the last day of a given month in a given year.
+   - The last day of March in 2002 is Mar 31, 2002.
+9. Calculate the date x years ago from a given date.
+   - 1 year ago from Mar 12, 2002, is Mar 12, 2001.
+10. Calculate the date x years later from a given date.
+    - 1 year later from Mar 12, 2002, is Mar 12, 2003.
+
+Answer: The answer is 03/13/2002.
+
+
+
+Question: Jane was born on the last day of February in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Solution:
+1. Determine the current date.
+   - Today's date is 02/28/2017.
+
+2. Calculate the time difference in hours between two given dates.
+   - There is no need to calculate the time difference in hours for this question.
+
+3. Determine the day of the week for a given date.
+   - Today is Tuesday.
+
+4. Calculate the date one week from a given date.
+   - One week from today is 03/07/2017.
+
+5. Calculate the date x days ago from a given date.
+   - Yesterday's date is 02/27/2017.
+
+6. Calculate the date x days later from a given date.
+   - There is no need to calculate the date x days later for this question.
+
+7. Determine if a given year is a leap year.
+   - The year 2001 is not a leap year.
+
+8. Determine the last day of a given month in a given year.
+   - The last day of February in 2001 is 02/28/2001.
+
+9. Calculate the date x years ago from a given date.
+   - There is no need to calculate the date x years ago for this question.
+
+10. Calculate the date x years later from a given date.
+    - There is no need to calculate the date x years later for this question.
+
+Answer: The answer is 02/27/2017.

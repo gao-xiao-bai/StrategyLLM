@@ -1,0 +1,59 @@
+Strategy:
+1. Read and understand the given multi-step arithmetic problem. Identify the operations involved (addition, subtraction, multiplication, etc.) and their order of precedence.
+2. Apply the order of operations (PEMDAS/BODMAS) to solve the problem step by step. PEMDAS stands for Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). BODMAS is essentially the same, standing for Brackets, Orders (i.e., exponents), Division and Multiplication (from left to right), Addition and Subtraction (from left to right). This is crucial to getting the correct answer to any multi-step arithmetic problem.
+3. Begin by solving operations inside parentheses, starting from the innermost parentheses and working outwards.
+4. Next, calculate all exponents (if any) in the expression.
+5. After that, perform all multiplication and division operations from left to right.
+6. Lastly, conduct all addition and subtraction operations from left to right.
+7. The final result obtained after these operations is the answer to the multi-step arithmetic problem.
+8. If necessary, verify the answer using a calculator or by working through the problem again to ensure accuracy.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Identify the operations involved and their order of precedence. The operations involved are addition, subtraction, and multiplication. According to the order of operations (PEMDAS/BODMAS), we should first perform the multiplication operation, then the addition and subtraction operations inside the parentheses, and finally the multiplication of the results from both parentheses.
+2. Apply the order of operations to solve the problem step by step.
+   - Begin by solving operations inside parentheses, starting from the innermost parentheses and working outwards.
+     - Inside the first parentheses, we have -5 + 9 * -4 - 0. According to the order of operations, we should perform the multiplication first: 9 * -4 = -36.
+     - Now, we have -5 + -36 - 0. Perform the addition and subtraction operations from left to right: -5 - 36 = -41, and -41 - 0 = -41.
+   - Inside the second parentheses, we have 4 + -7 + 0 * -5. Since multiplication and division have higher precedence than addition and subtraction, we should perform the multiplication first: 0 * -5 = 0.
+     - Now, we have 4 + -7 + 0. Perform the addition and subtraction operations from left to right: 4 - 7 = -3, and -3 + 0 = -3.
+   - Finally, multiply the results from both parentheses: -41 * -3.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. Identify the operations involved: multiplication and addition.
+2. Apply the order of operations (PEMDAS/BODMAS):
+   - Parentheses: Solve the operations inside the parentheses.
+     - First parentheses: (-9 * 7 * 7 * -9)
+       - Multiply -9 * 7 = -63
+       - Multiply -63 * 7 = -441
+       - Multiply -441 * -9 = 3969
+     - Second parentheses: (4 * -9 - 8 - -4)
+       - Multiply 4 * -9 = -36
+       - Subtract -36 - 8 = -44
+       - Add -44 - -4 = -40
+   - Addition: Add the results of the two parentheses.
+     - Add 3969 + (-40) = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. Identify the operations involved and their order of precedence. The operations involved are addition, subtraction, and multiplication. According to the order of operations (PEMDAS/BODMAS), we should first perform the multiplication inside the parentheses, then the addition and subtraction inside the parentheses, and finally the subtraction outside the parentheses.
+2. Apply the order of operations to solve the problem step by step.
+   - Inside the first parentheses, we have -3 + 5 * 8 * -4. According to the order of operations, we should first perform the multiplication: 5 * 8 = 40, and then 40 * -4 = -160. So, the expression becomes -3 + -160.
+   - Inside the second parentheses, we have 9 - 8 * -7 + -9. Again, we should first perform the multiplication: 8 * -7 = -56. So, the expression becomes 9 + 56 - 9.
+   - Now, we can perform the addition and subtraction inside the parentheses. Inside the first parentheses, we have -3 + -160 = -163. Inside the second parentheses, we have 9 + 56 - 9 = 56.
+   - Finally, we can perform the subtraction outside the parentheses: -163 - 56 = -219.
+
+Answer: The answer is -219.

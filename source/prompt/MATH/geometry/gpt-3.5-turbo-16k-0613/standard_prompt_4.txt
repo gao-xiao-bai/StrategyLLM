@@ -1,0 +1,29 @@
+Question: Two sectors of a circle of radius $12$ overlap as shown, with $P$ and $R$ as the centers of the respective circles. Determine the area of the shaded region.
+
+[asy]
+draw((0,0)--(10.3923,-6)--(20.7846,0)--(10.3923,6)--cycle,black+linewidth(1));
+filldraw((10.3923,6)..(12,0)..(10.3923,-6)--cycle,gray,black+linewidth(1));
+filldraw((10.3923,6)..(8.7846,0)..(10.3923,-6)--cycle,gray,black+linewidth(1));
+label("$P$",(0,0),W);
+label("$Q$",(10.3923,6),N);
+label("$R$",(20.7846,0),E);
+label("$S$",(10.3923,-6),S);
+label("$60^\circ$",(0,0),2E);
+label("$60^\circ$",(20.7846,0),2W);
+[/asy]
+Answer: The answer is 48\pi-72\sqrt{3}
+
+
+
+Question: The square with vertices $(-a, -a), (a, -a), (-a, a), (a, a)$ is cut by the line $y = x/2$ into congruent quadrilaterals.  The perimeter of one of these congruent quadrilaterals divided by $a$ equals what?  Express your answer in simplified radical form.
+Answer: The answer is 4+\sqrt{5}
+
+
+
+Question: A right circular cylinder with radius 2 is inscribed in a hemisphere with radius 5 so that its bases are parallel to the base of the hemisphere.  What is the height of this cylinder?
+Answer: The answer is \sqrt{21}
+
+
+
+Question: Parallelogram $ABCD$ with $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$ is reflected across the $x$-axis to $A'B'C'D'$ and then $A'B'C'D'$ is reflected across the line $y=x+1$ to $A''B''C''D''$. This is done such that $D'$ is the image of $D$, and $D''$ is the image of $D'$. What is the ordered pair of $D''$ in the coordinate plane?
+Answer: The answer is (-2,5)

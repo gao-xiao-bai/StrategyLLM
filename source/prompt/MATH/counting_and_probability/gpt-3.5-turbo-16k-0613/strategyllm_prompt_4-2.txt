@@ -1,0 +1,102 @@
+Strategy:
+1. Counting: Identify the type of counting problem (permutations or combinations) and determine the number of possibilities based on the given conditions.
+2. Probability: Calculate the probability by dividing the desired outcomes by the total number of possible outcomes.
+3. Distinguishable arrangements: Determine the number of distinguishable arrangements by considering rotations, reflections, or other symmetries.
+4. Sentence construction: Generate valid sentences by considering the grammar rules and restrictions.
+5. Binomial coefficients: Use binomial coefficients to calculate combinations and solve problems involving them. Apply the identity $\binom{n}{k} = \binom{n}{n-k}$ when applicable.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution:
+1. Counting: Since the number must be odd, the last digit must be either 3 or 7. The first three digits can be arranged in any order. Therefore, the total number of possibilities is 4! = 24.
+
+2. Probability: To calculate the probability, we need to determine the number of desired outcomes. If the last digit is 3, there are 3! = 6 ways to arrange the remaining digits. Similarly, if the last digit is 7, there are also 3! = 6 ways to arrange the remaining digits. Therefore, the total number of desired outcomes is 6 + 6 = 12.
+
+3. Distinguishable arrangements: In this case, there are no rotations, reflections, or other symmetries to consider.
+
+4. Sentence construction: The sentence is already constructed correctly.
+
+5. Binomial coefficients: Binomial coefficients are not applicable in this example.
+
+Answer: The answer is 12/24, which simplifies to 1/2.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron?
+
+Solution:
+1. Counting: We need to determine the number of possibilities based on the given conditions. In this case, we need to count the number of ways to arrange the eight congruent equilateral triangles to form a regular octahedron.
+
+2. Distinguishable arrangements: Two colored octahedrons are distinguishable if neither can be rotated to look just like the other. This means that we need to consider rotations and reflections when counting the arrangements.
+
+3. Distinguishable arrangements: To determine the number of distinguishable arrangements, we can use the concept of Burnside's Lemma. This lemma states that the number of distinguishable arrangements is equal to the average number of fixed points under all possible rotations and reflections.
+
+4. Distinguishable arrangements: Let's consider the rotations and reflections of the octahedron. There are a total of 24 possible rotations and reflections: 1 identity, 3 rotations about an axis passing through opposite vertices, 4 rotations about an axis passing through opposite faces, 3 rotations about an axis passing through opposite edges, 6 reflections through a plane passing through opposite vertices, and 6 reflections through a plane passing through opposite faces.
+
+5. Distinguishable arrangements: We need to count the number of fixed points under each rotation and reflection. A fixed point is a vertex that remains in the same position after the rotation or reflection.
+
+6. Distinguishable arrangements: The identity rotation has 8 fixed points, as each vertex remains in the same position.
+
+7. Distinguishable arrangements: The rotations about an axis passing through opposite vertices have 0 fixed points, as each vertex moves to a different position.
+
+8. Distinguishable arrangements: The rotations about an axis passing through opposite faces have 2 fixed points, as each vertex on the axis remains in the same position.
+
+9. Distinguishable arrangements: The rotations about an axis passing through opposite edges have 4 fixed points, as each vertex on the axis remains in the same position.
+
+10. Distinguishable arrangements: The reflections through a plane passing through opposite vertices have 0 fixed points, as each vertex moves to a different position.
+
+11. Distinguishable arrangements: The reflections through a plane passing through opposite faces have 2 fixed points, as each vertex on the axis remains in the same position.
+
+12. Distinguishable arrangements: Now, we can calculate the average number of fixed points by summing the number of fixed points under each rotation and reflection and dividing by the total number of rotations and reflections.
+
+Average number of fixed points = (1 * 8 + 3 * 0 + 4 * 2 + 3 * 4 + 6 * 0 + 6 * 2) / 24 = 56 / 24 = 7 / 3
+
+13. Distinguishable arrangements: Finally, we can calculate the number of distinguishable ways to construct the octahedron by dividing the total number of possible arrangements by the average number of fixed points.
+
+Number of distinguishable ways = 8! / (7 / 3) = 1680
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution:
+1. Counting: Since the order matters and repetition is allowed, we need to find the number of permutations of the 3 words. The total number of possibilities is $3! = 3 \times 2 \times 1 = 6$.
+
+2. Probability: We are not calculating the probability in this problem.
+
+3. Distinguishable arrangements: There are no rotations, reflections, or other symmetries to consider in this problem.
+
+4. Sentence construction: We need to generate valid sentences by considering the grammar rules and restrictions. Let's list all the possible sentences:
+- splargh glumph amr
+- splargh amr glumph
+- glumph splargh amr
+- glumph amr splargh
+- amr splargh glumph
+- amr glumph splargh
+
+5. Binomial coefficients: We are not using binomial coefficients in this problem.
+
+Answer: The answer is 6.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution:
+1. Counting: We are given three binomial coefficients: $\binom{17}{7}=19448$, $\binom{17}{8}=24310$, and $\binom{17}{9}=24310$. We need to calculate $\binom{19}{9}$.
+
+2. Binomial coefficients: We can use the identity $\binom{n}{k} = \binom{n}{n-k}$ to simplify the problem. Since $\binom{17}{9} = \binom{17}{17-9} = \binom{17}{8}$, we can conclude that $\binom{17}{8} = 24310$.
+
+3. Binomial coefficients: We can use the identity $\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$ to calculate $\binom{19}{9}$. Since $\binom{17}{8} = 24310$, we can calculate $\binom{18}{8}$ and $\binom{18}{9}$.
+
+   - $\binom{18}{8} = \binom{17}{7} + \binom{17}{8} = 19448 + 24310 = 43758$
+   - $\binom{18}{9} = \binom{17}{8} + \binom{17}{9} = 24310 + 24310 = 48620$
+
+4. Binomial coefficients: Finally, we can calculate $\binom{19}{9}$ using the identity $\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$. Since $\binom{18}{8} = 43758$ and $\binom{18}{9} = 48620$, we can calculate $\binom{19}{9}$.
+
+   - $\binom{19}{9} = \binom{18}{8} + \binom{18}{9} = 43758 + 48620 = 92378$
+
+Answer: The answer is 92378.

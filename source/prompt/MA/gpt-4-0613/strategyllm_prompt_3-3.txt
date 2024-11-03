@@ -1,0 +1,75 @@
+Strategy:
+1. Start by identifying and understanding the arithmetic problem given in the question.
+2. Break down the problem into smaller arithmetic operations according to the order of operations, also known as BIDMAS/BODMAS/PEDMAS rule (Brackets/Orders/Division/Multiplication/Addition/Subtraction).
+3. Begin with the operations within brackets. If there are nested brackets, start with the innermost one. 
+4. If any operation involves exponentiation (indicated by "Orders" in BIDMAS), solve this next.
+5. Perform any division or multiplication operations next. These should be performed as encountered from left to right.
+6. Lastly, carry out any addition or subtraction operations, again from left to right.
+7. Repeat the process of BIDMAS/BODMAS/PEDMAS for each bracket or subsequence until the entire arithmetic problem has been addressed.
+8. Once all operations have been carried out, conclude with the final answer.
+9. Express the answer in the required format as mentioned in the question.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution: 
+1. Identify the arithmetic problem: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5))
+2. Break down the problem according to BIDMAS/BODMAS/PEDMAS rule.
+3. Start with the operations within brackets.
+   - For the first bracket, (-5 + 9 * -4 - 0), perform multiplication first: 9 * -4 = -36. So, the expression becomes (-5 + -36 - 0).
+   - Then perform addition and subtraction from left to right: -5 + -36 = -41, and -41 - 0 = -41.
+   - So, the first bracket simplifies to -41.
+   - For the second bracket, (4 + -7 + 0 * -5), perform multiplication first: 0 * -5 = 0. So, the expression becomes (4 + -7 + 0).
+   - Then perform addition and subtraction from left to right: 4 + -7 = -3, and -3 + 0 = -3.
+   - So, the second bracket simplifies to -3.
+4. The problem now becomes (-41 * -3).
+5. Perform the multiplication: -41 * -3 = 123.
+6. So, the final answer is 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution: 
+1. Identify the arithmetic problem: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+2. Break down the problem according to BIDMAS/BODMAS/PEDMAS rule.
+3. Start with the operations within brackets.
+   - First bracket: (-9 * 7 * 7 * -9)
+     - Multiply -9 and 7 to get -63.
+     - Multiply -63 and 7 to get -441.
+     - Multiply -441 and -9 to get 3969.
+   - Second bracket: (4 * -9 - 8 - -4)
+     - Multiply 4 and -9 to get -36.
+     - Subtract 8 from -36 to get -44.
+     - Subtract -4 from -44 to get -40.
+4. There are no exponentiation operations in this problem.
+5. There are no division operations in this problem.
+6. Perform the addition operation: 3969 + -40 = 3929.
+7. There are no more operations to perform.
+8. The final answer is 3929.
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution: 
+1. Identify the arithmetic problem: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9))
+2. Break down the problem according to BIDMAS/BODMAS/PEDMAS rule.
+3. Start with the operations within brackets.
+   - For the first bracket (-3 + 5 * 8 * -4):
+     - Perform multiplication first: 5 * 8 = 40 and 40 * -4 = -160
+     - Then perform addition: -3 + -160 = -163
+   - For the second bracket (9 - 8 * -7 + -9):
+     - Perform multiplication first: 8 * -7 = -56
+     - Then perform addition and subtraction from left to right: 9 - -56 = 65 and 65 + -9 = 56
+4. There are no exponentiation operations in this problem.
+5. There are no division operations in this problem.
+6. Perform the subtraction operation: -163 - 56 = -219
+7. The entire arithmetic problem has been addressed.
+8. The final answer is -219.
+
+Answer: The answer is -219.

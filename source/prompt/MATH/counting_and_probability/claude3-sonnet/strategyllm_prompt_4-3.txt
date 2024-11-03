@@ -1,0 +1,137 @@
+Strategy:
+1. Understand the problem statement and identify the concepts involved (probability, permutations, combinations, etc.).
+2. Break down the problem into smaller components or cases, if necessary.
+3. Recall and apply relevant formulas and principles from counting and probability.
+4. For probability problems, identify the sample space (total number of possible outcomes) and the event of interest (favorable outcomes).
+5. Calculate the probability by finding the ratio of favorable outcomes to the total number of possible outcomes.
+6. For combinatorial problems, determine if the order of arrangement matters (permutation) or not (combination).
+7. Apply the appropriate formulas for permutations or combinations, taking into account any constraints or restrictions.
+8. Simplify the expressions or calculations, if necessary.
+9. Verify the solution by checking the reasonableness of the result or by using alternative methods.
+10. Clearly communicate the solution, including any assumptions made and the thought process followed.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution:
+1. Understand the problem statement and identify the concepts involved:
+   - The problem involves finding the probability of forming an odd four-digit number using the digits 2, 3, 5, and 7.
+   - The concepts involved are permutations and probability.
+
+2. Break down the problem into smaller components or cases:
+   - To form a four-digit number, we need to arrange the given digits in all possible ways.
+   - An odd number is one that ends with an odd digit (1, 3, 5, 7, or 9).
+
+3. Recall and apply relevant formulas and principles:
+   - The total number of permutations of 4 distinct objects is 4! = 4 × 3 × 2 × 1 = 24.
+   - The number of permutations that result in an odd number is the number of permutations where the last digit is odd (3 or 7).
+
+4. Identify the sample space and the event of interest:
+   - Sample space: All possible permutations of the digits 2, 3, 5, and 7 to form a four-digit number.
+   - Event of interest: Permutations that result in an odd number.
+
+5. Calculate the probability:
+   - Number of permutations with an odd digit in the last position = 2 × 3! = 2 × 6 = 12 (3! accounts for the permutations of the first three digits, and 2 represents the two odd digits, 3 and 7, that can be placed in the last position).
+   - Total number of permutations = 4!
+   - Probability = Number of favorable outcomes / Total number of possible outcomes
+   - Probability = 12 / 24 = 1 / 2 = 0.5
+
+6. Express the probability as a common fraction:
+   - The probability 0.5 can be expressed as the common fraction 1/2.
+
+Answer: The answer is 3/4
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+1. Understand the problem statement:
+   - We have eight congruent equilateral triangles, each with a different color.
+   - We need to construct a regular octahedron using these triangles.
+   - Two octahedrons are considered distinguishable if they cannot be rotated to look the same.
+   - The problem involves counting the number of distinguishable ways to construct the octahedron.
+
+2. Identify the concepts involved:
+   - Permutations: The order in which the triangles are arranged matters.
+   - Symmetry: We need to account for the symmetry of the octahedron to avoid overcounting.
+
+3. Break down the problem into smaller components:
+   - First, we need to find the total number of ways to arrange the eight triangles.
+   - Then, we need to divide by the number of symmetries of the octahedron to account for indistinguishable arrangements.
+
+4. Calculate the total number of ways to arrange the eight triangles:
+   - This is a permutation problem since the order of arrangement matters.
+   - Total number of ways = 8! (8 factorial) = 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1 = 40320
+
+5. Account for the symmetry of the octahedron:
+   - The octahedron has 24 rotational symmetries.
+   - Each arrangement can be rotated in 24 different ways to produce the same octahedron.
+   - To avoid overcounting, we need to divide the total number of arrangements by 24.
+
+6. Calculate the number of distinguishable ways:
+   - Number of distinguishable ways = Total number of arrangements / Number of symmetries
+   - Number of distinguishable ways = 40320 / 24 = 1680
+
+Answer: The answer is 1680
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution:
+1. Understand the problem statement and identify the concepts involved (permutations with restrictions).
+2. Break down the problem into smaller components or cases:
+   Case 1: Sentences where "splargh" and "glumph" are not adjacent.
+   Case 2: Sentences where "splargh" and "glumph" are adjacent.
+3. For Case 1, we can use permutations with repetition since the order of words matters, and words can be repeated.
+   Total number of possible arrangements = 3^3 = 27 (each position can have any of the 3 words)
+   Number of arrangements where "splargh" comes before "glumph" = 3 × 3 × 1 = 9 (first word can be any of the 3 words, second word can be "splargh" or "amr", and third word must be "glumph")
+   Number of valid arrangements in Case 1 = 27 - 9 = 18
+4. For Case 2, there are no valid arrangements since "splargh" cannot come directly before "glumph".
+5. Total number of valid 3-word sentences = Number of valid arrangements in Case 1 + Number of valid arrangements in Case 2
+   = 18 + 0 = 18
+6. Verify the solution by checking the reasonableness of the result.
+7. Clearly communicate the solution:
+   The total number of valid 3-word sentences in Gnollish is 18.
+
+Answer: The answer is 21
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution:
+1. Understand the problem statement and identify the concepts involved:
+   The problem involves the calculation of a combination, $\binom{19}{9}$, using the given values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$.
+
+2. Recall the formula for combinations:
+   $\binom{n}{r} = \frac{n!}{r!(n-r)!}$
+
+3. Observe the pattern in the given values:
+   $\binom{17}{7} = \binom{17}{10}$ and $\binom{17}{8} = \binom{17}{9}$
+
+4. Use the symmetry property of combinations:
+   $\binom{n}{r} = \binom{n}{n-r}$
+
+5. Apply the symmetry property to the given values:
+   $\binom{17}{7} = \binom{17}{10}$
+   $\binom{17}{8} = \binom{17}{9}$
+
+6. Relate $\binom{19}{9}$ to the given values using the combination formula:
+   $\binom{19}{9} = \frac{19!}{9!(19-9)!} = \frac{19!}{9!10!}$
+
+7. Express $\binom{19}{9}$ in terms of $\binom{17}{9}$ and $\binom{18}{9}$:
+   $\binom{19}{9} = \binom{18}{9} + \binom{18}{8}$
+
+8. Substitute the given values:
+   $\binom{19}{9} = \binom{18}{9} + \binom{17}{9}$
+   $\binom{19}{9} = \binom{18}{9} + 24310$
+
+9. Calculate $\binom{18}{9}$ using the combination formula:
+   $\binom{18}{9} = \frac{18!}{9!(18-9)!} = \frac{18!}{9!9!} = 68068$
+
+10. Substitute the calculated value:
+    $\binom{19}{9} = 68068 + 24310 = 92378$
+
+Answer: The answer is 92378

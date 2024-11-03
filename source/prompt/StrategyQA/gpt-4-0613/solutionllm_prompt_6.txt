@@ -1,0 +1,33 @@
+Question: Do hamsters provide food for any animals?
+Solution: Hamsters are small rodents that are often kept as pets. However, in the wild, they are prey for various animals such as birds of prey, foxes, weasels, and snakes. Therefore, hamsters do provide food for other animals.
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution: Brooke Shields is a well-known actress and model. She is also known for her intelligence and academic achievements. She graduated from Princeton University with a degree in French Literature. Given her previous academic success at a similarly prestigious institution, it can be inferred that she could also succeed at the University of Pennsylvania.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution: The atomic number of Hydrogen is 1. When squared, it remains 1. The Spice Girls were a group of 5 members. Therefore, 1 is not greater than 5.
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution: College commencements in the United States typically occur in the spring for most schools, specifically in May or June. However, some schools, particularly those on a trimester or quarter system, may have commencements in the winter, specifically in December or January. During these winter commencements, it is common to see frost in many parts of the country. Therefore, it can be inferred that it is common to see frost during some college commencements.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution: To answer this question, we need to consider two facts. First, the duration of the Vietnam War in the question is from 1945 to 1946, which is approximately one year. Second, the gestation period of a llama is typically about 11.5 months. Therefore, it is impossible for a llama to give birth twice within the span of one year. 
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution: The density of a pear is less than the density of water. Objects with a lower density than water will float when placed in water. Therefore, a pear would not sink in water.
+Answer: The answer is no.

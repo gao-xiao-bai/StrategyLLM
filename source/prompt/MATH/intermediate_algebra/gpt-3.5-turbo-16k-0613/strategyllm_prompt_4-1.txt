@@ -1,0 +1,161 @@
+Strategy:
+1. Begin by identifying the type of problem you are given: quadratic polynomial, algebraic equation, geometric problem, etc.
+
+2. If the problem involves a polynomial, start by determining the degree of the polynomial and then proceed to solve for the unknown coefficients using the given conditions or given equations.
+
+3. If the problem involves algebraic equations, simplify the expressions and solve for the unknowns by isolating the variable. Make use of algebraic rules such as distributive property, solving equations with fractions, and solving systems of equations if necessary.
+
+4. If the problem involves geometric concepts, analyze the given information and understand the geometric relationships involved. Apply the appropriate formulas or theorems and solve for the unknown quantities.
+
+5. If the problem involves inequalities, solve for the range of possible values by analyzing the conditions or constraints given. Make use of algebraic manipulation and reasoning skills to determine the range or the maximum/minimum values.
+
+6. If the problem involves functions, analyze the properties of the function and use any given information to determine the unknown variables, such as finding the maximum/minimum values, solving for x-intercepts or y-intercepts, or finding asymptotes.
+
+7. Check your solutions by substituting them back into the original equation or problem statement to ensure they satisfy the given conditions.
+
+Examples:
+Question: Find the quadratic polynomial $p(x)$ such that $p(-3) = 10,$ $p(0) = 1,$ and $p(2) = 5.$
+
+Solution:
+1. Identify the type of problem: quadratic polynomial.
+
+2. Determine the degree of the polynomial and solve for the unknown coefficients using the given conditions.
+
+Let the quadratic polynomial be $p(x) = ax^2 + bx + c$.
+
+Using the given conditions:
+$p(-3) = 10 \Rightarrow a(-3)^2 + b(-3) + c = 10$
+$p(0) = 1 \Rightarrow a(0)^2 + b(0) + c = 1$
+$p(2) = 5 \Rightarrow a(2)^2 + b(2) + c = 5$
+
+Simplifying the equations:
+$9a - 3b + c = 10$
+$c = 1$
+$4a + 2b + c = 5$
+
+Substituting $c = 1$ into the equations:
+$9a - 3b + 1 = 10$
+$4a + 2b + 1 = 5$
+
+Simplifying further:
+$9a - 3b = 9$
+$4a + 2b = 4$
+
+3. Solve the system of equations using algebraic manipulation.
+
+Multiplying the second equation by 3:
+$9a - 3b = 9$
+$12a + 6b = 12$
+
+Adding the equations together:
+$21a = 21$
+
+Dividing both sides by 21:
+$a = 1$
+
+Substituting $a = 1$ into the second equation:
+$4(1) + 2b = 4$
+$4 + 2b = 4$
+$2b = 0$
+
+Dividing both sides by 2:
+$b = 0$
+
+Substituting $a = 1$ and $b = 0$ into the first equation:
+$9(1) - 3(0) = 9$
+$9 = 9$
+
+Therefore, $a = 1$, $b = 0$, and $c = 1$.
+
+4. Write the quadratic polynomial $p(x)$.
+
+$p(x) = 1x^2 + 0x + 1$
+
+Simplifying:
+$p(x) = x^2 + 1$
+
+Answer: The answer is $x^2 + 1$
+
+
+
+Question: Calculate: $\frac53\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+
+Solution:
+Step 1: Identify the type of problem: This problem involves multiplying fractions.
+
+Step 2: Simplify the fractions:
+$\frac{5}{3}\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+$=\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}$
+$=1\times1\times1\times1\times1\times1\times1\times1$
+$=1$
+
+Step 3: Check the solution:
+Substituting the simplified fractions back into the original equation:
+$\frac{5}{3}\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+$=\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}$
+$=1\times1\times1\times1\times1\times1\times1\times1$
+$=1$
+
+Answer: The answer is 1
+
+
+
+Question: For $-25 \le x \le 25,$ find the maximum value of $\sqrt{25 + x} + \sqrt{25 - x}.$
+
+Solution:
+1. Identify the type of problem: This problem involves finding the maximum value of an expression.
+
+2. Determine the degree of the expression: The expression $\sqrt{25 + x} + \sqrt{25 - x}$ does not involve any exponents, so it is not a polynomial.
+
+3. Simplify the expression: We can simplify the expression by combining the square roots. 
+
+$\sqrt{25 + x} + \sqrt{25 - x} = \sqrt{25 + x} + \sqrt{-(x - 25)}$
+
+4. Analyze the given information: The problem states that $-25 \le x \le 25$, which means that $x$ can take any value between -25 and 25.
+
+5. Determine the range of possible values: Since the expression involves square roots, we need to consider the non-negative values of the expressions inside the square roots.
+
+For $\sqrt{25 + x}$ to be non-negative, we need $25 + x \ge 0 \Rightarrow x \ge -25$.
+
+For $\sqrt{-(x - 25)}$ to be non-negative, we need $-(x - 25) \ge 0 \Rightarrow x \le 25$.
+
+Combining the two conditions, we have $-25 \le x \le 25$.
+
+6. Find the maximum value: To find the maximum value of the expression, we need to consider the endpoints of the given range.
+
+When $x = -25$, the expression becomes $\sqrt{25 - 25} + \sqrt{25 + 25} = 0 + \sqrt{50} = \sqrt{50}$.
+
+When $x = 25$, the expression becomes $\sqrt{25 + 25} + \sqrt{25 - 25} = \sqrt{50} + 0 = \sqrt{50}$.
+
+Therefore, the maximum value of the expression is $\sqrt{50}$.
+
+Answer: The answer is $\sqrt{50}$.
+
+
+
+Question: The hyperbolas \[\frac{x^2}{4} - \frac{y^2}{9} = 1\]and \[\frac{y^2}{18} - \frac{x^2}{N} = 1\]have the same asymptotes. Find $N.$
+
+Solution:
+1. Identify the type of problem: This problem involves algebraic equations.
+
+2. Simplify the equations:
+   The equation \[\frac{x^2}{4} - \frac{y^2}{9} = 1\] can be rewritten as \[\frac{x^2}{2^2} - \frac{y^2}{3^2} = 1\].
+   The equation \[\frac{y^2}{18} - \frac{x^2}{N} = 1\] remains as it is.
+
+3. Determine the asymptotes:
+   The general equation of a hyperbola is \[\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\].
+   Comparing this with the given equation \[\frac{x^2}{2^2} - \frac{y^2}{3^2} = 1\], we can see that the asymptotes are the lines \[y = \pm \frac{b}{a}x\].
+   Therefore, the asymptotes for the first hyperbola are \[y = \pm \frac{3}{2}x\].
+
+4. Find the equation of the asymptotes for the second hyperbola:
+   Comparing the given equation \[\frac{y^2}{18} - \frac{x^2}{N} = 1\] with the general equation \[\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\], we can see that the asymptotes are the lines \[y = \pm \frac{b}{a}x\].
+   Since the asymptotes are the same for both hyperbolas, we can equate the slopes of the asymptotes for the two hyperbolas:
+   \[\frac{3}{2} = \pm \frac{\sqrt{18}}{\sqrt{N}}\].
+   Squaring both sides of the equation, we get:
+   \[\frac{9}{4} = \frac{18}{N}\].
+   Cross-multiplying, we have:
+   \[9N = 72\].
+   Dividing both sides by 9, we get:
+   \[N = 8\].
+
+Answer: The answer is 8.

@@ -1,0 +1,26 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+Solution: The number formed is odd if and only if its units digit is not 2. Since the digits 2, 3, 5, and 7 are arranged randomly, the probability that 2 is the units digit is 1/4. Therefore, the probability that the number is odd is $1-1/4=\boxed{\frac{3}{4}}$.
+Answer: The answer is \frac{3}{4}
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+[asy] import three; import math; unitsize(1.5cm); currentprojection=orthographic(2,0.2,1);  triple A=(0,0,1); triple B=(sqrt(2)/2,sqrt(2)/2,0); triple C=(sqrt(2)/2,-sqrt(2)/2,0); triple D=(-sqrt(2)/2,-sqrt(2)/2,0); triple E=(-sqrt(2)/2,sqrt(2)/2,0); triple F=(0,0,-1); draw(A--B--E--cycle); draw(A--C--D--cycle); draw(F--C--B--cycle); draw(F--D--E--cycle,dotted+linewidth(0.7)); [/asy]
+$\textbf {(A)}\ 210 \qquad \textbf {(B)}\ 560 \qquad \textbf {(C)}\ 840 \qquad \textbf {(D)}\ 1260 \qquad \textbf {(E)}\ 1680$
+Solution: Since the octahedron is indistinguishable by rotations, without loss of generality fix a face to be red.
+[asy] size(8cm); defaultpen(0.5); import three; import math; currentprojection=orthographic(2,0.2,1); triple A=(0,0,1); triple B=(sqrt(2)/2,sqrt(2)/2,0); triple C=(sqrt(2)/2,-sqrt(2)/2,0); triple D=(-sqrt(2)/2,-sqrt(2)/2,0); triple E=(-sqrt(2)/2,sqrt(2)/2,0); triple F=(0,0,-1); draw(A--B--E--cycle); draw(A--C--D--cycle); draw(F--C--B--cycle); draw(F--D--E--cycle,dotted+linewidth(0.7)); draw(surface(A--B--C--cycle),rgb(1,.6,.6),nolight);[/asy]
+There are $7!$ ways to arrange the remaining seven colors, but there still are three possible rotations about the fixed face, so the answer is $7!/3 = \boxed{1680}$.
+[asy] size(8cm); defaultpen(0.5); import three; import math; currentprojection=orthographic(2,0,1); triple A=(0,0,1); triple B=(sqrt(2)/2,sqrt(2)/2,0); triple C=(sqrt(2)/2,-sqrt(2)/2,0); triple D=(-sqrt(2)/2,-sqrt(2)/2,0); triple E=(-sqrt(2)/2,sqrt(2)/2,0); triple F=(0,0,-1); triple right=(0,1,0); picture p = new picture, r = new picture, s = new picture; draw(p,A--B--E--cycle); draw(p,A--C--D--cycle); draw(p,F--C--B--cycle); draw(p,F--D--E--cycle,dotted+linewidth(0.7)); draw(p,surface(A--B--C--cycle),rgb(1,.6,.6),nolight); draw(p,surface(A--B--E--cycle),rgb(1,1,.6),nolight); add(scale3(2.2)*p); draw(r,A--B--E--cycle); draw(r,A--C--D--cycle); draw(r,F--C--B--cycle); draw(r,F--D--E--cycle,dotted+linewidth(0.7)); draw(r,surface(A--B--C--cycle),rgb(1,.6,.6),nolight); draw(r,surface(A--C--D--cycle),rgb(1,1,.6),nolight); add(scale3(2.2)*shift(2*right)*r); draw(s,A--B--E--cycle); draw(s,A--C--D--cycle); draw(s,F--C--B--cycle); draw(s,F--D--E--cycle,dotted+linewidth(0.7)); draw(s,surface(A--B--C--cycle),rgb(1,.6,.6),nolight); draw(s,surface(B--C--F--cycle),rgb(1,1,.6),nolight); add(scale3(2.2)*shift(4*right)*s); [/asy]
+Answer: The answer is 1680
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+Solution: We proceed by counting the complement, or the number of invalid 3-word sentences.  A sentence is invalid precisely when it is of the form ``(word) splargh glumph'' or ``splargh glumph (word).''  There are 3 choices for the missing word in each sentence, and since each case is exclusive, we have a total of 6 invalid sentences.  Since there are $3\cdot 3\cdot 3 = 27$ possible 3-word sentences with no restrictions, there are $27-6 = \boxed{21}$ that satisfy the restrictions of the problem.
+Answer: The answer is 21
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+Solution: We can apply Pascal's identity to get that $\binom{19}{9}=\binom{18}{8}+\binom{18}{9}$. From here, we can apply it twice more to get that  $\binom{19}{9}=\binom{18}{8}+\binom{18}{9}=\left(\binom{17}{7}+\binom{17}{8}\right)+\left(\binom{17}{8}+\binom{17}{9}\right)$. Substituting the provided values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$ gives us $\binom{19}{9}=19448+2(24310)+24310=\boxed{92378}$.
+Answer: The answer is 92378

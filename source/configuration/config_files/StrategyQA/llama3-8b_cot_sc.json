@@ -1,0 +1,6 @@
+{
+  "LM": "meta/meta-llama-3-8b-instruct",
+  "prompt_name": "cot",
+  "n_votes": 3,
+  "temperature": 0.7
+}

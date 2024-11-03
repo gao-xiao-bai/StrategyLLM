@@ -1,0 +1,1297 @@
+[
+    {
+        "id": 339,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/11/2017"
+    },
+    {
+        "id": 309,
+        "question": "Jane is celebrating the last day of Jan 2012. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 02/01/2012"
+    },
+    {
+        "id": 81,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 11/30/2019"
+    },
+    {
+        "id": 146,
+        "question": "Today is the first day of 2007. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/25/2006"
+    },
+    {
+        "id": 171,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/22/2010"
+    },
+    {
+        "id": 233,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 05/02/1943"
+    },
+    {
+        "id": 56,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 02/19/2016"
+    },
+    {
+        "id": 341,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 06/19/2017"
+    },
+    {
+        "id": 106,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 01/03/1987"
+    },
+    {
+        "id": 319,
+        "question": "It was Sept. 1st, 2021 a week ago. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 08/29/2021"
+    },
+    {
+        "id": 137,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 03/12/2001"
+    },
+    {
+        "id": 347,
+        "question": "Today is the last day of the first quarter of 2008. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 03/31/2007"
+    },
+    {
+        "id": 82,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 11/21/2019"
+    },
+    {
+        "id": 321,
+        "question": "It was Sept. 1st, 2021 a week ago. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 09/08/2020"
+    },
+    {
+        "id": 62,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 02/28/2017"
+    },
+    {
+        "id": 172,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/22/2010"
+    },
+    {
+        "id": 257,
+        "question": "Today is the second day of the third month of 1966. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 03/03/1966"
+    },
+    {
+        "id": 2,
+        "question": "Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 04/21/2021"
+    },
+    {
+        "id": 356,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/31/2018"
+    },
+    {
+        "id": 192,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 06/26/2019"
+    },
+    {
+        "id": 235,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 05/26/1943"
+    },
+    {
+        "id": 334,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 06/19/2017"
+    },
+    {
+        "id": 74,
+        "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/02/2007"
+    },
+    {
+        "id": 206,
+        "question": "Today is Christmas Eve of 1937. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/14/1937"
+    },
+    {
+        "id": 307,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 10/16/1924"
+    },
+    {
+        "id": 231,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 06/03/1943"
+    },
+    {
+        "id": 58,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/28/2015"
+    },
+    {
+        "id": 57,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 01/29/2016"
+    },
+    {
+        "id": 88,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 09/12/2020"
+    },
+    {
+        "id": 119,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 07/28/2001"
+    },
+    {
+        "id": 304,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 10/15/1923"
+    },
+    {
+        "id": 24,
+        "question": "Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 11/18/2019"
+    },
+    {
+        "id": 268,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 08/28/2003"
+    },
+    {
+        "id": 337,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 05/18/2017"
+    },
+    {
+        "id": 70,
+        "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 01/02/2008"
+    },
+    {
+        "id": 273,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 09/08/2003"
+    },
+    {
+        "id": 135,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 03/02/2002"
+    },
+    {
+        "id": 216,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 01/02/2020"
+    },
+    {
+        "id": 86,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 12/08/2019"
+    },
+    {
+        "id": 167,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 01/22/2011"
+    },
+    {
+        "id": 98,
+        "question": "2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 12/31/2014"
+    },
+    {
+        "id": 159,
+        "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 03/06/1973"
+    },
+    {
+        "id": 212,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 02/02/2020"
+    },
+    {
+        "id": 68,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 03/07/2017"
+    },
+    {
+        "id": 117,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 07/18/2002"
+    },
+    {
+        "id": 131,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 02/17/2010"
+    },
+    {
+        "id": 15,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 06/06/2021"
+    },
+    {
+        "id": 60,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 03/07/2016"
+    },
+    {
+        "id": 80,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 12/02/2019"
+    },
+    {
+        "id": 12,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 04/30/2021"
+    },
+    {
+        "id": 255,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 05/05/2004"
+    },
+    {
+        "id": 39,
+        "question": "Today is Sep 9, 1909. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 08/09/1909"
+    },
+    {
+        "id": 64,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 02/18/2017"
+    },
+    {
+        "id": 218,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/26/2020"
+    },
+    {
+        "id": 263,
+        "question": "Today is the second day of the third month of 1966. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 03/09/1966"
+    },
+    {
+        "id": 335,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 06/17/2017"
+    },
+    {
+        "id": 310,
+        "question": "Jane is celebrating the last day of Jan 2012. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 01/30/2012"
+    },
+    {
+        "id": 228,
+        "question": "This is the last day of 1899. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/07/1900"
+    },
+    {
+        "id": 8,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 05/30/2021"
+    },
+    {
+        "id": 90,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 09/11/2020"
+    },
+    {
+        "id": 354,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/28/2018"
+    },
+    {
+        "id": 182,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/11/2019"
+    },
+    {
+        "id": 42,
+        "question": "Today is Sep 9, 1909. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 09/16/1909"
+    },
+    {
+        "id": 103,
+        "question": "2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/23/2014"
+    },
+    {
+        "id": 245,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 07/15/1972"
+    },
+    {
+        "id": 328,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/23/1962"
+    },
+    {
+        "id": 61,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 03/01/2016"
+    },
+    {
+        "id": 267,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 09/06/2003"
+    },
+    {
+        "id": 134,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 03/11/2002"
+    },
+    {
+        "id": 349,
+        "question": "Today is the last day of the first quarter of 2008. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 04/07/2008"
+    },
+    {
+        "id": 210,
+        "question": "Today is Christmas Eve of 1937. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 12/31/1937"
+    },
+    {
+        "id": 203,
+        "question": "Today is Christmas Eve of 1937. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 12/24/1937"
+    },
+    {
+        "id": 190,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/19/2018"
+    },
+    {
+        "id": 156,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 04/17/1985"
+    },
+    {
+        "id": 92,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 08/12/2020"
+    },
+    {
+        "id": 112,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/09/1987"
+    },
+    {
+        "id": 176,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 06/18/2019"
+    },
+    {
+        "id": 33,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 08/10/1997"
+    },
+    {
+        "id": 271,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 08/31/2003"
+    },
+    {
+        "id": 153,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 03/10/1985"
+    },
+    {
+        "id": 223,
+        "question": "This is the last day of 1899. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 12/30/1899"
+    },
+    {
+        "id": 127,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 01/16/2010"
+    },
+    {
+        "id": 305,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 10/08/1924"
+    },
+    {
+        "id": 186,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 06/20/2019"
+    },
+    {
+        "id": 5,
+        "question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 04/24/2021"
+    },
+    {
+        "id": 168,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 01/23/2011"
+    },
+    {
+        "id": 277,
+        "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/01/1929"
+    },
+    {
+        "id": 13,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 05/30/2020"
+    },
+    {
+        "id": 69,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 03/01/2017"
+    },
+    {
+        "id": 130,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 02/23/2010"
+    },
+    {
+        "id": 224,
+        "question": "This is the last day of 1899. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/21/1899"
+    },
+    {
+        "id": 220,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 02/03/2020"
+    },
+    {
+        "id": 292,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 11/23/2001"
+    },
+    {
+        "id": 150,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 04/11/1985"
+    },
+    {
+        "id": 287,
+        "question": "The day before yesterday was 11/23/1933. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/25/1932"
+    },
+    {
+        "id": 284,
+        "question": "The day before yesterday was 11/23/1933. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 11/26/1933"
+    },
+    {
+        "id": 201,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 05/13/2002"
+    },
+    {
+        "id": 118,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 06/28/2002"
+    },
+    {
+        "id": 240,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 07/07/1972"
+    },
+    {
+        "id": 91,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 09/02/2020"
+    },
+    {
+        "id": 331,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/09/1963"
+    },
+    {
+        "id": 346,
+        "question": "Today is the last day of the first quarter of 2008. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 02/29/2008"
+    },
+    {
+        "id": 6,
+        "question": "Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 05/08/2021"
+    },
+    {
+        "id": 198,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 04/06/2002"
+    },
+    {
+        "id": 121,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 08/04/2002"
+    },
+    {
+        "id": 314,
+        "question": "Jane is celebrating the last day of Jan 2012. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/24/2012"
+    },
+    {
+        "id": 239,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 07/09/1972"
+    },
+    {
+        "id": 14,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 05/23/2021"
+    },
+    {
+        "id": 9,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 05/31/2021"
+    },
+    {
+        "id": 145,
+        "question": "Today is the first day of 2007. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/01/2006"
+    },
+    {
+        "id": 77,
+        "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/09/2008"
+    },
+    {
+        "id": 180,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 05/18/2019"
+    },
+    {
+        "id": 246,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 07/09/1972"
+    },
+    {
+        "id": 139,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 03/19/2002"
+    },
+    {
+        "id": 357,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/14/2019"
+    },
+    {
+        "id": 36,
+        "question": "Today is Sep 9, 1909. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 09/10/1909"
+    },
+    {
+        "id": 302,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 10/05/1924"
+    },
+    {
+        "id": 17,
+        "question": "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 11/11/2019"
+    },
+    {
+        "id": 44,
+        "question": "It is 4/19/1969 today. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 04/19/1969"
+    },
+    {
+        "id": 129,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/09/2010"
+    },
+    {
+        "id": 3,
+        "question": "Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 04/01/2021"
+    },
+    {
+        "id": 275,
+        "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 12/31/1929"
+    },
+    {
+        "id": 348,
+        "question": "Today is the last day of the first quarter of 2008. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 03/24/2008"
+    },
+    {
+        "id": 152,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 03/31/1985"
+    },
+    {
+        "id": 59,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/22/2016"
+    },
+    {
+        "id": 297,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 11/29/2001"
+    },
+    {
+        "id": 102,
+        "question": "2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/30/2013"
+    },
+    {
+        "id": 351,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 01/07/2019"
+    },
+    {
+        "id": 38,
+        "question": "Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 08/30/1909"
+    },
+    {
+        "id": 265,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 09/07/2003"
+    },
+    {
+        "id": 26,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 08/03/1997"
+    },
+    {
+        "id": 342,
+        "question": "Today is the last day of the first quarter of 2008. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 03/31/2008"
+    },
+    {
+        "id": 270,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 09/07/2002"
+    },
+    {
+        "id": 165,
+        "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 03/12/1973"
+    },
+    {
+        "id": 254,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 05/11/2004"
+    },
+    {
+        "id": 151,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 04/09/1985"
+    },
+    {
+        "id": 338,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/18/2016"
+    },
+    {
+        "id": 83,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 11/01/2019"
+    },
+    {
+        "id": 323,
+        "question": "It was Sept. 1st, 2021 a week ago. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 09/15/2021"
+    },
+    {
+        "id": 93,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 09/12/2019"
+    },
+    {
+        "id": 189,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 05/19/2019"
+    },
+    {
+        "id": 138,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 03/05/2002"
+    },
+    {
+        "id": 234,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/02/1942"
+    },
+    {
+        "id": 249,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 05/03/2004"
+    },
+    {
+        "id": 11,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 05/20/2021"
+    },
+    {
+        "id": 54,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 03/01/2016"
+    },
+    {
+        "id": 43,
+        "question": "Today is Sep 9, 1909. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 09/10/1909"
+    },
+    {
+        "id": 27,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 08/04/1997"
+    },
+    {
+        "id": 22,
+        "question": "Tomorrow is 11/12/2019. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/11/2018"
+    },
+    {
+        "id": 174,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 01/29/2011"
+    },
+    {
+        "id": 288,
+        "question": "The day before yesterday was 11/23/1933. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/18/1933"
+    },
+    {
+        "id": 10,
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 05/29/2021"
+    },
+    {
+        "id": 232,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 06/01/1943"
+    },
+    {
+        "id": 262,
+        "question": "Today is the second day of the third month of 1966. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/23/1966"
+    },
+    {
+        "id": 65,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 01/28/2017"
+    },
+    {
+        "id": 238,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date today in MM/DD/YYYY?",
+        "answer": "#### 07/08/1972"
+    },
+    {
+        "id": 281,
+        "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 01/02/1930"
+    },
+    {
+        "id": 205,
+        "question": "Today is Christmas Eve of 1937. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 12/23/1937"
+    },
+    {
+        "id": 247,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 05/04/2004"
+    },
+    {
+        "id": 136,
+        "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 02/12/2002"
+    },
+    {
+        "id": 211,
+        "question": "Today is Christmas Eve of 1937. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 12/25/1937"
+    },
+    {
+        "id": 264,
+        "question": "Today is the second day of the third month of 1966. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 03/03/1966"
+    },
+    {
+        "id": 291,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 11/22/2001"
+    },
+    {
+        "id": 100,
+        "question": "2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/20/2014"
+    },
+    {
+        "id": 209,
+        "question": "Today is Christmas Eve of 1937. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/17/1937"
+    },
+    {
+        "id": 236,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 06/09/1943"
+    },
+    {
+        "id": 340,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 06/25/2017"
+    },
+    {
+        "id": 294,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 11/12/2001"
+    },
+    {
+        "id": 193,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 06/20/2019"
+    },
+    {
+        "id": 333,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 06/18/2017"
+    },
+    {
+        "id": 330,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/02/1962"
+    },
+    {
+        "id": 40,
+        "question": "Today is Sep 9, 1909. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 09/09/1908"
+    },
+    {
+        "id": 101,
+        "question": "2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 11/30/2014"
+    },
+    {
+        "id": 293,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 11/21/2001"
+    },
+    {
+        "id": 353,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 01/06/2019"
+    },
+    {
+        "id": 34,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 08/04/1997"
+    },
+    {
+        "id": 178,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 06/17/2019"
+    },
+    {
+        "id": 352,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 01/08/2019"
+    },
+    {
+        "id": 109,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/02/1986"
+    },
+    {
+        "id": 355,
+        "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/07/2018"
+    },
+    {
+        "id": 283,
+        "question": "The day before yesterday was 11/23/1933. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 11/24/1933"
+    },
+    {
+        "id": 164,
+        "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/26/1973"
+    },
+    {
+        "id": 194,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 05/06/2002"
+    },
+    {
+        "id": 52,
+        "question": "It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 04/20/1969"
+    },
+    {
+        "id": 84,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/01/2018"
+    },
+    {
+        "id": 79,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 12/01/2019"
+    },
+    {
+        "id": 202,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 05/07/2002"
+    },
+    {
+        "id": 67,
+        "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/21/2017"
+    },
+    {
+        "id": 21,
+        "question": "Tomorrow is 11/12/2019. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 10/11/2019"
+    },
+    {
+        "id": 327,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 01/01/1963"
+    },
+    {
+        "id": 114,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 07/28/2002"
+    },
+    {
+        "id": 315,
+        "question": "Jane is celebrating the last day of Jan 2012. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 02/07/2012"
+    },
+    {
+        "id": 85,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/24/2019"
+    },
+    {
+        "id": 116,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 07/27/2002"
+    },
+    {
+        "id": 179,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 06/08/2019"
+    },
+    {
+        "id": 296,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/15/2001"
+    },
+    {
+        "id": 1,
+        "question": "Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 04/30/2021"
+    },
+    {
+        "id": 221,
+        "question": "This is the last day of 1899. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 12/31/1899"
+    },
+    {
+        "id": 237,
+        "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 06/03/1943"
+    },
+    {
+        "id": 253,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 04/27/2004"
+    },
+    {
+        "id": 142,
+        "question": "Today is the first day of 2007. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 12/31/2006"
+    },
+    {
+        "id": 256,
+        "question": "Today is the second day of the third month of 1966. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 03/02/1966"
+    },
+    {
+        "id": 28,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 08/02/1997"
+    },
+    {
+        "id": 4,
+        "question": "Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 05/01/2020"
+    },
+    {
+        "id": 195,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 05/07/2002"
+    },
+    {
+        "id": 18,
+        "question": "Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 11/12/2019"
+    },
+    {
+        "id": 89,
+        "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 09/13/2020"
+    },
+    {
+        "id": 188,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 06/09/2019"
+    },
+    {
+        "id": 160,
+        "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 03/04/1973"
+    },
+    {
+        "id": 343,
+        "question": "Today is the last day of the first quarter of 2008. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 04/01/2008"
+    },
+    {
+        "id": 196,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 05/05/2002"
+    },
+    {
+        "id": 73,
+        "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/23/2007"
+    },
+    {
+        "id": 225,
+        "question": "This is the last day of 1899. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 11/30/1899"
+    },
+    {
+        "id": 217,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 02/02/2019"
+    },
+    {
+        "id": 108,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/23/1986"
+    },
+    {
+        "id": 157,
+        "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 04/11/1985"
+    },
+    {
+        "id": 125,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 02/15/2010"
+    },
+    {
+        "id": 317,
+        "question": "It was Sept. 1st, 2021 a week ago. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 09/08/2021"
+    },
+    {
+        "id": 199,
+        "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 05/06/2001"
+    },
+    {
+        "id": 173,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 01/15/2011"
+    },
+    {
+        "id": 115,
+        "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 07/29/2002"
+    },
+    {
+        "id": 242,
+        "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 06/08/1972"
+    },
+    {
+        "id": 303,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 09/15/1924"
+    },
+    {
+        "id": 23,
+        "question": "Tomorrow is 11/12/2019. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/04/2019"
+    },
+    {
+        "id": 259,
+        "question": "Today is the second day of the third month of 1966. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 02/20/1966"
+    },
+    {
+        "id": 30,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 07/03/1997"
+    },
+    {
+        "id": 107,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 01/01/1987"
+    },
+    {
+        "id": 53,
+        "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 02/29/2016"
+    },
+    {
+        "id": 213,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 02/03/2020"
+    },
+    {
+        "id": 289,
+        "question": "The day before yesterday was 11/23/1933. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 12/02/1933"
+    },
+    {
+        "id": 251,
+        "question": "The current local time is 3:02 pm of 5/4/2004. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 04/04/2004"
+    },
+    {
+        "id": 191,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 06/12/2019"
+    },
+    {
+        "id": 87,
+        "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 12/02/2019"
+    },
+    {
+        "id": 285,
+        "question": "The day before yesterday was 11/23/1933. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 11/15/1933"
+    },
+    {
+        "id": 219,
+        "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week from today in MM/DD/YYYY?",
+        "answer": "#### 02/09/2020"
+    },
+    {
+        "id": 29,
+        "question": "Today, 8/3/1997, is a day that we will never forget. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 07/24/1997"
+    },
+    {
+        "id": 269,
+        "question": "Today is 9/7. Jane is watching NFL 2003. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 08/07/2003"
+    },
+    {
+        "id": 336,
+        "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 06/08/2017"
+    },
+    {
+        "id": 99,
+        "question": "2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 12/29/2014"
+    },
+    {
+        "id": 49,
+        "question": "It is 4/19/1969 today. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 04/19/1968"
+    },
+    {
+        "id": 184,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 06/19/2019"
+    },
+    {
+        "id": 78,
+        "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 01/03/2008"
+    },
+    {
+        "id": 329,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date a month ago in MM/DD/YYYY?",
+        "answer": "#### 12/02/1962"
+    },
+    {
+        "id": 322,
+        "question": "It was Sept. 1st, 2021 a week ago. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 09/01/2021"
+    },
+    {
+        "id": 208,
+        "question": "Today is Christmas Eve of 1937. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/24/1936"
+    },
+    {
+        "id": 126,
+        "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 02/06/2010"
+    },
+    {
+        "id": 175,
+        "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 01/23/2011"
+    },
+    {
+        "id": 105,
+        "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 01/02/1987"
+    },
+    {
+        "id": 295,
+        "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one year ago from today in MM/DD/YYYY?",
+        "answer": "#### 11/22/2000"
+    },
+    {
+        "id": 279,
+        "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one week ago from today in MM/DD/YYYY?",
+        "answer": "#### 12/25/1929"
+    },
+    {
+        "id": 332,
+        "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 01/03/1963"
+    },
+    {
+        "id": 143,
+        "question": "Today is the first day of 2007. What is the date 10 days ago in MM/DD/YYYY?",
+        "answer": "#### 12/22/2006"
+    },
+    {
+        "id": 177,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 06/19/2019"
+    },
+    {
+        "id": 185,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date today in MM/DD/YYYY?",
+        "answer": "#### 06/19/2019"
+    },
+    {
+        "id": 344,
+        "question": "Today is the last day of the first quarter of 2008. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 03/30/2008"
+    },
+    {
+        "id": 187,
+        "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 06/18/2019"
+    },
+    {
+        "id": 25,
+        "question": "Tomorrow is 11/12/2019. What is the date 24 hours later in MM/DD/YYYY?",
+        "answer": "#### 11/12/2019"
+    },
+    {
+        "id": 301,
+        "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date yesterday in MM/DD/YYYY?",
+        "answer": "#### 10/14/1924"
+    },
+    {
+        "id": 274,
+        "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date tomorrow in MM/DD/YYYY?",
+        "answer": "#### 01/02/1930"
+    }
+]

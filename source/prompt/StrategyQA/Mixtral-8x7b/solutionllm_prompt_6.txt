@@ -1,0 +1,37 @@
+Question: Do hamsters provide food for any animals?
+Solution: To answer this question, we need to find out if there are any animals that use hamsters as a food source.
+Answer: The answer is yes. Hamsters can be food for various predators such as snakes, birds of prey, and some mammals.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution: Brooke Shields is a well-known actress and model. The University of Pennsylvania is a prestigious institution with high academic standards. However, Brooke Shields has also demonstrated intellectual prowess by delivering speeches at colleges and being a guest on academic-based shows. Given her determination, it is reasonable to assume that she could succeed at the University of Pennsylvania if she put in the necessary work.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution: First, we need to know the atomic number of Hydrogen, which is 1. Then, we square it to get 1^2 = 1. Next, we count the number of Spice Girls, which was a popular 90's girl group, and find that there were 5 members (Melanie B, Melanie C, Emma, Geri, and Victoria). Comparing 1 and 5, we see that 1 does not exceed 5.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution: College commencements can occur in late spring or early fall, depending on the academic calendar of the institution. In some regions, particularly those with higher latitudes or at altitude, frost can occur during these times. Therefore, it is possible to see frost during some college commencements.
+Answer: The answer is yes.
+
+
+
+Question: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution: The average gestation period for a llama is approximately 11 to 12 months. The Vietnam War lasted from 1955 to 1975, which is approximately 20 years. Even if a llama gave birth at the very beginning of this period, it would not be able to give birth again until at least 11 months later. Therefore, it is impossible for a llama to give birth twice during this time frame.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution: A pear is a fruit and generally has a low density. Water has a higher density, so a pear will float in water.
+Answer: The answer is no. A pear would not sink in water.

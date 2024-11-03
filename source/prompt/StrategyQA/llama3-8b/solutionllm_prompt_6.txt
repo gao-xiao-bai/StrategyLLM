@@ -1,0 +1,33 @@
+Question: Do hamsters provide food for any animals?
+Solution: Hamsters are small rodents that primarily feed on seeds, fruits, and vegetables. They do not provide food for other animals in the wild. However, some species of hamsters are kept as pets and may be fed commercial hamster food or other types of food. In some cases, hamsters may also be used as a food source for other animals, such as birds or reptiles.
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution: Brooke Shields is an American actress who was born in 1965. She attended Princeton University, which is a prestigious Ivy League school. University of Pennsylvania is also an Ivy League school. Therefore, it is likely that Brooke Shields could succeed at University of Pennsylvania.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution: Hydrogen's atomic number is 1, and its atomic number squared is 1^2 = 1. The number of Spice Girls is 5. Since 1 is less than 5, the statement is false.
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution: The question is asking whether it is common to see frost during some college commencements. To answer this, we need to consider the typical weather conditions during college commencements. In many parts of the world, college commencements take place in the spring or early summer, when the weather is usually mild and frost is unlikely. However, in some regions with colder climates, it is possible for frost to occur during this time. Therefore, the answer is yes, it is common to see frost during some college commencements.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution: The War in Vietnam started in 1955 and ended in 1975, so it's not possible for a llama to birth twice during that time period. Additionally, llamas are not typically found in Vietnam, and they do not have the ability to birth twice. Therefore, the answer is no.
+Answer: The answer is no.
+
+
+
+Question: Would a pear sink in water?
+Solution: A pear is a type of fruit that is denser than water. Therefore, it would not sink in water.
+Answer: The answer is no.

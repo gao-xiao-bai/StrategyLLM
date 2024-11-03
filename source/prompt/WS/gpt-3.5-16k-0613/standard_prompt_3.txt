@@ -1,0 +1,12 @@
+Question: Sort the following words alphabetically: List: oven costume counterpart
+Answer: The answer is costume counterpart oven.
+
+
+
+Question: Sort the following words alphabetically: List: hypochlorite ponderosa phone credulity
+Answer: The answer is credulity hypochlorite phone ponderosa.
+
+
+
+Question: Sort the following words alphabetically: List: newt arson parthia seismography mugho aspect census
+Answer: The answer is arson aspect census mugho newt parthia seismography.

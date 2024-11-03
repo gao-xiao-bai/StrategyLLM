@@ -1,0 +1,153 @@
+Strategy:
+Here is a strategy to solve the problems in the number theory subject:
+
+1. Understand the problem: Read the problem carefully and identify what is being asked and what information is given.
+
+2. Apply basic number theory concepts: Use basic number theory principles such as modular arithmetic, divisibility rules, prime factorization, etc., to simplify the problem or find relevant information.
+
+3. Simplify expressions: Simplify any given expressions or equations to make them easier to work with.
+
+4. Solve congruences: If the problem involves solving congruences (e.g., finding the remainder when a number is divided by another number), use the Chinese Remainder Theorem or specific methods for solving modular equations to find the solution.
+
+5. Study patterns and properties: Look for patterns or properties in the given problem that might help in finding the solution. This could involve using modular arithmetic properties, Euler's totient function, or other relevant principles.
+
+6. Use prime factorization: If the problem involves finding factors or multiples of numbers, use the prime factorization of the numbers involved to simplify the calculations.
+
+7. Apply number theory theorems: If the problem relates to specific number theory theorems, such as Fermat's Little Theorem or Wilson's Theorem, apply those theorems to find the solution.
+
+8. Check for divisibility: Use divisibility rules to check if a number is divisible by another number, or find other relevant information that can help in solving the problem.
+
+9. Solve step-by-step: Break down the problem into smaller steps and solve them one by one to find the final solution.
+
+10. Check the answer: Always double-check your final answer and ensure that it satisfies the given conditions or requirements of the problem.
+
+By following this strategy and applying the relevant subtasks based on the given problem, you should be able to solve any number theory problem effectively and efficiently.
+
+Examples:
+Question: Let $x$ be a positive integer such that $9x\equiv 1\pmod{25}$.
+
+What is the remainder when $11+x$ is divided by $25$?
+
+Solution:
+1. Understand the problem: We are given a congruence $9x\equiv 1\pmod{25}$ and we need to find the remainder when $11+x$ is divided by $25$.
+
+2. Apply basic number theory concepts: We can use modular arithmetic to simplify the problem. 
+
+3. Simplify expressions: We can simplify the given congruence by multiplying both sides by the modular inverse of $9$ modulo $25$. 
+
+4. Solve congruences: To find the modular inverse of $9$ modulo $25$, we can use the Extended Euclidean Algorithm. 
+
+5. Study patterns and properties: There are no specific patterns or properties that can be used in this problem.
+
+6. Use prime factorization: There is no need to use prime factorization in this problem.
+
+7. Apply number theory theorems: There are no specific number theory theorems that can be applied in this problem.
+
+8. Check for divisibility: There is no need to check for divisibility in this problem.
+
+9. Solve step-by-step:
+   a. We have the congruence $9x\equiv 1\pmod{25}$.
+   b. To find the modular inverse of $9$ modulo $25$, we can use the Extended Euclidean Algorithm:
+      - $25 = 2 \cdot 9 + 7$
+      - $9 = 1 \cdot 7 + 2$
+      - $7 = 3 \cdot 2 + 1$
+      - $1 = 7 - 3 \cdot 2$
+      - $1 = 7 - 3 \cdot (9 - 1 \cdot 7)$
+      - $1 = 4 \cdot 7 - 3 \cdot 9$
+      - $1 = 4 \cdot (25 - 2 \cdot 9) - 3 \cdot 9$
+      - $1 = 4 \cdot 25 - 11 \cdot 9$
+   c. Therefore, the modular inverse of $9$ modulo $25$ is $-11$.
+   d. Multiplying both sides of the congruence $9x\equiv 1\pmod{25}$ by $-11$, we get $x\equiv -11\pmod{25}$.
+   e. Adding $11$ to both sides of the congruence, we get $x+11\equiv 0\pmod{25}$.
+
+10. Check the answer: The remainder when $x+11$ is divided by $25$ is $0$, which matches the original answer.
+
+Answer: The answer is 0.
+
+
+
+Question: Let $m$ be the product of all positive integers less than $4!$ which are invertible modulo $4!$. Find the remainder when $m$ is divided by $4!$.
+
+Solution:
+1. Understand the problem: We are given that $m$ is the product of all positive integers less than $4!$ (which is equal to $4\times3\times2\times1$) that are invertible modulo $4!$. We need to find the remainder when $m$ is divided by $4!$.
+
+2. Apply basic number theory concepts: We know that an integer $a$ is invertible modulo $n$ if and only if $a$ is coprime to $n$. In other words, $\gcd(a,n) = 1$. 
+
+3. Simplify expressions: The product of all positive integers less than $4!$ is $4!-1$. So, we need to find the remainder when $4!-1$ is divided by $4!$.
+
+4. Solve congruences: To find the remainder when $4!-1$ is divided by $4!$, we can use the fact that $a \equiv b \pmod{n}$ implies $a \equiv b \pmod{m}$ for any positive integer $m$ that divides $n$. Therefore, we can find the remainder by subtracting $1$ from $4!$.
+
+$4! - 1 = 24 - 1 = 23$
+
+5. Study patterns and properties: There are no specific patterns or properties that can be applied in this problem.
+
+6. Use prime factorization: We can find the prime factorization of $4!$ to simplify the calculations.
+
+$4! = 4\times3\times2\times1 = 2^3\times3\times2\times1 = 2^3\times3\times2 = 2^4\times3$
+
+7. Apply number theory theorems: There are no specific number theory theorems that can be applied in this problem.
+
+8. Check for divisibility: We can check if $23$ is divisible by $4!$.
+
+$23$ is not divisible by $4!$.
+
+9. Solve step-by-step: We have already found the remainder when $4!-1$ is divided by $4!$, which is $23$.
+
+10. Check the answer: The remainder $23$ satisfies the condition that $m$ is less than $4!$. Therefore, the answer is $23$.
+
+Answer: The answer is 23.
+
+
+
+Question: Find $2^{-1} \pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)
+
+Solution:
+1. Understand the problem: We are asked to find the modular inverse of 2 modulo 185.
+
+2. Apply basic number theory concepts: We know that the modular inverse of a number exists if the number and the modulus are coprime.
+
+3. Simplify expressions: 2 and 185 are coprime, so the modular inverse of 2 modulo 185 exists.
+
+4. Solve congruences: To find the modular inverse of 2 modulo 185, we need to find a number x such that $2x \equiv 1 \pmod{185}$.
+
+5. Study patterns and properties: We can observe that $2^3 \equiv 8 \equiv -177 \pmod{185}$. This means that $2^3$ is congruent to -177 modulo 185.
+
+6. Use prime factorization: We can use the prime factorization of 185 to simplify the calculations. The prime factorization of 185 is $5 \cdot 37$.
+
+7. Apply number theory theorems: We can use Euler's totient function to find the modular inverse. Since 185 is not a prime number, we can use the formula $\phi(185) = (5-1)(37-1) = 144$.
+
+8. Check for divisibility: We can check if 2 is divisible by 185, but it is not.
+
+9. Solve step-by-step: We need to find a number x such that $2x \equiv 1 \pmod{185}$. We can rewrite this congruence as $2x \equiv 1 + 185y$, where y is an integer. 
+
+10. Check the answer: We can check if the obtained answer satisfies the given conditions or requirements of the problem.
+
+Answer: The answer is 93.
+
+
+
+Question: What is the remainder when $2007$ is divided by $81$?
+Solution:
+1. Understand the problem: We are asked to find the remainder when $2007$ is divided by $81$.
+
+2. Apply basic number theory concepts: We can use the concept of modular arithmetic to solve this problem. In modular arithmetic, we find the remainder when a number is divided by another number.
+
+3. Simplify expressions: There are no expressions to simplify in this problem.
+
+4. Solve congruences: To find the remainder when $2007$ is divided by $81$, we can write it as a congruence: $2007 \equiv x \pmod{81}$, where $x$ is the remainder we want to find.
+
+5. Study patterns and properties: There are no specific patterns or properties to consider in this problem.
+
+6. Use prime factorization: We can use the prime factorization of $81$ to simplify the calculations. $81 = 3^4$.
+
+7. Apply number theory theorems: There are no specific number theory theorems to apply in this problem.
+
+8. Check for divisibility: We can check if $2007$ is divisible by $81$. If it is divisible, then the remainder will be $0$. Otherwise, we need to find the remainder.
+
+9. Solve step-by-step: 
+   a. Divide $2007$ by $81$: $2007 \div 81 = 24$ with a remainder of $63$.
+   b. The remainder is $63$.
+
+10. Check the answer: The remainder we found, $63$, is the same as the original answer.
+
+Answer: The answer is 63.

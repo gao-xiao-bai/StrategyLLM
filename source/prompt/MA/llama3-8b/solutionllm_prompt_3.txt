@@ -1,0 +1,46 @@
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+First, let's follow the order of operations (PEMDAS):
+1. Evaluate the expressions inside the parentheses:
+	* 9 * -4 = -36
+	* 0 * -5 = 0
+	* 4 + -7 = -3
+	* So, the expression becomes: (-5 + -36 - 0) * (-3)
+2. Evaluate the expression inside the parentheses:
+	* -5 + -36 - 0 = -41
+	* So, the expression becomes: (-41) * (-3)
+3. Multiply -41 by -3:
+	* -41 * -3 = 123
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+First, let's evaluate the expressions inside the parentheses:
+(-9 * 7 * 7 * -9) = (-9) * (7 * 7 * -9) = (-9) * (-49 * 9) = (-9) * (-441) = 3969
+(4 * -9 - 8 - -4) = (4) * (-9) - 8 + 4 = -36 - 8 + 4 = -40
+
+Now, let's add the two expressions:
+3969 + (-40) = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+First, let's follow the order of operations (PEMDAS):
+1. Evaluate the expressions inside the parentheses:
+	* 5 * 8 * -4 = 5 * -32 = -160
+	* 8 * -7 = -56
+	* 9 - -56 + -9 = 9 + 56 - 9 = 56
+2. Now, substitute the evaluated expressions back into the original equation:
+	* (-3 + -160) - 56 = -163 - 56 = -219
+3. The final answer is -219.
+
+Answer: The answer is -219.

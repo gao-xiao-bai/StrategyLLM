@@ -1,0 +1,153 @@
+Strategy:
+1. Identify the main topic or theme of the question.
+2. Determine whether the question is asking for a "yes" or "no" answer.
+3. Analyze the question to identify any specific conditions or constraints mentioned.
+4. Break down the question into smaller, more manageable parts.
+5. Look for any patterns or similarities in the question or its components.
+6. Determine if any outside knowledge or prior information is needed to answer the question.
+7. Use logical reasoning and inference to arrive at a conclusion.
+8. Double-check the answer to ensure its accuracy and validity.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+Solution:
+1. Identify the main topic or theme of the question: The main topic is hamsters and their role in providing food for other animals.
+2. Determine whether the question is asking for a "yes" or "no" answer: The question is asking for a "yes" or "no" answer.
+3. Analyze the question to identify any specific conditions or constraints mentioned: There are no specific conditions or constraints mentioned in the question.
+4. Break down the question into smaller, more manageable parts: The question can be broken down into two parts - "Do hamsters provide food?" and "Is there any animal that benefits from hamsters' food?"
+5. Look for any patterns or similarities in the question or its components: The question is asking about the relationship between hamsters and other animals in terms of food provision.
+6. Determine if any outside knowledge or prior information is needed to answer the question: No outside knowledge or prior information is needed to answer the question.
+7. Use logical reasoning and inference to arrive at a conclusion: Hamsters are known to hoard food in their burrows, and sometimes they may provide food for other animals unintentionally. Therefore, it is possible that hamsters provide food for some animals.
+8. Double-check the answer to ensure its accuracy and validity: The answer is yes, hamsters do provide food for some animals.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution:
+1. Identify the main topic or theme of the question: The main topic is Brooke Shields and her potential success at the University of Pennsylvania.
+2. Determine whether the question is asking for a "yes" or "no" answer: The question is asking for a "yes" or "no" answer.
+3. Analyze the question to identify any specific conditions or constraints mentioned: There are no specific conditions or constraints mentioned in the question.
+4. Break down the question into smaller, more manageable parts: The question can be broken down into two parts - Brooke Shields and her potential success at the University of Pennsylvania.
+5. Look for any patterns or similarities in the question or its components: There are no specific patterns or similarities in the question or its components.
+6. Determine if any outside knowledge or prior information is needed to answer the question: To answer the question, we need to know if Brooke Shields has the necessary qualifications and abilities to succeed at the University of Pennsylvania.
+7. Use logical reasoning and inference to arrive at a conclusion: Without any specific information about Brooke Shields' qualifications and abilities, it is not possible to determine if she could succeed at the University of Pennsylvania.
+8. Double-check the answer to ensure its accuracy and validity: The answer is inconclusive as we do not have enough information to determine if Brooke Shields could succeed at the University of Pennsylvania.
+
+Answer: The answer is inconclusive.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution:
+1. Identify the main topic or theme of the question.
+   - The main topic is comparing the square of hydrogen's atomic number with the number of Spice Girls.
+
+2. Determine whether the question is asking for a "yes" or "no" answer.
+   - The question is asking for a "yes" or "no" answer.
+
+3. Analyze the question to identify any specific conditions or constraints mentioned.
+   - The specific conditions mentioned are the square of hydrogen's atomic number and the number of Spice Girls.
+
+4. Break down the question into smaller, more manageable parts.
+   - Part 1: Calculate the square of hydrogen's atomic number.
+   - Part 2: Determine the number of Spice Girls.
+
+5. Look for any patterns or similarities in the question or its components.
+   - There is no pattern or similarity between the square of hydrogen's atomic number and the number of Spice Girls.
+
+6. Determine if any outside knowledge or prior information is needed to answer the question.
+   - We need to know the atomic number of hydrogen and the number of Spice Girls.
+
+7. Use logical reasoning and inference to arrive at a conclusion.
+   - Part 1: The atomic number of hydrogen is 1. The square of 1 is 1.
+   - Part 2: The number of Spice Girls is 5.
+   - Conclusion: The square of hydrogen's atomic number (1) does not exceed the number of Spice Girls (5).
+
+8. Double-check the answer to ensure its accuracy and validity.
+   - The answer is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution:
+1. Identify the main topic or theme of the question.
+   - The main topic of the question is the occurrence of frost during college commencements.
+2. Determine whether the question is asking for a "yes" or "no" answer.
+   - The question is asking for a "yes" or "no" answer.
+3. Analyze the question to identify any specific conditions or constraints mentioned.
+   - There are no specific conditions or constraints mentioned in the question.
+4. Break down the question into smaller, more manageable parts.
+   - The question can be broken down into two parts: 
+     - Is it common to see frost during college commencements?
+     - Can frost occur during some college commencements?
+5. Look for any patterns or similarities in the question or its components.
+   - Both parts of the question are asking about the occurrence of frost during college commencements.
+6. Determine if any outside knowledge or prior information is needed to answer the question.
+   - Outside knowledge about the weather conditions during college commencements is needed.
+7. Use logical reasoning and inference to arrive at a conclusion.
+   - College commencements usually take place in spring or early summer when the weather is generally warmer.
+   - Frost is more commonly associated with colder temperatures, typically occurring in fall or winter.
+   - Therefore, it is less common to see frost during college commencements.
+8. Double-check the answer to ensure its accuracy and validity.
+   - The answer is yes, it is common to see frost during some college commencements.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution:
+1. Identify the main topic or theme of the question.
+   - The main topic of the question is whether a llama could give birth twice during the War in Vietnam (1945-46).
+
+2. Determine whether the question is asking for a "yes" or "no" answer.
+   - The question is asking for a "yes" or "no" answer.
+
+3. Analyze the question to identify any specific conditions or constraints mentioned.
+   - The specific condition mentioned is the time period "War in Vietnam (1945-46)".
+
+4. Break down the question into smaller, more manageable parts.
+   - The question can be broken down into two parts:
+     a) Could a llama give birth twice?
+     b) Could a llama give birth during the War in Vietnam (1945-46)?
+
+5. Look for any patterns or similarities in the question or its components.
+   - There is a similarity between the two parts of the question, which is the possibility of a llama giving birth.
+
+6. Determine if any outside knowledge or prior information is needed to answer the question.
+   - To answer the question, we need to know the reproductive capabilities of llamas and the timeline of the War in Vietnam (1945-46).
+
+7. Use logical reasoning and inference to arrive at a conclusion.
+   - Llamas, like most mammals, have a gestation period and can give birth. However, llamas typically have a gestation period of around 11 months. It is highly unlikely for a llama to give birth twice within a span of one year, especially during a war period. Therefore, the answer is no, a llama could not birth twice during the War in Vietnam (1945-46).
+
+8. Double-check the answer to ensure its accuracy and validity.
+   - The answer is no, a llama could not birth twice during the War in Vietnam (1945-46).
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution:
+1. Identify the main topic or theme of the question.
+   - The main topic of the question is whether a pear would sink in water.
+2. Determine whether the question is asking for a "yes" or "no" answer.
+   - The question is asking for a "yes" or "no" answer.
+3. Analyze the question to identify any specific conditions or constraints mentioned.
+   - There are no specific conditions or constraints mentioned in the question.
+4. Break down the question into smaller, more manageable parts.
+   - The question can be broken down into two parts: "Would a pear sink?" and "In water?"
+5. Look for any patterns or similarities in the question or its components.
+   - The question is asking about the sinking behavior of a pear in water.
+6. Determine if any outside knowledge or prior information is needed to answer the question.
+   - Prior knowledge about the density of pears and water is needed to answer the question.
+7. Use logical reasoning and inference to arrive at a conclusion.
+   - Pears are generally less dense than water, so they would float rather than sink.
+8. Double-check the answer to ensure its accuracy and validity.
+   - The answer is consistent with the properties of pears and water.
+
+Answer: The answer is no.

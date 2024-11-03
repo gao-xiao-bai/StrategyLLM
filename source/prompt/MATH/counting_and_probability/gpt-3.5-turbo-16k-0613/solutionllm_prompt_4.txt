@@ -1,0 +1,63 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+Solution: To find the probability that the number is odd, we need to determine the total number of possible outcomes and the number of favorable outcomes.
+
+Total number of possible outcomes:
+Since we are arranging the digits randomly, there are 4! = 4 x 3 x 2 x 1 = 24 possible arrangements of the digits.
+
+Number of favorable outcomes:
+For the number to be odd, the units digit must be either 3 or 7. The remaining three digits can be arranged in any order. So, there are 2 x 3! = 2 x 3 x 2 x 1 = 12 favorable outcomes.
+
+Probability:
+The probability of an event is given by the number of favorable outcomes divided by the total number of possible outcomes.
+
+Probability = Number of favorable outcomes / Total number of possible outcomes
+           = 12 / 24
+           = 1/2
+
+Answer: The answer is 1/2
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+[asy] import three; import math; unitsize(1.5cm); currentprojection=orthographic(2,0.2,1);  triple A=(0,0,1); triple B=(sqrt(2)/2,sqrt(2)/2,0); triple C=(sqrt(2)/2,-sqrt(2)/2,0); triple D=(-sqrt(2)/2,-sqrt(2)/2,0); triple E=(-sqrt(2)/2,sqrt(2)/2,0); triple F=(0,0,-1); draw(A--B--E--cycle); draw(A--C--D--cycle); draw(F--C--B--cycle); draw(F--D--E--cycle,dotted+linewidth(0.7)); [/asy]
+Solution: To solve this problem, we can break it down into smaller steps. 
+
+Step 1: Count the number of ways to arrange the colors on one face of the octahedron. Since there are 8 different colors, there are 8 choices for the first color, 7 choices for the second color, and so on. Therefore, there are $8!$ ways to arrange the colors on one face.
+
+Step 2: Count the number of ways to arrange the colors on the opposite face of the octahedron. Since the opposite face is a mirror image of the first face, there are only 4 choices for the first color, 3 choices for the second color, and so on. Therefore, there are $4!$ ways to arrange the colors on the opposite face.
+
+Step 3: Count the number of ways to arrange the remaining 6 colors on the remaining 6 faces of the octahedron. Since the remaining faces are indistinguishable, we can divide the number of arrangements by $6!$ to account for the indistinguishability. Therefore, there are $\frac{6!}{6!}$ ways to arrange the remaining colors.
+
+Step 4: Multiply the results from Steps 1, 2, and 3 to get the total number of distinguishable ways to construct the octahedron. Therefore, the total number of ways is $8! \times 4! \times \frac{6!}{6!} = 1680$.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+Solution: To solve this problem, we can use the concept of permutations. Since there are 3 words in the Gnollish language, we need to find the number of permutations of these 3 words that satisfy the given condition.
+
+Let's consider the word "splargh" as S, "glumph" as G, and "amr" as A. We need to find the number of permutations of S, G, and A such that S does not come directly before G.
+
+To find the total number of permutations, we can use the formula for permutations of n objects taken all at a time, which is n!.
+
+However, we need to subtract the number of permutations where S comes directly before G. In this case, we can treat SG as a single object. So, we have 2 objects (SG and A) to arrange, which can be done in 2! = 2 ways.
+
+Therefore, the total number of valid 3-word sentences in Gnollish is 3! - 2! = 6 - 2 = 4.
+
+Answer: The answer is 4.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+Solution: We can use the identity $\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$ to solve this problem. 
+
+Using the given values, we have $\binom{17}{8} = \binom{16}{7} + \binom{16}{8}$. Rearranging this equation, we get $\binom{16}{7} = \binom{17}{8} - \binom{16}{8}$. Substituting the given values, we have $\binom{16}{7} = 24310 - 24310 = 0$.
+
+Similarly, we can find $\binom{16}{8}$ using the given values $\binom{17}{9} = \binom{16}{8} + \binom{16}{9}$. Rearranging this equation, we get $\binom{16}{8} = \binom{17}{9} - \binom{16}{9}$. Substituting the given values, we have $\binom{16}{8} = 24310 - 24310 = 0$.
+
+Now, we can use the identity $\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$ again to find $\binom{19}{9}$. We have $\binom{19}{9} = \binom{18}{8} + \binom{18}{9}$. Rearranging this equation, we get $\binom{18}{8} = \binom{19}{9} - \binom{18}{9}$. Substituting the values we found earlier, we have $\binom{18}{8} = 0 + 0 = 0$.
+
+Therefore, $\binom{19}{9} = 0$.
+
+Answer: The answer is 0.

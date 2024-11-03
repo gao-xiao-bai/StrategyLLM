@@ -1,0 +1,92 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: For a number to be odd, its units place must be occupied by an odd digit. We have 2 odd digits (3 and 5) and 2 even digits (2 and 7). We need to find the number of ways we can arrange these digits such that the units place is occupied by an odd digit.
+
+Consider the 2 odd digits. They can be arranged in 2! = 2 ways.
+Similarly, the 2 even digits can be arranged in 2! = 2 ways.
+
+So, the total number of ways these digits can be arranged is 2 * 2 = 4 ways.
+
+Now, let's calculate the total number of ways these digits can be arranged without any restriction. This can be done using permutations. The formula for permutations is n! / (n-r)!, where n is the total number of items, r is the number of items to be arranged, and '!' denotes factorial.
+
+Here, n = 4 (total number of digits) and r = 4 (all 4 digits are to be arranged).
+
+So, the total number of ways these digits can be arranged without any restriction is 4! / (4-4)! = 4 * 3 * 2 * 1 = 24 ways.
+
+Now, the probability that the number is odd is the ratio of the number of favorable outcomes to the total number of outcomes.
+
+Hence, the required probability = Number of ways the units place can be occupied by an odd digit / Total number of ways the digits can be arranged = 4 / 24 = 1 / 6.
+
+Answer: The answer is 1/6.
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+
+We can solve this problem by considering the number of ways to arrange the eight triangles around each vertex of the octahedron. 
+
+Each vertex of a regular octahedron is formed by the intersection of four triangles. Since the triangles are equilateral, there are 3! (or 6) ways to arrange the three remaining triangles around each vertex. 
+
+Since there are 8 vertices, there are 6^8 (or 1679616) possible arrangements in total. However, this counts arrangements that are rotations of each other as distinct. To correct for this, we divide by the number of rotations of the octahedron, which is 24 (since there are 24 rotations of a cube, and an octahedron can be inscribed in a cube such that there is a one-to-one correspondence between their rotations).
+
+Therefore, the number of distinguishable ways to construct the octahedron is 6^8 / 24 = 1680 / 24 = 70.
+
+Answer: The answer is 70.
+
+
+
+Question: Given that \( \binom{17}{7}=19448 \), \( \binom{17}{8}=24310 \) and \( \binom{17}{9}=24310 \), calculate \( \binom{19}{9} \).
+
+Solution: We can use the following formula to calculate the binomial coefficient:
+
+\begin{equation*}
+\binom{n}{k} = \frac{n!}{k!(n-k)!}
+\end{equation*}
+
+where \( n! \) denotes \( n \) factorial, i.e. the product of all positive integers up to \( n \).
+
+We want to compute \( \binom{19}{9} \), which is:
+
+\begin{equation*}
+\binom{19}{9} = \frac{19!}{9! \times (19-9)!} = \frac{19!}{9! \times 10!}
+\end{equation*}
+
+To compute this value, we can use the fact that:
+
+\begin{equation*}
+\binom{17}{7} = \frac{17!}{7! \times 10!} = \frac{19 \times 18}{2 \times 1} \times \binom{17}{9}
+\end{equation*}
+
+Therefore:
+
+\begin{equation*}
+\binom{19}{9} = \frac{19!}{9! \times 10!} = \frac{\binom{17}{7} \times 2 \times 1}{\binom{17}{9} \times 19 \times 18} = \frac{\binom{17}{7}}{\binom{17}{9}} \times \frac{36}{19}
+\end{equation*}
+
+Substituting the given values:
+
+\begin{equation*}
+\binom{19}{9} = \frac{19448}{24310} \times \frac{36}{19} = \frac{19448 \times 36}{24310 \times 19} = \frac{69872}{461890} = \frac{69872 \div 138}{461890 \div 138} = \frac{504}{3270}
+\end{equation*}
+
+Since \( \binom{19}{9} \) is an integer, it must be equal to the simplified fraction \( \frac{504}{3270} \) times some integer. We can find this integer by multiplying both numerator and denominator by 6:
+
+\begin{equation*}
+\binom{19}{9} = \frac{504}{3270} \times 6 = \frac{3024}{19620}
+\end{equation*}
+
+Since \( \binom{19}{9} \) is an integer, it must be equal to the simplified fraction \( \frac{3024}{19620} \) times some integer. We can find this integer by dividing both numerator and denominator by their greatest common divisor, which is 12:
+
+\begin{equation*}
+\binom{19}{9} = \frac{3024}{19620} \times \frac{19620 \div 12}{3024 \div 12} = \frac{252}{1635}
+\end{equation*}
+
+Since \( \binom{19}{9} \) is an integer, it must be equal to the simplified fraction \( \frac{252}{1635} \) times some integer. We can find this integer by dividing both numerator and denominator by their greatest common divisor, which is 3:
+
+\begin{equation*}
+\binom{19}{9} = \frac{252}{1635} \times \frac{1635 \div 3}{252 \div 3} = \frac{84}{545}
+\end{equation*}
+
+Answer: The answer is \frac{84}{545}.

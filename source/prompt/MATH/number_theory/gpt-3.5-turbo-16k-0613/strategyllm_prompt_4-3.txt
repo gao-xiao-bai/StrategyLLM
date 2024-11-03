@@ -1,0 +1,148 @@
+Strategy:
+1. Identify the given problem and read it carefully.
+2. Determine the key information and variables involved in the problem.
+3. Understand the specific modulo or residue being used in the problem.
+4. Identify any congruence or inverse relationships in the problem.
+5. Solve for the desired remainder, product, or inverse using the appropriate modular arithmetic techniques.
+6. Check the result to ensure it falls within the appropriate range or residue modulo.
+7. If necessary, simplify the solution further by expressing it as a residue within the specified range.
+8. Test the solution by substituting the result back into the original problem to verify its accuracy.
+9. Repeat steps 1-8 for each problem in the number theory subject.
+
+Examples:
+Question: Let $x$ be a positive integer such that $9x\equiv 1\pmod{25}$.
+
+What is the remainder when $11+x$ is divided by $25$?
+
+Solution:
+1. Identify the given problem and read it carefully.
+   - The problem involves finding the remainder when $11+x$ is divided by $25$ given that $9x\equiv 1\pmod{25}$.
+
+2. Determine the key information and variables involved in the problem.
+   - Key information: $9x\equiv 1\pmod{25}$
+   - Variable: $x$
+
+3. Understand the specific modulo or residue being used in the problem.
+   - The modulo being used is $25$.
+
+4. Identify any congruence or inverse relationships in the problem.
+   - The congruence relationship is $9x\equiv 1\pmod{25}$.
+
+5. Solve for the desired remainder, product, or inverse using the appropriate modular arithmetic techniques.
+   - To solve $9x\equiv 1\pmod{25}$, we need to find the inverse of $9$ modulo $25$.
+   - The inverse of $9$ modulo $25$ is $14$ since $9\cdot 14\equiv 1\pmod{25}$.
+   - Therefore, $x\equiv 14\pmod{25}$.
+
+6. Check the result to ensure it falls within the appropriate range or residue modulo.
+   - The result $x\equiv 14\pmod{25}$ falls within the range of positive integers.
+
+7. If necessary, simplify the solution further by expressing it as a residue within the specified range.
+   - The solution $x\equiv 14\pmod{25}$ is already in the simplified form.
+
+8. Test the solution by substituting the result back into the original problem to verify its accuracy.
+   - Substituting $x\equiv 14\pmod{25}$ into $9x\equiv 1\pmod{25}$, we get $9\cdot 14\equiv 1\pmod{25}$, which is true.
+
+9. Repeat steps 1-8 for each problem in the number theory subject.
+
+Answer: The answer is 0.
+
+
+
+Question: Let $m$ be the product of all positive integers less than $4!$ which are invertible modulo $4!$. Find the remainder when $m$ is divided by $4!$.
+
+Solution:
+1. Identify the given problem and read it carefully.
+   - The problem asks us to find the product of all positive integers less than $4!$ which are invertible modulo $4!$, and then find the remainder when this product is divided by $4!$.
+
+2. Determine the key information and variables involved in the problem.
+   - The key information is that we need to find the product of all positive integers less than $4!$ which are invertible modulo $4!$.
+   - The variable involved is $m$, which represents this product.
+
+3. Understand the specific modulo or residue being used in the problem.
+   - The modulo being used is $4!$, which is equal to $24$.
+
+4. Identify any congruence or inverse relationships in the problem.
+   - In order for an integer $x$ to be invertible modulo $4!$, it must have a multiplicative inverse modulo $4!$.
+   - This means that there exists an integer $y$ such that $xy \equiv 1 \pmod{4!}$.
+
+5. Solve for the desired remainder, product, or inverse using the appropriate modular arithmetic techniques.
+   - To find the product of all positive integers less than $4!$ which are invertible modulo $4!$, we need to find all the invertible integers and multiply them together.
+   - Since $4! = 24$, we need to find all the positive integers less than $24$ that are invertible modulo $24$.
+   - The invertible integers modulo $24$ are those that are coprime to $24$.
+   - The positive integers less than $24$ that are coprime to $24$ are $1, 5, 7, 11, 13, 17, 19, 23$.
+   - Therefore, the product of all positive integers less than $4!$ which are invertible modulo $4!$ is $1 \times 5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23$.
+
+6. Check the result to ensure it falls within the appropriate range or residue modulo.
+   - The product $1 \times 5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23$ is a product of integers less than $24$, so it falls within the appropriate range.
+
+7. If necessary, simplify the solution further by expressing it as a residue within the specified range.
+   - The product $1 \times 5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23$ can be simplified as $1 \times (5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23)$.
+
+8. Test the solution by substituting the result back into the original problem to verify its accuracy.
+   - The remainder when $1 \times (5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23)$ is divided by $4!$ is equal to $1 \times (5 \times 7 \times 11 \times 13 \times 17 \times 19 \times 23) \equiv 1 \pmod{24}$.
+
+Answer: The answer is 1.
+
+
+
+Question: Find $2^{-1} \pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)
+Solution:
+1. Identify the given problem and read it carefully.
+   The problem is to find the modular inverse of 2 modulo 185.
+
+2. Determine the key information and variables involved in the problem.
+   The key information is that we need to find the modular inverse of 2, and the modulus is 185.
+
+3. Understand the specific modulo or residue being used in the problem.
+   The modulo or residue being used is 185, which means we need to find the inverse of 2 modulo 185.
+
+4. Identify any congruence or inverse relationships in the problem.
+   We need to find the modular inverse of 2, which means finding a number x such that 2x ≡ 1 (mod 185).
+
+5. Solve for the desired remainder, product, or inverse using the appropriate modular arithmetic techniques.
+   To find the modular inverse of 2 modulo 185, we can use the Extended Euclidean Algorithm.
+
+   Step 1: Apply the Extended Euclidean Algorithm to find the greatest common divisor (gcd) of 2 and 185.
+           185 = 2 * 92 + 1
+
+   Step 2: Rewrite the equation from Step 1 in terms of the gcd.
+           1 = 185 - 2 * 92
+
+   Step 3: Take the coefficient of 2 as the modular inverse of 2 modulo 185.
+           The modular inverse of 2 modulo 185 is -92.
+
+6. Check the result to ensure it falls within the appropriate range or residue modulo.
+   The result, -92, is within the range of 0 to 184, inclusive.
+
+7. If necessary, simplify the solution further by expressing it as a residue within the specified range.
+   The residue of -92 modulo 185 is 93.
+
+8. Test the solution by substituting the result back into the original problem to verify its accuracy.
+   2 * 93 ≡ 1 (mod 185)
+
+Answer: The answer is 93.
+
+
+
+Question: What is the remainder when $2007$ is divided by $81$?
+Solution:
+1. Identify the given problem and read it carefully.
+   - The problem is asking for the remainder when $2007$ is divided by $81$.
+2. Determine the key information and variables involved in the problem.
+   - The key information is the number $2007$ and the divisor $81$.
+3. Understand the specific modulo or residue being used in the problem.
+   - The modulo being used is $81$.
+4. Identify any congruence or inverse relationships in the problem.
+   - There are no congruence or inverse relationships mentioned in the problem.
+5. Solve for the desired remainder, product, or inverse using the appropriate modular arithmetic techniques.
+   - To find the remainder when $2007$ is divided by $81$, we can use the modulo operator.
+   - $2007 \mod 81 = 63$
+6. Check the result to ensure it falls within the appropriate range or residue modulo.
+   - The result, $63$, falls within the range of $0$ to $80$ (residue modulo $81$).
+7. If necessary, simplify the solution further by expressing it as a residue within the specified range.
+   - The solution, $63$, is already within the specified range.
+8. Test the solution by substituting the result back into the original problem to verify its accuracy.
+   - $2007 \div 81 = 24$ with a remainder of $63$, which matches our solution.
+9. Repeat steps 1-8 for each problem in the number theory subject.
+
+Answer: The answer is 63

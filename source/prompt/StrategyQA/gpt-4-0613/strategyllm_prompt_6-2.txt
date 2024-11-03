@@ -1,0 +1,102 @@
+Strategy:
+1. Understand and identify the type and format of the question. All the questions in this task are yes/no queries, and they often need to extract multiple pieces of information. They might be related to different domains like education, biology, physics, geography, history, etc., or contain numerical operations.
+2. For each question, breakdown the query into smaller sub-questions to make the information extraction task easier. These sub-questions involve identifying the separate entities or facts mentioned.
+3. For the broken down parts, look for factual or narrative information related to those topics. This might involve extracting relevant details from a text source, using a search engine, or utilizing a knowledge graph or database. 
+4. Look for specific post-processing operations if any, like numerical operations. For instance, the third example requires squaring the atomic number and comparing it with a specific number.
+5. Combine the facts obtained and evaluate the final answer to the original question in a binary form - yes or no.
+6. Frame the response according to the format given in the examples, i.e., 'The answer is yes.' or 'The answer is no.'.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+
+Solution: 
+1. The question is a yes/no type and it is related to the domain of biology. The question is asking whether hamsters serve as a source of food for any other animals.
+2. The question can be broken down into two sub-questions: "What are hamsters?" and "Are there any animals that eat hamsters?"
+3. For the first sub-question, we know that hamsters are small rodents that are often kept as pets. For the second sub-question, we need to search for information about the predators of hamsters. Using a search engine or a biology database, we find that hamsters are preyed upon by various animals in the wild, including birds of prey, foxes, weasels, and snakes.
+4. There are no specific post-processing operations required for this question.
+5. Combining the facts, we know that hamsters are small animals that are eaten by various other animals.
+6. Therefore, the answer to the question "Do hamsters provide food for any animals?" is yes.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+
+Solution: 
+1. The question is a yes/no type and it is related to the domain of education. The question is asking if Brooke Shields could succeed at the University of Pennsylvania.
+2. The question can be broken down into two sub-questions: 
+   a. Who is Brooke Shields?
+   b. What is the University of Pennsylvania?
+3. For the first sub-question, a search reveals that Brooke Shields is a well-known American actress and model. She is also known for her intelligence and academic achievements. For the second sub-question, the University of Pennsylvania is an Ivy League research university in Philadelphia. It is one of the most prestigious universities in the world.
+4. There are no specific post-processing operations required for this question.
+5. Combining the facts, Brooke Shields, being an intelligent and academically accomplished individual, could potentially succeed at a prestigious institution like the University of Pennsylvania.
+6. Therefore, the answer to the question is 'yes'.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution: 
+1. The question is a yes/no type and requires multiple pieces of information. The two main entities are 'Hydrogen's atomic number' and 'number of Spice Girls'.
+2. Breaking down the question, we get two sub-questions: 'What is the atomic number of Hydrogen?' and 'How many Spice Girls are there?'
+3. For the first sub-question, we know from basic chemistry that the atomic number of Hydrogen is 1. For the second sub-question, we know from pop culture that there were 5 members in the Spice Girls.
+4. The question requires us to square the atomic number of Hydrogen and compare it with the number of Spice Girls. Squaring the atomic number of Hydrogen gives us 1^2 = 1.
+5. Comparing this with the number of Spice Girls, we see that 1 is less than 5.
+6. Therefore, the answer to the question 'Does Hydrogen's atomic number squared exceed the number of Spice Girls?' is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+
+Solution: 
+1. The question is a yes/no type and it seems to be related to the domain of weather and education. It is asking whether it is common to see frost during some college commencements.
+2. The question can be broken down into two sub-questions: 
+   a. When do college commencements usually take place?
+   b. Is it common to see frost during this time?
+3. For the first sub-question, college commencements usually take place in the spring, which is typically in May or June in the Northern Hemisphere, and in November or December in the Southern Hemisphere.
+4. For the second sub-question, frost is common in late fall, winter, and early spring in many parts of the world. So, it is possible to see frost during college commencements, especially in the Southern Hemisphere or in colder regions of the Northern Hemisphere.
+5. There are no specific post-processing operations required for this question.
+6. Combining the facts, it is indeed common to see frost during some college commencements.
+7. Therefore, the answer to the question is 'yes'.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution: 
+1. The question is a yes/no type and it involves information from two different domains - biology (specifically, the reproductive cycle of a llama) and history (the duration of the War in Vietnam).
+2. Breaking down the question, we have two sub-questions: 
+   a. What is the gestation period of a llama?
+   b. What is the duration of the War in Vietnam (1945-46)?
+3. For the first sub-question, we can look up the gestation period of a llama. According to various sources, the gestation period of a llama is approximately 11 to 12 months.
+4. For the second sub-question, the duration of the War in Vietnam (1945-46) is given in the question itself, which is approximately 1 to 2 years.
+5. There are no specific post-processing operations required for this question.
+6. Combining the facts, we see that a llama could potentially give birth once during the War in Vietnam (1945-46), but not twice, as the gestation period of a llama is longer than the duration of the war.
+7. Therefore, the final answer to the question is 'no'.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+
+Solution: 
+1. The question is a yes/no type and it is related to the domain of physics, specifically buoyancy.
+2. The question can be broken down into two sub-questions: 
+   a. What is the density of a pear?
+   b. What is the density of water?
+3. The factual information related to these sub-questions is:
+   a. The density of a pear is approximately 0.6-0.8 g/cm^3.
+   b. The density of water is 1 g/cm^3.
+4. There are no specific post-processing operations required in this question.
+5. Combining the facts, we can see that the density of a pear is less than the density of water. According to the principle of buoyancy, an object will float in a fluid if its density is less than the fluid's density.
+6. Therefore, a pear would not sink in water.
+
+Answer: The answer is no.

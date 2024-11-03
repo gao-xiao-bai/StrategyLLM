@@ -1,0 +1,45 @@
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+First, let's evaluate the expressions inside the parentheses:
+(-5 + 9 * -4 - 0) = (-5 + (-36) - 0) = (-5 - 36) = -41
+(4 + -7 + 0 * -5) = (4 - 7 + 0) = (4 - 7) = -3
+
+Now, multiply the two results:
+-41 * -3 = 123
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+First, let's evaluate the expressions inside the parentheses:
+(-9 * 7 * 7 * -9) = (-9 * 49 * -9) = 441 * 81 = 35721
+(4 * -9 - 8 - -4) = (-36 - 8 + 4) = -40
+
+Now, let's add the two expressions:
+35721 + (-40) = 35681
+
+However, the provided answer is 3929, which doesn't match the calculated result. It's possible that there's an error in the original question or answer. If you can provide more context or clarify the correct answer, I'd be happy to help further.
+
+Answer: The answer is not 3929, but rather 35681.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+To evaluate this expression, we need to follow the order of operations (PEMDAS):
+
+1. Evaluate the expressions inside the parentheses:
+   (-3 + 5 * 8 * -4) = (-3 + 5 * -32) = (-3 + -160) = -163
+   (9 - 8 * -7 + -9) = (9 - 56 + -9) = (9 - 65) = -56
+
+2. Now, subtract the two expressions:
+   (-163) - (-56) = -163 + 56 = -107
+
+However, the provided answer is -219, which seems incorrect. The correct answer is -107.
+
+Answer: The answer is -107.

@@ -1,0 +1,166 @@
+Strategy:
+1. Solve linear equations: Solve equations in the form of $ax + b = c$ for $x$.
+2. Solve quadratic equations: Solve equations in the form of $ax^2 + bx + c = 0$ using factoring, completing the square, or the quadratic formula.
+3. Simplify algebraic expressions: Simplify algebraic expressions by combining like terms, simplifying fractions, and using the distributive property.
+4. Solve systems of equations: Solve systems of linear equations using substitution, elimination, or graphing methods.
+5. Solve inequalities: Solve linear and quadratic inequalities by finding the solution sets and graphing them on a number line or coordinate plane.
+6. Graphing equations: Graph linear and quadratic equations on a coordinate plane by plotting points or finding the intercepts.
+7. Find the zeros of a function: Find the x-intercepts or solutions of a function by setting the function equal to zero and solving for x.
+8. Identify and apply the properties of exponents: Understand and use the properties of exponents, such as the product rule, quotient rule, power rule, and negative exponents.
+9. Rationalize radical expressions: Simplify and rationalize radical expressions by multiplying by the conjugate or using other suitable methods.
+10. Solve rational equations: Solve equations involving rational expressions by finding common denominators and simplifying, then solving the resulting equation.
+11. Solve word problems: Translate word problems into equations or inequalities and solve them using appropriate algebraic methods.
+12. Find the maximum or minimum value of a function: Find the vertex or critical points of a quadratic function to determine the maximum or minimum value.
+13. Solve problems involving exponential and logarithmic functions: Solve equations and word problems involving exponential and logarithmic functions by applying properties and solving algebraically.
+14. Solve problems involving sequences and series: Solve problems involving arithmetic or geometric sequences and series by finding the nth term, the sum of the first n terms, or the sum to infinity.
+15. Apply algebraic concepts to real-world situations: Use algebraic concepts and techniques to solve problems in various real-world scenarios, such as distance-rate-time problems, mixture problems, and finance problems.
+
+Examples:
+Question: Find the quadratic polynomial $p(x)$ such that $p(-3) = 10,$ $p(0) = 1,$ and $p(2) = 5.$
+
+Solution:
+Step 1: Solve linear equations
+We are given three points on the quadratic polynomial: $(-3, 10),$ $(0, 1),$ and $(2, 5).$ We can use these points to form three linear equations and solve for the coefficients of the quadratic polynomial.
+
+Let's start with the point $(-3, 10).$ Plugging in $x = -3$ and $p(x) = 10$ into the quadratic polynomial $p(x) = ax^2 + bx + c,$ we get:
+$10 = a(-3)^2 + b(-3) + c$
+Simplifying, we have:
+$10 = 9a - 3b + c$   ...(Equation 1)
+
+Next, let's use the point $(0, 1).$ Plugging in $x = 0$ and $p(x) = 1$ into the quadratic polynomial, we get:
+$1 = a(0)^2 + b(0) + c$
+Simplifying, we have:
+$1 = c$   ...(Equation 2)
+
+Finally, let's use the point $(2, 5).$ Plugging in $x = 2$ and $p(x) = 5$ into the quadratic polynomial, we get:
+$5 = a(2)^2 + b(2) + c$
+Simplifying, we have:
+$5 = 4a + 2b + c$   ...(Equation 3)
+
+Step 2: Solve the system of linear equations
+Now, we have a system of three linear equations:
+$10 = 9a - 3b + c$   ...(Equation 1)
+$1 = c$   ...(Equation 2)
+$5 = 4a + 2b + c$   ...(Equation 3)
+
+Substituting Equation 2 into Equations 1 and 3, we get:
+$10 = 9a - 3b + 1$   ...(Equation 1')
+$5 = 4a + 2b + 1$   ...(Equation 3')
+
+Simplifying Equations 1' and 3', we have:
+$9a - 3b = 9$   ...(Equation 4)
+$4a + 2b = 4$   ...(Equation 5)
+
+Multiplying Equation 5 by 2, we get:
+$8a + 4b = 8$   ...(Equation 6)
+
+Subtracting Equation 4 from Equation 6, we eliminate $b$:
+$8a + 4b - (9a - 3b) = 8 - 9$
+$-a + 7b = -1$   ...(Equation 7)
+
+Solving Equation 7 for $a$, we have:
+$a = 7b + 1$   ...(Equation 8)
+
+Step 3: Substitute the value of $a$ into Equation 4
+Substituting Equation 8 into Equation 4, we have:
+$9(7b + 1) - 3b = 9$
+$63b + 9 - 3b = 9$
+$60b = 0$
+$b = 0$
+
+Step 4: Substitute the value of $b$ into Equation 8
+Substituting $b = 0$ into Equation 8, we have:
+$a = 7(0) + 1$
+$a = 1$
+
+Step 5: Write the quadratic polynomial
+Now that we have found the values of $a$ and $b$, we can write the quadratic polynomial $p(x) = ax^2 + bx + c$ as:
+$p(x) = 1x^2 + 0x + 1$
+$p(x) = x^2 + 1$
+
+Answer: The answer is $x^2 + 1$
+
+
+
+Question: Calculate: $\frac53\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+
+Solution:
+Step 1: Simplify each fraction:
+$\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}\times\frac{5}{3}\times\frac{3}{5}$
+
+Step 2: Multiply the numerators together and the denominators together:
+$\frac{5\times3\times5\times3\times5\times3\times5\times3}{3\times5\times3\times5\times3\times5\times3\times5}$
+
+Step 3: Cancel out common factors:
+$\frac{5\times3\times5\times3\times5\times3\times5\times3}{3\times5\times3\times5\times3\times5\times3\times5} = \frac{5^3\times3^3}{3^3\times5^3}$
+
+Step 4: Simplify the expression:
+$\frac{5^3\times3^3}{3^3\times5^3} = \frac{1}{1}$
+
+Answer: The answer is 1
+
+
+
+Question: For $-25 \le x \le 25,$ find the maximum value of $\sqrt{25 + x} + \sqrt{25 - x}.$
+
+Solution:
+1. Simplify the expression $\sqrt{25 + x} + \sqrt{25 - x}$:
+   - We can't simplify the expression further, so we move on to the next step.
+
+2. Find the critical points by setting the derivative of the expression equal to zero:
+   - Let $f(x) = \sqrt{25 + x} + \sqrt{25 - x}$.
+   - Find the derivative of $f(x)$:
+     - $f'(x) = \frac{1}{2\sqrt{25 + x}} - \frac{1}{2\sqrt{25 - x}}$.
+   - Set $f'(x) = 0$ and solve for $x$:
+     - $\frac{1}{2\sqrt{25 + x}} - \frac{1}{2\sqrt{25 - x}} = 0$.
+     - $\frac{1}{2\sqrt{25 + x}} = \frac{1}{2\sqrt{25 - x}}$.
+     - $\sqrt{25 + x} = \sqrt{25 - x}$.
+     - Square both sides of the equation:
+       - $25 + x = 25 - x$.
+       - $2x = 0$.
+       - $x = 0$.
+
+3. Check the endpoints of the given interval:
+   - Substitute $x = -25$ and $x = 25$ into the expression $\sqrt{25 + x} + \sqrt{25 - x}$:
+     - $\sqrt{25 + (-25)} + \sqrt{25 - (-25)} = \sqrt{0} + \sqrt{50} = 0 + \sqrt{50} = \sqrt{50}$.
+     - $\sqrt{25 + 25} + \sqrt{25 - 25} = \sqrt{50} + \sqrt{0} = \sqrt{50} + 0 = \sqrt{50}$.
+
+4. Compare the values obtained from step 2 and step 3:
+   - The critical point $x = 0$ gives the same value as the endpoints of the interval, $\sqrt{50}$.
+
+Answer: The answer is $\sqrt{50}$.
+
+
+
+Question: The hyperbolas \[\frac{x^2}{4} - \frac{y^2}{9} = 1\]and \[\frac{y^2}{18} - \frac{x^2}{N} = 1\]have the same asymptotes. Find $N.$
+
+Solution:
+1. Simplify the equations:
+   \[\frac{x^2}{4} - \frac{y^2}{9} = 1\]
+   \[\frac{y^2}{18} - \frac{x^2}{N} = 1\]
+
+2. Rewrite the equations in standard form:
+   \[\frac{x^2}{2^2} - \frac{y^2}{3^2} = 1\]
+   \[\frac{y^2}{(3\sqrt{2})^2} - \frac{x^2}{(\sqrt{N})^2} = 1\]
+
+3. Compare the equations to the standard form of a hyperbola:
+   \[\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\]
+   \[\frac{y^2}{c^2} - \frac{x^2}{d^2} = 1\]
+
+4. From the standard form, we can see that the asymptotes of the hyperbola are given by the equations:
+   \[y = \pm \frac{b}{a}x\]
+   \[y = \pm \frac{c}{d}x\]
+
+5. Comparing the coefficients, we have:
+   \[\frac{b}{a} = \frac{3}{2}\]
+   \[\frac{c}{d} = \frac{3\sqrt{2}}{\sqrt{N}}\]
+
+6. Equating the two expressions for the slopes of the asymptotes, we get:
+   \[\frac{3}{2} = \frac{3\sqrt{2}}{\sqrt{N}}\]
+
+7. Solve for N:
+   \[\frac{3}{2} = \frac{3\sqrt{2}}{\sqrt{N}}\]
+   \[2\sqrt{N} = 2\sqrt{2}\]
+   \[N = 8\]
+
+Answer: The answer is 8

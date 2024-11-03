@@ -1,0 +1,18 @@
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$.  Find $c$.
+Answer: The answer is \sqrt{3}-5i
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+Answer: The answer is (-4\sqrt{3},-4)
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+Answer: The answer is \begin{pmatrix}16&-4\37&-13\end{pmatrix}
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+Answer: The answer is \begin{pmatrix}-17\76\end{pmatrix}

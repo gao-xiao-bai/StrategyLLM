@@ -1,0 +1,111 @@
+Strategy:
+Here is a general and concise strategy to solve the multi-hop question answering task:
+
+1. Identify the question type: First, identify whether the question is a yes/no question or an open-ended question.
+
+2. Identify the key entities: Next, identify the key entities in the question that are necessary to answer the question.
+
+3. Retrieve relevant facts: Retrieve relevant facts related to the key entities from a knowledge base or other sources of information.
+
+4. Infer missing information: If necessary, infer missing information from the retrieved facts.
+
+5. Apply reasoning: Apply multi-hop reasoning to the retrieved and inferred facts to arrive at an answer.
+
+6. Generate a response: Finally, generate a concise response to the question in the requested format, based on the reasoning and inference.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+
+Solution:
+1. Identify the question type: This is a yes/no question.
+2. Identify the key entities: The key entities in this question are "hamsters" and "animals".
+3. Retrieve relevant facts: Hamsters are prey animals in the wild. They are often hunted by predators such as snakes, birds of prey, and foxes.
+4. Infer missing information: From the fact that hamsters are prey animals, we can infer that they do provide food for other animals.
+5. Apply reasoning: Since hamsters are prey animals, they are a source of food for other animals. Therefore, the answer to the question is yes.
+
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+
+Solution:
+1. Identify the question type: This is a yes/no question.
+2. Identify the key entities: The key entities in this question are "Brooke Shields" and "University of Pennsylvania".
+3. Retrieve relevant facts: Brooke Shields is an American actress and model who graduated from Princeton University with a bachelor's degree in Romance Languages. Princeton University and University of Pennsylvania are both Ivy League universities, which are known for their high academic standards.
+4. Infer missing information: Since Brooke Shields was able to graduate from Princeton University, another Ivy League institution, it can be inferred that she has the academic ability to succeed at the University of Pennsylvania.
+5. Apply reasoning: Given that Brooke Shields has already succeeded at an Ivy League university, it is reasonable to infer that she could also succeed at the University of Pennsylvania.
+6. Generate a response: Yes, Brooke Shields could succeed at the University of Pennsylvania.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+
+Solution:
+1. Identify the question type: The question is a yes/no question.
+2. Identify the key entities: The key entities in the question are "Hydrogen's atomic number" and "number of Spice Girls".
+3. Retrieve relevant facts:
+   - Hydrogen's atomic number is 1.
+   - The number of Spice Girls is 5.
+4. Infer missing information:
+   - Hydrogen's atomic number squared is 1^2 = 1.
+5. Apply reasoning:
+   - Since Hydrogen's atomic number squared is 1 and the number of Spice Girls is 5, it is clear that Hydrogen's atomic number squared does not exceed the number of Spice Girls.
+6. Generate a response: The answer is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+
+Solution:
+1. Identify the question type: The question is a yes/no question.
+2. Identify the key entities: The key entities in the question are "frost" and "college commencements".
+3. Retrieve relevant facts:
+   - Fact 1: College commencements typically occur in May or June.
+   - Fact 2: Frost is common in colder months, such as December, January, and February.
+4. Infer missing information:
+   - Inference 1: Since college commencements occur in May or June, they are not in the colder months when frost is common.
+   - Inference 2: However, some colleges are located in regions where the climate is colder, and frost can occur even in May or June.
+5. Apply reasoning:
+   - Reasoning 1: Based on the facts and inferences, it is not common to see frost during college commencements in general.
+   - Reasoning 2: However, it is possible to see frost during some college commencements in colder regions.
+6. Generate a response: Yes, it is common to see frost during some college commencements, specifically those in colder regions.
+
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+
+Solution:
+1. Identify the question type: The question is a yes/no question.
+2. Identify the key entities: The key entities in the question are "llama," "birth twice," and "War in Vietnam (1945-46)."
+3. Retrieve relevant facts:
+   - Llamas are mammals that typically give birth to one offspring at a time.
+   - The War in Vietnam (1945-46) was a conflict that took place in Vietnam from 1945 to 1946.
+4. Infer missing information:
+   - Since llamas typically give birth to one offspring at a time, it is not possible for a llama to birth twice in a short period of time.
+5. Apply reasoning:
+   - Given that llamas typically give birth to one offspring at a time and the War in Vietnam (1945-46) lasted for only one year, it is not possible for a llama to birth twice during this period.
+6. Generate a response:
+   - The answer is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+
+Solution:
+1. Identify the question type: The question is a yes/no question.
+2. Identify the key entities: The key entities in the question are "pear" and "water".
+3. Retrieve relevant facts: Pears are fruits that are less dense than water. Objects that are less dense than water will float in water.
+4. Infer missing information: Since a pear is less dense than water, it will float in water.
+5. Apply reasoning: The question asks whether a pear would sink in water. Based on the retrieved and inferred facts, a pear would not sink in water because it is less dense than water.
+6. Generate a response: The answer is no.
+
+Answer: The answer is no.

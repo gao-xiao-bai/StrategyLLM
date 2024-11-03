@@ -1,0 +1,81 @@
+Strategy:
+To solve multi-step arithmetic problems, we can follow this strategy:
+
+1. Parse the given expression by identifying the individual operations and their order of precedence.
+2. Evaluate the innermost parentheses by performing the operations within them, following the order of operations (PEMDAS - Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).
+3. Simplify the expression by substituting the result from step 2 and removing the evaluated parentheses.
+4. Repeat steps 2 and 3 until all parentheses are evaluated.
+5. Evaluate the remaining operations in the expression from left to right, following the order of operations.
+6. Simplify the final result.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Parse the given expression:
+   ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5))
+   The expression has two sets of parentheses, and the operations within each set need to be evaluated first.
+
+2. Evaluate the innermost parentheses:
+   (-5 + 9 * -4 - 0) = (-5 + (-36) - 0) = (-5 - 36) = -41
+   (4 + -7 + 0 * -5) = (4 + (-7) + 0) = (4 - 7) = -3
+
+3. Simplify the expression by substituting the results from step 2:
+   (-41 * -3)
+
+4. Evaluate the remaining operation:
+   (-41 * -3) = (-41 * -3) = 123
+
+5. Simplify the final result:
+   123
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. Parse the given expression:
+   ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4))
+   There are two sets of parentheses, and the operations within each set need to be evaluated first.
+
+2. Evaluate the innermost parentheses:
+   (-9 * 7 * 7 * -9) = (-9 * 49 * -9) = 3969
+   (4 * -9 - 8 - -4) = (-36 - 8 + 4) = -40
+
+3. Simplify the expression by substituting the results:
+   (3969 + (-40))
+
+4. Evaluate the remaining operations:
+   3969 + (-40) = 3969 - 40 = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. Parse the given expression:
+   ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9))
+   Innermost parentheses: (5 * 8 * -4), (8 * -7), (9 - 8 * -7 + -9)
+
+2. Evaluate the innermost parentheses:
+   (5 * 8 * -4) = -160
+   (8 * -7) = -56
+   (9 - (-56) + -9) = 9 + 56 - 9 = 56
+
+3. Simplify the expression by substituting the results:
+   ((-3 + -160) - 56)
+
+4. Evaluate the remaining parentheses:
+   (-3 + -160) = -163
+
+5. Evaluate the remaining operations:
+   (-163 - 56) = -219
+
+6. Simplify the final result:
+   -219
+
+Answer: The answer is -219.

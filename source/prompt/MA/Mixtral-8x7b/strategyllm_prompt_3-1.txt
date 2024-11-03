@@ -1,0 +1,92 @@
+Strategy:
+1. Follow the order of operations (PEMDAS/BODMAS) to ensure the correct calculation of the arithmetic expression. 
+	* Parentheses/Brackets
+	* Exponents/Orders
+	* Multiplication and Division (from left to right)
+	* Addition and Subtraction (from left to right)
+2. Within each operation group, solve arithmetic operations from left to right.
+3. Simplify expressions inside parentheses or brackets first, following the order of operations (PEMDAS/BODMAS) as in step 1.
+4. Perform calculations with integers according to their signs:
+	* Addition: combine the numbers with the same sign, then perform the addition of the results (positive + positive = positive; negative + negative = negative)
+	* Subtraction: if there is a minus sign in front of the numbers with the same sign, change the sign of the following numbers and perform the addition (negative - positive = negative; positive - negative = positive)
+	* Multiplication: combine the numbers with the same sign, then perform the multiplication of the results (positive * positive = positive; negative * negative = positive)
+	* Division: if there is a minus sign in front of the numbers with the same sign, change the sign of the following numbers and perform the division of the results (negative / positive = negative; positive / negative = negative)
+5. Calculate the results of each operation group in the order specified in step 1.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. First, we handle the operations inside the parentheses. We start with the expression (-5 + 9 * -4 - 0). According to PEMDAS/BODMAS, we should perform multiplication before addition and subtraction. So, we calculate 9 * -4 = -36.
+   The expression becomes: (-5 - 36 - 0)
+
+2. Next, we perform addition and subtraction from left to right. We calculate -5 - 36 = -41 and (-41 - 0) = -41.
+   The expression is now simplified to: -41
+
+3. Now, we handle the second parentheses: (4 + -7 + 0 * -5). Again, we calculate multiplication first, which is 0 * -5 = 0.
+   The expression becomes: (4 + -7 + 0)
+
+4. Then, we perform addition and subtraction from left to right. We calculate 4 + -7 = -3 and (-3 + 0) = -3.
+   The expression is now simplified to: -3
+
+5. Lastly, we perform the multiplication between the two results we got from the parentheses: -41 * -3.
+   We calculate -41 * -3 = 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. First, we handle the operations inside the parentheses. 
+   For the left parentheses:
+   -9 * 7 * 7 * -9
+   We follow the order of operations (PEMDAS/BODMAS):
+   Multiply: 
+   (-9) * 7 = -63
+   (-63) * 7 = -441
+   (-441) * -9 = 3969
+
+   For the right parentheses:
+   (4 * -9 - 8 - -4)
+   We follow the order of operations (PEMDAS/BODMAS):
+   Multiply:
+   4 * -9 = -36
+
+   Then, we perform subtraction:
+   -36 - 8 = -44
+   -44 - (-4) = -40
+
+2. Now, we have:
+   (3969) + (-40)
+
+3. Finally, we perform addition:
+   3969 + (-40) = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. First, we handle the operations inside the parentheses, following the order of operations (PEMDAS/BODMAS).
+
+   a. Inside the first parentheses, we have (-3 + 5 * 8 * -4). We start by performing the multiplication:
+   i. 5 * 8 * -4 = -160
+   ii. Now, replace the multiplication part of the expression: (-3 + -160)
+   iii. Next, perform the addition: -3 + -160 = -163
+
+   b. Inside the second parentheses, we have (9 - 8 * -7 + -9). We start by performing the multiplication:
+   i. 8 * -7 = -56
+   ii. Now, replace the multiplication part of the expression: (9 - -56 + -9)
+   iii. Next, perform the subtraction and addition from left to right: 9 - -56 = 9 + 56 = 65, then 65 + -9 = 56
+
+2. Now, replace the parentheses expressions with their calculated values:
+   i. (-163) - (56)
+
+3. Finally, perform the subtraction:
+   i. -163 - 56 = -219
+
+Answer: The answer is -219.

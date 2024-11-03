@@ -1,0 +1,55 @@
+Strategy:
+1. Follow the order of operations (PEMDAS/BODMAS) to ensure the correct calculation of the arithmetic expression. This means calculating exponents first, then performing multiplication and division from left to right, and finally performing addition and subtraction from left to right.
+2. Calculate the value of any expression in parentheses or brackets first.
+3. Perform any multiplications or divisions from left to right.
+4. Perform any additions or subtractions from left to right.
+5. Verify the solution to ensure it is a number. If the solution is an arithmetic expression, return to step 1 and repeat the process for that expression.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Calculate the value of any expression in parentheses or brackets first.
+   a. In the first parentheses, calculate -5 + 9 * -4:
+       i. Calculate 9 * -4: 9 * (-4) = -36
+       ii. Substitute -36 into -5 + 9 * -4: -5 + -36 = -41
+   b. In the second parentheses, calculate 4 + -7 + 0 * -5:
+       i. Calculate 0 * -5: 0 * (-5) = 0
+       ii. Substitute 0 into 4 + -7 + 0 * -5: 4 + -7 + 0 = -3
+   c. Substitute both results into the original expression: (-41) * (-3)
+2. Perform any multiplications from left to right.
+   a. Multiply -41 and -3: (-41) * (-3) = 123
+3. Perform any remaining operations (none in this case).
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. Calculate the values in the parentheses:
+   (-9 * 7 * 7 * -9) + (36 - 8 - -4)
+
+2. Perform multiplication:
+   343 * -9 + 36 - 8 - -4
+
+3. Perform addition and subtraction from left to right:
+   -3087 + 36 - 8 - -4
+   -3051 + -4
+   -3055
+
+Answer: The answer is -3055.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+1. Calculate the expressions in the parentheses:
+   a. -3 + 5 * 8 * -4: Calculate the multiplication first: 5 * 8 = 40, then perform the remaining operations: 40 * -4 = -160, and finally add -3: -160 + -3 = -163.
+   b. 9 - 8 * -7 + -9: Calculate the multiplication first: 8 * -7 = -56, then perform the subtraction: 9 - -56 = 65, and finally add -9: 65 + -9 = 56.
+
+2. Subtract the second result from the first result: -163 - 56 = -219.
+
+Answer: The answer is -219.

@@ -1,0 +1,191 @@
+Strategy:
+Strategy to solve problems in the intermediate algebra subject:
+
+1. Identify the problem type:
+   - Determine if the problem involves solving equations, simplifying expressions, finding maximum or minimum values, graphing functions, or working with specific algebraic concepts like polynomials, quadratic equations, or rational functions.
+
+2. Read and understand the problem:
+   - Carefully read and interpret the problem statement to identify the given information, what needs to be found, and any constraints or conditions given in the problem.
+
+3. Represent the problem algebraically:
+   - Use variables to represent unknown quantities or variables mentioned in the problem.
+   - Set up equations, expressions, or inequalities based on the given information or mathematical relationships stated in the problem.
+
+4. Solve the algebraic problem:
+   - Simplify expressions by combining like terms, using the distributive property, or applying other simplification rules.
+   - Solve equations or inequalities by isolating the variable and performing algebraic operations to find the solution.
+   - Use appropriate methods, such as factoring, completing the square, quadratic formula, or synthetic division, to solve quadratic equations.
+   - Apply techniques like substitution, elimination, or graphing to solve systems of equations.
+
+5. Check the solution:
+   - Substitute the found solution into the original problem to verify if it satisfies all given information or conditions.
+   - Simplify or evaluate expressions with the found solution to confirm the correctness of the answer.
+
+6. Communicate the answer:
+   - Present the final answer in a clear and concise manner.
+   - Provide any necessary units, rounding, or significant figures based on the problem's context.
+   - If required, interpret the answer in the context of the problem and provide any relevant explanations or justifications.
+
+Examples:
+Question: Find the quadratic polynomial $p(x)$ such that $p(-3) = 10,$ $p(0) = 1,$ and $p(2) = 5.$
+
+Solution:
+1. Identify the problem type:
+   - This problem involves finding a quadratic polynomial based on given values.
+
+2. Read and understand the problem:
+   - We need to find a quadratic polynomial $p(x)$ that satisfies the given conditions.
+
+3. Represent the problem algebraically:
+   - Let $p(x) = ax^2 + bx + c$ be the quadratic polynomial we need to find.
+   - We have the following equations based on the given conditions:
+     - $p(-3) = 10 \Rightarrow a(-3)^2 + b(-3) + c = 10$
+     - $p(0) = 1 \Rightarrow a(0)^2 + b(0) + c = 1$
+     - $p(2) = 5 \Rightarrow a(2)^2 + b(2) + c = 5$
+
+4. Solve the algebraic problem:
+   - Simplify the equations:
+     - $9a - 3b + c = 10$
+     - $c = 1$
+     - $4a + 2b + c = 5$
+   - Substitute $c = 1$ into the other equations:
+     - $9a - 3b + 1 = 10$
+     - $4a + 2b + 1 = 5$
+   - Simplify the equations further:
+     - $9a - 3b = 9$
+     - $4a + 2b = 4$
+   - Solve the system of equations:
+     - Multiply the second equation by 3 to eliminate $b$:
+       - $12a + 6b = 12$
+     - Subtract the first equation from the modified second equation:
+       - $12a + 6b - (9a - 3b) = 12 - 9$
+       - $3a + 9b = 3$
+     - Divide the equation by 3 to solve for $a$:
+       - $a + 3b = 1$
+     - Substitute $a = 1 - 3b$ into the first equation:
+       - $9(1 - 3b) - 3b = 9$
+       - $9 - 27b - 3b = 9$
+       - $-30b = 0$
+       - $b = 0$
+     - Substitute $b = 0$ into $a = 1 - 3b$:
+       - $a = 1 - 3(0)$
+       - $a = 1$
+     - Substitute $a = 1$ and $b = 0$ into $c = 1$:
+       - $c = 1$
+
+5. Check the solution:
+   - Substitute $a = 1$, $b = 0$, and $c = 1$ into the original equations:
+     - $9(1) - 3(0) + 1 = 10$
+     - $4(1) + 2(0) + 1 = 5$
+   - Both equations are satisfied.
+
+6. Communicate the answer:
+   - The quadratic polynomial $p(x)$ that satisfies the given conditions is $p(x) = x^2 + 1$.
+
+Answer: The answer is $x^2 + 1$
+
+
+
+Question: Calculate: $\frac53\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+
+Solution:
+1. Identify the problem type:
+   - This problem involves multiplying fractions.
+
+2. Read and understand the problem:
+   - We need to calculate the product of the given fractions.
+
+3. Represent the problem algebraically:
+   - Let's represent the given fractions as follows:
+     $\frac53 = \frac{5}{3}$
+     $\frac{6}{10} = \frac{6}{10}$
+     $\frac{15}{9} = \frac{15}{9}$
+     $\frac{12}{20} = \frac{12}{20}$
+     $\frac{25}{15} = \frac{25}{15}$
+     $\frac{18}{30} = \frac{18}{30}$
+     $\frac{35}{21} = \frac{35}{21}$
+     $\frac{24}{40} = \frac{24}{40}$
+
+4. Solve the algebraic problem:
+   - Multiply all the fractions together:
+     $\frac{5}{3} \times \frac{6}{10} \times \frac{15}{9} \times \frac{12}{20} \times \frac{25}{15} \times \frac{18}{30} \times \frac{35}{21} \times \frac{24}{40}$
+     $= \frac{5 \times 6 \times 15 \times 12 \times 25 \times 18 \times 35 \times 24}{3 \times 10 \times 9 \times 20 \times 15 \times 30 \times 21 \times 40}$
+     $= \frac{5 \times 6 \times 15 \times 12 \times 25 \times 18 \times 35 \times 24}{3 \times 10 \times 3 \times 2 \times 5 \times 2 \times 3 \times 2 \times 5 \times 3 \times 2 \times 7 \times 2 \times 2 \times 5}$
+     $= \frac{5 \times 6 \times 15 \times 12 \times 25 \times 18 \times 35 \times 24}{3^3 \times 2^7 \times 5^3 \times 7}$
+
+5. Check the solution:
+   - There is no need to check the solution in this case.
+
+6. Communicate the answer:
+   - The answer is 1
+
+Answer: The answer is 1
+
+
+
+Question: For $-25 \le x \le 25,$ find the maximum value of $\sqrt{25 + x} + \sqrt{25 - x}.$
+
+Solution:
+1. Identify the problem type:
+   - This problem involves finding the maximum value of an expression.
+
+2. Read and understand the problem:
+   - The problem asks us to find the maximum value of $\sqrt{25 + x} + \sqrt{25 - x}$ for $-25 \le x \le 25$.
+
+3. Represent the problem algebraically:
+   - Let $f(x) = \sqrt{25 + x} + \sqrt{25 - x}$.
+
+4. Solve the algebraic problem:
+   - To find the maximum value of $f(x)$, we can take the derivative of $f(x)$ with respect to $x$ and set it equal to zero to find critical points.
+   - Taking the derivative of $f(x)$, we have:
+     $f'(x) = \frac{1}{2\sqrt{25 + x}} - \frac{1}{2\sqrt{25 - x}}$
+   - Setting $f'(x) = 0$ and solving for $x$, we get:
+     $\frac{1}{2\sqrt{25 + x}} - \frac{1}{2\sqrt{25 - x}} = 0$
+     $\frac{1}{2\sqrt{25 + x}} = \frac{1}{2\sqrt{25 - x}}$
+     $\sqrt{25 + x} = \sqrt{25 - x}$
+     $25 + x = 25 - x$
+     $2x = 0$
+     $x = 0$
+   - The critical point is $x = 0$.
+
+5. Check the solution:
+   - We need to check if $x = 0$ is within the given range $-25 \le x \le 25$.
+   - Since $0$ is within the range, we can proceed to evaluate $f(x)$ at $x = 0$.
+   - $f(0) = \sqrt{25 + 0} + \sqrt{25 - 0} = \sqrt{25} + \sqrt{25} = 5 + 5 = 10$.
+
+6. Communicate the answer:
+   - The maximum value of $\sqrt{25 + x} + \sqrt{25 - x}$ for $-25 \le x \le 25$ is $10$.
+   
+Answer: The answer is 10
+
+
+
+Question: The hyperbolas \[\frac{x^2}{4} - \frac{y^2}{9} = 1\]and \[\frac{y^2}{18} - \frac{x^2}{N} = 1\]have the same asymptotes. Find $N.$
+
+Solution:
+1. Identify the problem type:
+   - This problem involves finding the value of a variable in an equation.
+
+2. Read and understand the problem:
+   - We are given two hyperbolas and we need to find the value of $N$.
+
+3. Represent the problem algebraically:
+   - The equation of the first hyperbola is $\frac{x^2}{4} - \frac{y^2}{9} = 1$.
+   - The equation of the second hyperbola is $\frac{y^2}{18} - \frac{x^2}{N} = 1$.
+
+4. Solve the algebraic problem:
+   - To find the value of $N$, we need to compare the equations of the asymptotes of the two hyperbolas.
+   - The equation of the asymptotes of a hyperbola of the form $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$ is $y = \pm \frac{b}{a}x$.
+   - Comparing the equations of the asymptotes of the two hyperbolas, we have $\frac{b}{a} = \frac{3}{2}$ and $\frac{b}{a} = \frac{\sqrt{N}}{3}$.
+   - Setting these two expressions equal to each other, we get $\frac{3}{2} = \frac{\sqrt{N}}{3}$.
+   - Solving for $N$, we have $N = 9 \cdot \left(\frac{3}{2}\right)^2 = 9 \cdot \frac{9}{4} = \frac{81}{4} = 20.25$.
+
+5. Check the solution:
+   - Substituting $N = 20.25$ into the equation of the second hyperbola, we have $\frac{y^2}{18} - \frac{x^2}{20.25} = 1$.
+   - Simplifying this equation, we get $\frac{y^2}{18} - \frac{x^2}{20.25} = 1$.
+   - This equation represents a hyperbola with the same asymptotes as the first hyperbola.
+   - Therefore, the solution $N = 20.25$ is correct.
+
+6. Communicate the answer:
+   - The value of $N$ is $20.25$.
+   - The answer is $The answer is 20.25$.

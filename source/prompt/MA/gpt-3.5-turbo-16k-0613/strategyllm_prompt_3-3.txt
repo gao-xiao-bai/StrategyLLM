@@ -1,0 +1,86 @@
+Strategy:
+1. Identify the innermost parentheses in the expression.
+2. Evaluate the arithmetic operation within the innermost parentheses.
+3. Replace the innermost parentheses with the result of the arithmetic operation.
+4. Repeat steps 1-3 until there are no more parentheses left in the expression.
+5. Evaluate any remaining arithmetic operations from left to right.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+Solution:
+Step 1: Identify the innermost parentheses in the expression.
+The innermost parentheses is (-5 + 9 * -4 - 0).
+
+Step 2: Evaluate the arithmetic operation within the innermost parentheses.
+(-5 + 9 * -4 - 0) = (-5 + (-36) - 0) = -5 - 36 = -41.
+
+Step 3: Replace the innermost parentheses with the result of the arithmetic operation.
+(((-41) * (4 + -7 + 0 * -5)).
+
+Step 4: Repeat steps 1-3 until there are no more parentheses left in the expression.
+The innermost parentheses is (4 + -7 + 0 * -5).
+
+Step 2: Evaluate the arithmetic operation within the innermost parentheses.
+(4 + -7 + 0 * -5) = (4 + -7 + 0) = -3.
+
+Step 3: Replace the innermost parentheses with the result of the arithmetic operation.
+(((-41) * (-3)).
+
+Step 4: Repeat steps 1-3 until there are no more parentheses left in the expression.
+There are no more parentheses left in the expression.
+
+Step 5: Evaluate any remaining arithmetic operations from left to right.
+((-41) * (-3)) = 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+Solution:
+Step 1: Identify the innermost parentheses in the expression.
+The innermost parentheses is (4 * -9 - 8 - -4).
+
+Step 2: Evaluate the arithmetic operation within the innermost parentheses.
+4 * -9 = -36
+-36 - 8 = -44
+-44 - -4 = -40
+
+Step 3: Replace the innermost parentheses with the result of the arithmetic operation.
+(((-9 * 7 * 7 * -9) + -40))
+
+Step 4: Repeat steps 1-3 until there are no more parentheses left in the expression.
+There are no more parentheses left in the expression.
+
+Step 5: Evaluate any remaining arithmetic operations from left to right.
+-9 * 7 = -63
+-63 * 7 = -441
+-441 * -9 = 3969
+3969 + -40 = 3929
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+Solution:
+Step 1: Identify the innermost parentheses in the expression.
+The innermost parentheses is (-3 + 5 * 8 * -4) and (9 - 8 * -7 + -9).
+
+Step 2: Evaluate the arithmetic operation within the innermost parentheses.
+For (-3 + 5 * 8 * -4):
+-3 + 5 * 8 * -4 = -3 + 40 * -4 = -3 + (-160) = -163
+
+For (9 - 8 * -7 + -9):
+9 - 8 * -7 + -9 = 9 - (-56) + (-9) = 9 + 56 - 9 = 56
+
+Step 3: Replace the innermost parentheses with the result of the arithmetic operation.
+(((-163) - 56))
+
+Step 4: Repeat steps 1-3 until there are no more parentheses left in the expression.
+There are no more parentheses left in the expression.
+
+Step 5: Evaluate any remaining arithmetic operations from left to right.
+-163 - 56 = -219
+
+Answer: The answer is -219.

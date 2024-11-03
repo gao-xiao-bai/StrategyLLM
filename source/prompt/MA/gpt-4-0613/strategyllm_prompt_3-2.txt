@@ -1,0 +1,57 @@
+Strategy:
+1. Begin by reading the entire problem carefully and understand what operations you need to perform.
+2. Start solving the problem from the innermost parentheses to apply the BIDMAS/BODMAS order, which stands for Bracket, Indices/Powers, Division and Multiplication (from left to right), Addition and Subtraction (from left to right).
+3. In each parentheses, follow the BIDMAS/BODMAS order. This means, first look for any powers or square roots and solve them. Secondly, look for any multiplication or division operations and solve them from left to right. Lastly, address any addition or subtraction operations from left to right.
+4. After solving the operations within a pair of parentheses, replace that entire expression in parentheses with the result you obtained.
+5. Repeat steps 3 and 4 until you have solved all operations within parentheses.
+6. Once all parentheses have been resolved, solve the remaining arithmetic operations again following the BIDMAS/BODMAS order until you reach a final answer.
+7. Ensure the sign of the final answer is correct. If there were an even number of negative signs in the multiplication or division, the answer will be positive. If there were an odd number, the answer will be negative.
+8. Write down or say the final answer, prefacing it with, "The answer is...".
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution: 
+1. Start by solving the operations within the innermost parentheses. The given problem has two sets of parentheses, (-5 + 9 * -4 - 0) and (4 + -7 + 0 * -5).
+2. In the first parentheses, (-5 + 9 * -4 - 0), according to BIDMAS/BODMAS order, multiplication should be done first. So, 9 * -4 = -36.
+3. Replace the multiplication operation and its result in the expression. Now, the first parentheses becomes (-5 + -36 - 0).
+4. Now, perform the addition and subtraction operations from left to right. So, -5 + -36 = -41 and -41 - 0 = -41.
+5. Replace the entire first parentheses with -41. The problem now becomes (-41 * (4 + -7 + 0 * -5)).
+6. Now, solve the operations in the second parentheses, (4 + -7 + 0 * -5). According to BIDMAS/BODMAS order, multiplication should be done first. But here, 0 is multiplied by -5, which results in 0.
+7. Replace the multiplication operation and its result in the expression. Now, the second parentheses becomes (4 + -7 + 0).
+8. Now, perform the addition and subtraction operations from left to right. So, 4 + -7 = -3 and -3 + 0 = -3.
+9. Replace the entire second parentheses with -3. The problem now becomes (-41 * -3).
+10. Now, perform the multiplication operation. So, -41 * -3 = 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution: 
+1. Start by solving the operations within the innermost parentheses.
+2. In the first parentheses, we have multiplication operations: (-9 * 7 * 7 * -9). Multiply these numbers together. Remember that the product of an even number of negative numbers is positive.
+   So, -9 * 7 = -63, -63 * 7 = -441, -441 * -9 = 3969.
+3. In the second parentheses, we have mixed operations: (4 * -9 - 8 - -4). Solve multiplication first, then subtraction. 
+   So, 4 * -9 = -36, -36 - 8 = -44, -44 - -4 = -40.
+4. Now, replace the expressions in parentheses in the original problem with the results obtained: (3969 + -40).
+5. Solve the remaining addition operation: 3969 + -40 = 3929.
+6. The final answer is positive because there is no negative sign in front of the final result.
+
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution: 
+1. Start by solving the operations within the innermost parentheses.
+2. In the first parentheses, (-3 + 5 * 8 * -4), according to BIDMAS/BODMAS order, we first perform the multiplication operation: 5 * 8 * -4 = -160.
+3. Replace the multiplication operation in the parentheses with the result, the expression becomes: (-3 + -160) = -163.
+4. In the second parentheses, (9 - 8 * -7 + -9), according to BIDMAS/BODMAS order, we first perform the multiplication operation: 8 * -7 = -56.
+5. Replace the multiplication operation in the parentheses with the result, the expression becomes: (9 - -56 + -9) = 56.
+6. Now, replace the entire expressions in parentheses in the original problem with the results obtained: (-163 - 56) = -219.
+7. There were an odd number of negative signs in the multiplication, so the answer is negative.
+
+Answer: The answer is -219.

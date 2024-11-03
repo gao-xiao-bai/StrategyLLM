@@ -1,0 +1,5 @@
+Write a step-by-step solution to the example:
+
+**Question:** [QUESTION]
+
+**Solution:** 

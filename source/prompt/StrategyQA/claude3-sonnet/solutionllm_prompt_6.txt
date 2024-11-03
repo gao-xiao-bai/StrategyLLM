@@ -1,0 +1,57 @@
+Question: Do hamsters provide food for any animals?
+Solution: Hamsters are small rodents that are often kept as pets. They are prey animals and can be hunted and eaten by various predators in the wild, such as snakes, birds of prey, and carnivorous mammals like foxes, weasels, and cats. Therefore, hamsters can provide food for certain animals that prey on them.
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution: To answer this question, we need to break it down into multiple steps:
+1) Who is Brooke Shields? Brooke Shields is an American actress, model, and author.
+2) What is the University of Pennsylvania? The University of Pennsylvania is a private Ivy League research university located in Philadelphia, Pennsylvania.
+3) Can successful actors and models succeed at prestigious universities like the University of Pennsylvania? Yes, if they have the necessary academic qualifications and dedication to their studies, actors and models can succeed at top universities.
+4) Given Brooke Shields' successful career and presumed intelligence, it is reasonable to assume that she could succeed at the University of Pennsylvania if she applied herself to her studies.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution:
+1. Hydrogen's atomic number is 1.
+2. 1 squared is 1.
+3. The number of Spice Girls was 5.
+4. 1 does not exceed 5.
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution: To answer this question, we need to break it down into smaller steps:
+1. College commencements typically occur in late spring or early summer.
+2. During this time of year, the weather is generally mild to warm in most regions.
+3. However, some college commencements may take place in locations or at times when the temperature can still drop below freezing at night.
+4. When the temperature drops below freezing and there is moisture in the air, frost can form on surfaces.
+5. Therefore, while it may not be extremely common, it is possible to see frost during some college commencements, especially those held in the early morning hours or in cooler climates.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution: To answer this question, we need to break it down into smaller parts and reason through them:
+
+1. Llamas are mammals that typically give birth to one offspring at a time.
+2. The gestation period for llamas is around 11-12 months.
+3. The War in Vietnam (1945-46) lasted for around 1 year.
+
+Given these facts, it would be highly unlikely for a llama to give birth twice during the short span of the War in Vietnam (1945-46). The gestation period for llamas is longer than the duration of the war, making it impossible for a single llama to have two separate pregnancies and births within that timeframe.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution: To determine whether a pear would sink or float in water, we need to consider its density relative to the density of water. Objects with a density greater than water (around 1 g/cm³) will sink, while objects with a lower density will float.
+
+The density of a pear is typically lower than that of water, ranging from around 0.6 to 0.8 g/cm³. This is because pears are composed mainly of water and have a relatively low mass compared to their volume.
+
+Therefore, based on the lower density of pears compared to water, a pear would float when placed in water.
+Answer: The answer is no.

@@ -1,0 +1,74 @@
+Strategy:
+1. Combinations and n choose k: Understand the concept of combinations and how to calculate "n choose k" (denoted as $\binom{n}{k}$), which represents the number of ways to choose k unordered items from a set of n distinct items. The formula for $\binom{n}{k} = \frac{n!}{k!(n-k)!}$, where "!" denotes factorial.
+2. Probability: Brush up on probability concepts, including the definition of probability, sample spaces, events, and calculating probabilities for various events.
+3. Odd four-digit numbers: Determine the probability of forming an odd four-digit number from a set of given digits. Count the number of odd and total possible four-digit numbers to find the probability.
+4. Octahedron assembly: Calculate the number of distinguishable ways to construct a regular octahedron from 8 congruent equilateral triangles of different colors. Use the concept of permutations with repetitions to find the total number of possible arrangements and then divide by the number of symmetries to get distinguishable ways.
+5. Gnollish language sentences: Count the total number of 3-word sentences in the Gnollish language, with the condition that "splargh" cannot come directly before "glumph." Count the number of sentences allowing and disallowing this sequence and subtract to find the number of possible sentences that don't violate the condition.
+6. Binomial coefficients equality: If given three binomial coefficients $\binom{n}{a}$, $\binom{n}{a+b}$, and $\binom{n}{a+2b}$, and their respective values are known, use these values to find the value of $\binom{n+2}{a+b}$. Utilize the properties of binomial coefficients to calculate the missing coefficient.
+7. Specific example for the binomial coefficient: Apply the properties provided in the previous subtask to find the value of $\binom{19}{9}$ given the values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$. Solve the problem step-by-step or consider related coefficients to determine the answer.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution:
+1. Combinations and n choose k:
+   We will use the concept of combinations to count the number of ways to arrange the digits. The formula for $\binom{n}{k} = \frac{n!}{k!(n-k)!}$ will be applied.
+
+2. Probability:
+   The probability of an event A is defined as the ratio of the number of favorable outcomes (count of event A) to the total number of outcomes (sample space).
+
+3. Odd four-digit numbers:
+   There are 4 digits given: 2, 3, 5, and 7. An odd number has its units place occupied by an odd digit. So, there are 3 odd digits (2 is excluded) that can be placed in the units place.
+
+   Total possible four-digit numbers = $\binom{4}{4} * 4! = 24$
+   (There are 4 choices for the first digit, 4 choices for the second digit, 4 choices for the third digit, and 4 choices for the fourth digit. However, since the order is important, we multiply by 4!.)
+
+   Odd four-digit numbers = Number of ways to arrange 3 odd digits from 3 choices and 1 even digit from 1 choice = $\binom{3}{3} * 3! * \binom{1}{1} * 1! = 6$
+
+   Probability = Count of odd four-digit numbers / Total possible four-digit numbers = 6/24 = 1/4
+
+Answer: The answer is $\frac{1}{4}$
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+1. Combinations and n choose k: We will use the concept of combinations to find the number of ways to choose k unordered items from a set of n distinct items. The formula for $\binom{n}{k} = \frac{n!}{k!(n-k)!}$, where "!" denotes factorial.
+
+2. Probability: Probability is the chance of an event happening. It is calculated as the number of favorable outcomes divided by the total number of outcomes.
+
+3. Octahedron assembly: We have 8 triangles of different colors. We want to find the number of distinguishable ways to construct a regular octahedron.
+
+- First, let's find the total number of permutations of these 8 triangles. This is equal to $8!$.
+- However, an octahedron has symmetries, meaning that some permutations will look identical up to rotation. An octahedron has 24 symmetries (rotations).
+- To find the number of distinguishable ways, we need to divide the total number of permutations by the number of symmetries: $\frac{8!}{24}$.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution:
+1. Combinations and n choose k: In this case, we don't need to calculate any combinations directly, but the concept of "n choose k" is still relevant. We need to find the number of ways to choose 3 words from the set of 3 distinct words, while ensuring that the sequence "splargh-glumph" does not occur.
+
+2. Probability: This subtask is not directly applicable to this example.
+
+3. Odd four-digit numbers: This subtask is not directly applicable to this example.
+
+4. Octahedron assembly: This subtask is not directly applicable to this example.
+
+5. Gnollish language sentences: Let's count the total number of 3-word sentences first. There are 3 choices for each word position, so there are $3^3 = 27$ possible sentences without any restrictions.
+
+   Now, let's count the sentences that violate the condition by having "splargh" directly before "glumph". There are 3 possible positions for "splargh", and once it appears, there is only 1 way to place "glumph" directly after it. So, there are $3 \times 1 = 3$ such sentences.
+
+   To find the number of valid sentences, subtract the invalid sentences from the total: $27 - 3 = 24$. However, we have double-counted the sentences that have "glumph" directly before "splargh". There are 3 possible positions for "glumph", and once it appears, there is only 1 way to place "splargh" directly after it. So, there are $3 \times 1 = 3$ such sentences.
+
+   The total number of valid sentences is $24 - 3 = 21$.
+
+6. Binomial coefficients equality: This subtask is not directly applicable to this example.
+
+7. Specific example for the binomial coefficient: This subtask is not directly applicable to this example.
+
+Answer: The answer is 21.

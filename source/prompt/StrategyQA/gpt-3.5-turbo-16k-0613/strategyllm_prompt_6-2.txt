@@ -1,0 +1,209 @@
+Strategy:
+1. Understand the question and identify whether it requires a yes or no answer.
+2. Determine if the question requires multiple steps to answer.
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+8. Provide the final yes or no answer to the main question.
+
+Examples:
+Question: Do hamsters provide food for any animals?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+- The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+- Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+- N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+- Sub-question 1: What do hamsters eat?
+- Sub-question 2: Are there any animals that eat what hamsters eat?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+- Sub-question 1: What do hamsters eat?
+  - Hamsters eat a variety of foods including seeds, grains, fruits, and vegetables.
+- Sub-question 2: Are there any animals that eat what hamsters eat?
+  - Yes, there are animals such as mice, rats, and gerbils that eat similar foods to hamsters.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+- N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+- Based on the answers to the sub-questions, we can conclude that hamsters do provide food for other animals.
+
+8. Provide the final yes or no answer to the main question.
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+   - The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+   - Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+   - N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+   - Sub-question 1: Is Brooke Shields a student?
+   - Sub-question 2: Is University of Pennsylvania a university?
+   - Sub-question 3: Can a student succeed at a university?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+   - Sub-question 1: Is Brooke Shields a student?
+     - Answer: Yes, Brooke Shields is a student.
+   - Sub-question 2: Is University of Pennsylvania a university?
+     - Answer: Yes, University of Pennsylvania is a university.
+   - Sub-question 3: Can a student succeed at a university?
+     - Answer: Yes, a student can succeed at a university.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+   - N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+   - Combine the answers: Yes (Brooke Shields is a student) + Yes (University of Pennsylvania is a university) + Yes (a student can succeed at a university) = Yes
+
+8. Provide the final yes or no answer to the main question.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+   - The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+   - Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+   - N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+   - Sub-question 1: What is the atomic number of Hydrogen?
+   - Sub-question 2: What is the square of the atomic number of Hydrogen?
+   - Sub-question 3: How many Spice Girls are there?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+   - Sub-question 1: What is the atomic number of Hydrogen?
+     - The atomic number of Hydrogen is 1.
+   - Sub-question 2: What is the square of the atomic number of Hydrogen?
+     - The square of 1 is 1.
+   - Sub-question 3: How many Spice Girls are there?
+     - This information is not provided.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+   - N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+   - Since we don't have the information about the number of Spice Girls, we cannot determine if Hydrogen's atomic number squared exceeds the number of Spice Girls.
+
+8. Provide the final yes or no answer to the main question.
+   - The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+- The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+- Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+- N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+- Sub-question 1: Are college commencements typically held in colder months?
+- Sub-question 2: Does frost occur during colder months?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+- Sub-question 1: Are college commencements typically held in colder months?
+  - Answer: Yes, college commencements are typically held in the spring, which can be considered a colder month compared to summer.
+
+- Sub-question 2: Does frost occur during colder months?
+  - Answer: Yes, frost occurs during colder months, especially during the early spring when college commencements are typically held.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+- N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+- Combining the answers from sub-question 1 and sub-question 2, we can conclude that it is common to see frost during some college commencements.
+
+8. Provide the final yes or no answer to the main question.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+   - The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+   - Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+   - N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+   - Sub-question 1: Did llamas exist during the War in Vietnam (1945-46)?
+   - Sub-question 2: Can llamas give birth more than once in their lifetime?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+   - Sub-question 1: Did llamas exist during the War in Vietnam (1945-46)?
+     - Answer: No, llamas are native to South America and were not present in Vietnam during the war.
+
+   - Sub-question 2: Can llamas give birth more than once in their lifetime?
+     - Answer: Yes, llamas are capable of giving birth multiple times in their lifetime.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+   - N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+   - Since the answer to sub-question 1 is "No" and the answer to sub-question 2 is "Yes", we can conclude that it is not possible for a llama to give birth twice during the War in Vietnam (1945-46).
+
+8. Provide the final yes or no answer to the main question.
+Answer: The answer is no.
+
+
+
+Question: Would a pear sink in water?
+Solution:
+1. Understand the question and identify whether it requires a yes or no answer.
+- The question requires a yes or no answer.
+
+2. Determine if the question requires multiple steps to answer.
+- Yes, the question requires multiple steps to answer.
+
+3. If the question is straightforward and can be answered with a single piece of information, provide the answer directly.
+- N/A
+
+4. If the question requires multiple steps to answer, break it down into smaller sub-questions or information.
+- Sub-question 1: Does a pear have a higher density than water?
+- Sub-question 2: Does an object with higher density than water sink in water?
+
+5. Analyze each sub-question or information and determine if it can be answered with a yes or no.
+- Sub-question 1: Does a pear have a higher density than water?
+  - Answer: I don't know the exact density of a pear, so I cannot answer this sub-question with a yes or no.
+
+- Sub-question 2: Does an object with higher density than water sink in water?
+  - Answer: Yes, an object with higher density than water sinks in water.
+
+6. If a sub-question cannot be answered with a yes or no, further break it down into smaller sub-questions or information until a yes or no answer can be obtained.
+- N/A
+
+7. Combine the answers to the sub-questions or information to arrive at a final yes or no answer for the main question.
+- Since we don't know the exact density of a pear, we cannot determine if it has a higher density than water. However, we know that an object with higher density than water sinks in water. Therefore, we can conclude that a pear would sink in water.
+
+8. Provide the final yes or no answer to the main question.
+Answer: The answer is yes.

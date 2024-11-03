@@ -1,0 +1,99 @@
+Strategy:
+1. Identify the problem or concept being tested in the given question.
+2. Define any necessary terms or formulas related to the problem.
+3. Simplify or manipulate any given expressions or equations to solve the problem.
+4. Solve the problem step by step with the help of appropriate formulas or techniques.
+5. Verify the solution or answer to ensure its correctness.
+6. Repeat steps 1-5 for each problem in the precalculus subject.
+
+Examples:
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$.  Find $c$.
+
+Solution:
+1. Identify the problem or concept being tested in the given question.
+   - The problem is asking us to find the complex number $c$ that represents the center of rotation for the given function.
+
+2. Define any necessary terms or formulas related to the problem.
+   - The formula for a rotation around a complex number $c$ is given by $f(z) = e^{i\theta}(z-c) + c$, where $\theta$ is the angle of rotation.
+
+3. Simplify or manipulate any given expressions or equations to solve the problem.
+   - The given function can be rewritten as $f(z) = \frac{-z + i\sqrt{3}z - 2\sqrt{3} - 18i}{2}$.
+
+4. Solve the problem step by step with the help of appropriate formulas or techniques.
+   - Comparing the given function with the formula for rotation, we can see that $e^{i\theta} = \frac{-1 + i\sqrt{3}}{2}$ and $c = \frac{-2\sqrt{3} - 18i}{2}$.
+   - To find $\theta$, we can take the argument of $e^{i\theta}$, which is $\theta = \arg\left(\frac{-1 + i\sqrt{3}}{2}\right)$.
+   - Simplifying the expression inside the argument, we get $\frac{-1 + i\sqrt{3}}{2} = \frac{-2 + 2i\sqrt{3}}{4} = \frac{-1}{2} + \frac{i\sqrt{3}}{2}$.
+   - The argument of this complex number is $\theta = \arctan\left(\frac{\sqrt{3}}{-1}\right) = \arctan(-\sqrt{3})$.
+   - Using the unit circle, we can determine that $\theta = -\frac{\pi}{3}$.
+   - Therefore, the angle of rotation is $-\frac{\pi}{3}$.
+
+5. Verify the solution or answer to ensure its correctness.
+   - Substituting $\theta = -\frac{\pi}{3}$ into the formula for rotation, we get $f(z) = e^{-i\frac{\pi}{3}}(z-c) + c$.
+   - Simplifying this expression, we have $f(z) = \frac{1}{2}\left(\cos\left(-\frac{\pi}{3}\right) + i\sin\left(-\frac{\pi}{3}\right)\right)(z-c) + c$.
+   - Using the trigonometric identities $\cos(-\frac{\pi}{3}) = \frac{1}{2}$ and $\sin(-\frac{\pi}{3}) = -\frac{\sqrt{3}}{2}$, we can further simplify the expression to $f(z) = \frac{1}{2}\left(\frac{1}{2} - \frac{\sqrt{3}}{2}i\right)(z-c) + c$.
+   - Distributing and simplifying, we get $f(z) = \frac{1}{4}(z-c) - \frac{\sqrt{3}}{4}i(z-c) + c$.
+   - Combining like terms, we have $f(z) = \left(\frac{1}{4} - \frac{\sqrt{3}}{4}i\right)z + \left(\frac{3}{4} + \frac{\sqrt{3}}{4}i\right)c$.
+   - Comparing this expression with the given function, we can see that $\frac{1}{4} - \frac{\sqrt{3}}{4}i = \frac{-1 + i\sqrt{3}}{2}$ and $\frac{3}{4} + \frac{\sqrt{3}}{4}i = \frac{-2\sqrt{3} - 18i}{2}$.
+   - Therefore, our solution is correct.
+
+Answer: The answer is $\sqrt{3}-5i$.
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+Solution:
+1. The problem being tested in this question is the conversion between polar coordinates and rectangular coordinates.
+2. The necessary formulas for this conversion are:
+   - $x = r \cos(\theta)$
+   - $y = r \sin(\theta)$
+3. Given the polar coordinates $\left( 8, \frac{7 \pi}{6} \right)$, we need to find the corresponding rectangular coordinates.
+4. Using the formulas mentioned above, we can solve the problem step by step:
+   - $x = 8 \cos\left(\frac{7 \pi}{6}\right)$
+   - $y = 8 \sin\left(\frac{7 \pi}{6}\right)$
+5. Evaluating the expressions:
+   - $x = 8 \cdot \left(-\frac{\sqrt{3}}{2}\right) = -4\sqrt{3}$
+   - $y = 8 \cdot \left(-\frac{1}{2}\right) = -4$
+6. The rectangular coordinates corresponding to the given polar coordinates are $(-4\sqrt{3}, -4)$.
+
+Answer: The answer is $(-4\sqrt{3}, -4)$
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+
+Solution:
+1. The problem being tested in this question is matrix multiplication.
+2. Matrix multiplication is defined as multiplying the corresponding elements of the rows of the first matrix with the corresponding elements of the columns of the second matrix and summing them up.
+3. Given matrices:
+   $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix}$ and $\begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}$
+4. To compute the product, we multiply the elements of the first row of the first matrix with the elements of the first column of the second matrix and sum them up. Similarly, we do the same for the second row and second column.
+   $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix} = \begin{pmatrix} (2 \cdot 8 + 0 \cdot 1) & (2 \cdot -2 + 0 \cdot 1) \\ (5 \cdot 8 + -3 \cdot 1) & (5 \cdot -2 + -3 \cdot 1) \end{pmatrix}$
+   $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix} = \begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$
+5. The solution to the problem is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+6. The answer is The answer is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+
+Solution:
+1. Identify the problem or concept being tested in the given question.
+   - The problem involves finding a vector on a line given two points on the line and a parameter value.
+
+2. Define any necessary terms or formulas related to the problem.
+   - A line can be parameterized by a vector equation of the form $\mathbf{r}(t) = \mathbf{a} + t \mathbf{d},$ where $\mathbf{a}$ is a point on the line and $\mathbf{d}$ is the direction vector of the line.
+
+3. Simplify or manipulate any given expressions or equations to solve the problem.
+   - We are given two points on the line, so we can find the direction vector $\mathbf{d}$ by subtracting the two points.
+
+4. Solve the problem step by step with the help of appropriate formulas or techniques.
+   - Let $\mathbf{a} = \begin{pmatrix} 1 \\ 4 \end{pmatrix}$ and $\mathbf{b} = \begin{pmatrix} 3 \\ -4 \end{pmatrix}.$
+   - The direction vector $\mathbf{d}$ is given by $\mathbf{d} = \mathbf{b} - \mathbf{a} = \begin{pmatrix} 3 \\ -4 \end{pmatrix} - \begin{pmatrix} 1 \\ 4 \end{pmatrix} = \begin{pmatrix} 2 \\ -8 \end{pmatrix}.$
+   - Now, we can find the vector on the line at $t = -7$ by substituting $t = -7$ into the vector equation $\mathbf{r}(t) = \mathbf{a} + t \mathbf{d}.$
+   - $\mathbf{r}(-7) = \begin{pmatrix} 1 \\ 4 \end{pmatrix} + (-7) \begin{pmatrix} 2 \\ -8 \end{pmatrix} = \begin{pmatrix} 1 \\ 4 \end{pmatrix} + \begin{pmatrix} -14 \\ 56 \end{pmatrix} = \begin{pmatrix} -13 \\ 60 \end{pmatrix}.$
+
+5. Verify the solution or answer to ensure its correctness.
+   - The vector on the line at $t = -7$ is $\begin{pmatrix} -13 \\ 60 \end{pmatrix},$ which matches the given answer.
+
+Answer: The answer is $\begin{pmatrix} -13 \\ 60 \end{pmatrix}$

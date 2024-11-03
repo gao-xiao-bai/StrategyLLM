@@ -1,0 +1,115 @@
+Strategy:
+Here's a general strategy consisting of a sequence of subtasks to solve counting and probability problems:
+
+1. Identify the type of problem (permutations, combinations, probability, etc.).
+2. Define the sample space (the set of all possible outcomes).
+3. Determine the number of favorable outcomes (outcomes that satisfy the given conditions).
+4. Apply the appropriate counting principle or formula (e.g., multiplication principle, addition principle, combination formula, probability formula).
+5. Simplify and evaluate the expression to obtain the final answer.
+6. Check the answer for correctness and reasonableness.
+7. If necessary, interpret the result in the context of the problem.
+
+Examples:
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution:
+1. Identify the type of problem: This is a probability problem involving permutations.
+
+2. Define the sample space: The sample space consists of all possible four-digit numbers that can be formed using the digits 2, 3, 5, and 7, without repetition. There are 4! = 24 ways to arrange these four digits.
+
+3. Determine the number of favorable outcomes: A four-digit number is odd if its last digit is odd. In this case, the odd digits are 3, 5, and 7. There are 3 ways to choose the last digit (3, 5, or 7), and for each choice, there are 3! = 6 ways to arrange the remaining three digits in the first three positions. Therefore, the number of favorable outcomes is 3 × 6 = 18.
+
+4. Apply the appropriate counting principle or formula: The probability of an event is given by the ratio of the number of favorable outcomes to the total number of possible outcomes.
+   Probability = Number of favorable outcomes / Total number of possible outcomes
+   Probability = 18 / 24
+
+5. Simplify and evaluate the expression: 18 / 24 = 3 / 4
+
+6. Check the answer for correctness and reasonableness: The answer is reasonable because there are three odd digits out of four digits, so the probability of forming an odd number should be 3/4.
+
+7. Interpret the result in the context of the problem: The probability of forming an odd four-digit number by randomly arranging the digits 2, 3, 5, and 7 is 3/4 or 0.75.
+
+Answer: The answer is 3/4
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+1. Identify the type of problem: This is a combination problem involving the arrangement of colored triangles to form a regular octahedron.
+
+2. Define the sample space: The sample space consists of all possible arrangements of the eight colored triangles to form the octahedron.
+
+3. Determine the number of favorable outcomes:
+   a. Consider one face of the octahedron, which is a square formed by four triangles. There are 8 choices for the first triangle, 7 choices for the second triangle (since one triangle has been used), 6 choices for the third triangle, and 5 choices for the fourth triangle.
+   b. Using the multiplication principle, the number of ways to arrange the four triangles for one face is 8 × 7 × 6 × 5 = 1680.
+   c. Since the octahedron has 8 faces, and each face can be arranged independently, the total number of favorable outcomes is 1680^8.
+
+4. Apply the appropriate counting principle or formula: Since we are interested in distinguishable arrangements, we need to consider all possible arrangements of the 8 faces.
+
+5. Simplify and evaluate the expression: The number of distinguishable ways to construct the octahedron is 1680^8.
+
+6. Check the answer for correctness and reasonableness: The answer matches the given option (E) 1680.
+
+7. Interpret the result in the context of the problem: There are 1680^8 distinguishable ways to construct the regular octahedron using eight congruent equilateral triangles of different colors, where no two arrangements can be obtained by rotating one arrangement to look like the other.
+
+Answer: The answer is 1680
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution:
+1. Identify the type of problem: This is a combination problem, where we need to find the number of ways to arrange 3 words in a sentence, subject to a specific condition.
+
+2. Define the sample space: The sample space consists of all possible 3-word sentences that can be formed using the words "splargh," "glumph," and "amr."
+
+3. Determine the number of favorable outcomes:
+   a. First, we find the total number of 3-word sentences without any restrictions: 3 × 3 × 3 = 27 (using the multiplication principle).
+   b. Next, we subtract the number of sentences where "splargh" comes directly before "glumph":
+      There are 2 × 3 × 1 = 6 such sentences ("splargh glumph amr" and "splargh glumph splargh").
+   c. Therefore, the number of favorable outcomes (valid 3-word sentences) = 27 - 6 = 21.
+
+4. Apply the appropriate counting principle or formula: We have already determined the number of favorable outcomes in step 3.
+
+5. Simplify and evaluate the expression: The number of favorable outcomes is 21.
+
+6. Check the answer for correctness and reasonableness: The answer seems reasonable, as it accounts for the restriction on the order of "splargh" and "glumph" in the sentences.
+
+7. Interpret the result in the context of the problem: There are 21 valid 3-word sentences in the Gnollish language, given the condition that "splargh" cannot come directly before "glumph."
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution:
+1. Identify the type of problem: This is a combination problem, where we need to find the number of ways to choose 9 objects from a set of 19 objects.
+
+2. Define the sample space: The sample space consists of all possible subsets of 9 objects chosen from a set of 19 objects.
+
+3. Determine the number of favorable outcomes: We need to find the number of ways to choose 9 objects from a set of 19 objects, which is given by the combination formula:
+   $\binom{n}{r} = \frac{n!}{r!(n-r)!}$
+
+4. Apply the appropriate counting formula:
+   $\binom{19}{9} = \frac{19!}{9!(19-9)!} = \frac{19!}{9!10!}$
+
+5. Simplify and evaluate the expression:
+   To evaluate $\binom{19}{9}$, we can use the given values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$.
+
+   We know that:
+   $\binom{n}{r} = \binom{n-1}{r} + \binom{n-1}{r-1}$
+
+   Applying this recursion formula, we can express $\binom{19}{9}$ in terms of the given values:
+   $\binom{19}{9} = \binom{18}{9} + \binom{18}{8}$
+   $\binom{18}{9} = \binom{17}{9} + \binom{17}{8} = 24310 + 24310 = 48620$
+   $\binom{18}{8} = \binom{17}{8} + \binom{17}{7} = 24310 + 19448 = 43758$
+
+   Therefore, $\binom{19}{9} = 48620 + 43758 = 92378$
+
+6. Check the answer for correctness and reasonableness: The obtained answer seems reasonable, as it is a positive integer and falls within the expected range for combinations.
+
+7. Interpret the result in the context of the problem: The value of $\binom{19}{9}$ represents the number of ways to choose 9 objects from a set of 19 objects.
+
+Answer: The answer is 92378

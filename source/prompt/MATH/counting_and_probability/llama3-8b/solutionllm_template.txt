@@ -1,0 +1,4 @@
+Write a solution for the following example:
+
+Question: [QUESTION]
+Solution:

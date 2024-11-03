@@ -1,0 +1,42 @@
+Question: Do hamsters provide food for any animals?
+Solution: Yes, hamsters provide food for other animals. They are often preyed upon by larger animals such as snakes, birds of prey, and some mammals. The answer is yes.
+Answer: The answer is yes.
+
+
+
+Question: Could Brooke Shields succeed at University of Pennsylvania?
+Solution: To determine if Brooke Shields could succeed at the University of Pennsylvania, we need to gather information about her academic qualifications and achievements. We can start by researching her educational background and any previous experiences in higher education. Additionally, we can look for any information about her interests, skills, and abilities that may contribute to her success at the University of Pennsylvania. By analyzing this information, we can make an informed judgment about whether she could succeed at the university.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Hydrogen's atomic number squared exceeds number of Spice Girls?
+Solution: To answer this question, we need to find the atomic number of hydrogen and the number of Spice Girls. The atomic number of hydrogen is 1. Squaring 1 gives us 1. The number of Spice Girls is 5. Therefore, the answer is no, as 1 does not exceed 5.
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Is it common to see frost during some college commencements?
+Solution: To answer this question, we can gather information about college commencements and frost. College commencements typically take place in the spring, and frost is more commonly associated with colder temperatures in the winter. However, in some regions, it is possible to see frost during college commencements if the weather is unseasonably cold. Therefore, the answer to the question is yes, it is possible to see frost during some college commencements.
+Answer: The answer is yes.
+
+
+
+Question: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+Solution: To answer this question, we need to determine if it is possible for a llama to give birth twice during the War in Vietnam (1945-46). 
+
+First, we need to establish the gestation period of a llama. On average, the gestation period for a llama is around 11 months. 
+
+Next, we need to determine the duration of the War in Vietnam (1945-46). The war lasted from 1945 to 1946, which is a span of 2 years. 
+
+Given that the gestation period of a llama is 11 months, it is not possible for a llama to give birth twice within a span of 2 years. 
+
+Therefore, the answer to the question is no.
+
+Answer: The answer is no.
+
+
+
+Question: Yes or no: Would a pear sink in water?
+Solution: To determine if a pear would sink in water, we need to consider its density. If the density of the pear is greater than the density of water, it will sink. If the density of the pear is less than the density of water, it will float. 
+Answer: The answer is no.

@@ -1,0 +1,70 @@
+Question: Find the quadratic polynomial $p(x)$ such that $p(-3) = 10,$ $p(0) = 1,$ and $p(2) = 5.$
+Solution: Let $p(x) = ax^2 + bx + c.$  Then from the given information,
+\begin{align*}
+9a - 3b + c &= 10, \\
+c &= 1, \\
+4a + 2b + c &= 5.
+\end{align*}Then $9a - 3b = 9$ and $4a + 2b = 4,$ which reduce to $3a - b = 3$ and $2a + b = 2.$  Adding, we get $5a = 5,$ so $a = 1.$  Then $4 + 2b = 4,$ so $b = 0.$  Therefore, $p(x) = \boxed{x^2 + 1}.$
+Answer: The answer is x^2+1
+
+
+
+Question: Calculate: $\frac53\times\frac{6}{10}\times\frac{15}{9}\times\frac{12}{20}\times\frac{25}{15}\times\frac{18}{30}\times\frac{35}{21}\times\frac{24}{40}$
+Solution: Each of the fractions $\frac{5}{3},$ $\frac{15}{9},$ $\frac{25}{15},$ $\frac{35}{21}$ reduce to $\frac{5}{3},$ and each of the fractions $\frac{6}{10},$ $\frac{12}{20},$ $\frac{18}{30},$ $\frac{24}{40}$ reduce to $\frac{3}{5}.$  Therefore, the product of all eight fractions is $\boxed{1}.$
+Answer: The answer is 1
+
+
+
+Question: For $-25 \le x \le 25,$ find the maximum value of $\sqrt{25 + x} + \sqrt{25 - x}.$
+Solution: By QM-AM,
+\[\frac{\sqrt{25 + x} + \sqrt{25 - x}}{2} \le \sqrt{\frac{25 + x + 25 - x}{2}} = 5,\]so $\sqrt{25 + x} + \sqrt{25 - x} \le 10.$
+
+Equality occurs at $x = 0,$ so the maximum value is $\boxed{10}.$
+Answer: The answer is 10
+
+
+
+Question: The hyperbolas \[\frac{x^2}{4} - \frac{y^2}{9} = 1\]and \[\frac{y^2}{18} - \frac{x^2}{N} = 1\]have the same asymptotes. Find $N.$
+Solution: In general, for the hyperbola $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1,$ the asymptotes are $\frac{x}{a} = \pm \frac{y}{b},$ or $y = \pm \frac{b}{a} x.$  Therefore, the asymptotes of the first hyperbola are $y = \pm \frac{3}{2} x.$
+
+For the hyperbola $\frac{y^2}{a^2} - \frac{x^2}{b^2} = 1,$ the asymptotes are $\frac{y}{a} = \pm \frac{x}{b},$ or $y = \pm \frac{a}{b} x.$ Therefore, the asymptotes of the second hyperbola are $y = \pm \frac{3\sqrt{2}}{\sqrt{N}} x.$
+
+For the two hyperbolas to have the same asymptotes, we must have $\frac{3}{2} = \frac{3\sqrt2}{\sqrt N}.$ Solving for $N$ gives $N = \boxed{8}.$
+[asy]
+void axes(real x0, real x1, real y0, real y1)
+{
+	draw((x0,0)--(x1,0),EndArrow);
+    draw((0,y0)--(0,y1),EndArrow);
+    label("$x$",(x1,0),E);
+    label("$y$",(0,y1),N);
+    for (int i=floor(x0)+1; i<x1; ++i)
+    	draw((i,.1)--(i,-.1));
+    for (int i=floor(y0)+1; i<y1; ++i)
+    	draw((.1,i)--(-.1,i));
+}
+path[] yh(real a, real b, real h, real k, real x0, real x1, bool upper=true, bool lower=true, pen color=black)
+{
+	real f(real x) { return k + a / b * sqrt(b^2 + (x-h)^2); }
+    real g(real x) { return k - a / b * sqrt(b^2 + (x-h)^2); }
+    if (upper) { draw(graph(f, x0, x1),color,  Arrows); }
+    if (lower) { draw(graph(g, x0, x1),color,  Arrows); }
+    path [] arr = {graph(f, x0, x1), graph(g, x0, x1)};
+    return arr;
+}
+void xh(real a, real b, real h, real k, real y0, real y1, bool right=true, bool left=true, pen color=black)
+{
+	path [] arr = yh(a, b, k, h, y0, y1, false, false);
+    if (right) draw(reflect((0,0),(1,1))*arr[0],color,  Arrows);
+    if (left) draw(reflect((0,0),(1,1))*arr[1],color,  Arrows);
+}
+void e(real a, real b, real h, real k)
+{
+	draw(shift((h,k))*scale(a,b)*unitcircle);
+}
+size(8cm);
+axes(-8,8, -10, 10);
+xh(2, 3, 0, 0, -8, 8);
+yh(3*sqrt(2),sqrt(8),0,0,-5,5);
+draw((-6,9)--(6,-9)^^(6,9)--(-6,-9),dotted);
+[/asy]
+Answer: The answer is 8

@@ -1,0 +1,90 @@
+Strategy:
+1. Read the problem carefully and identify the given information and what needs to be solved.
+2. Determine the mathematical concepts and formulas required to solve the problem.
+3. Solve the problem step by step, making sure to show all the calculations and reasoning.
+4. Check the solution to ensure it is reasonable and matches the expected answer.
+5. Repeat steps 1-4 for each problem in the prealgebra subject.
+
+Examples:
+Question: Pete thinks of a number. He doubles it, adds 10, multiplies by 4, and ends up with 120. What was his original number?
+Solution: 
+1. Let's assume the original number Pete thought of as 'x'.
+2. Pete doubles the number: 2x
+3. Pete adds 10 to the doubled number: 2x + 10
+4. Pete multiplies the sum by 4: 4(2x + 10)
+5. The result is 120, so we can set up the equation: 4(2x + 10) = 120
+6. Simplifying the equation: 8x + 40 = 120
+7. Subtracting 40 from both sides: 8x = 80
+8. Dividing both sides by 8: x = 10
+Answer: The answer is 10
+
+
+
+Question: A standard deck of 52 cards has 13 ranks (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) and 4 suits ($\spadesuit$, $\heartsuit$, $\diamondsuit$, and $\clubsuit$), such that there is exactly one card for any given rank and suit.  Two of the suits ($\spadesuit$ and $\clubsuit$) are black and the other two suits ($\heartsuit$ and $\diamondsuit$) are red.  The deck is randomly arranged. What is the probability that the top card is a $\heartsuit$?
+
+Solution:
+1. Given information:
+- There are 52 cards in a standard deck.
+- There are 13 ranks and 4 suits.
+- Two suits are black ($\spadesuit$ and $\clubsuit$) and two suits are red ($\heartsuit$ and $\diamondsuit$).
+
+2. Mathematical concepts and formulas:
+- Probability: The probability of an event happening is the number of favorable outcomes divided by the total number of possible outcomes.
+
+3. Solution:
+- Total number of possible outcomes: There are 52 cards in the deck, so the total number of possible outcomes is 52.
+- Number of favorable outcomes: There are 13 $\heartsuit$ cards in the deck, so the number of favorable outcomes is 13.
+- Probability: The probability of drawing a $\heartsuit$ card as the top card is the number of favorable outcomes divided by the total number of possible outcomes.
+
+Probability = Number of favorable outcomes / Total number of possible outcomes
+Probability = 13 / 52
+Probability = 1/4
+
+4. Answer:
+The answer is $\frac{1}{4}$.
+
+
+
+Question: A number in the set $\{50, 51, 52, 53, ... , 999\}$ is randomly selected. What is the probability that it is a two-digit number? Express your answer as a common fraction.
+
+Solution:
+1. Given information: The set of numbers is $\{50, 51, 52, 53, ... , 999\}$.
+2. We need to find the probability that a randomly selected number from this set is a two-digit number.
+3. Mathematical concept/formula: Probability is defined as the number of favorable outcomes divided by the total number of possible outcomes.
+4. Let's determine the number of favorable outcomes and the total number of possible outcomes:
+   - Favorable outcomes: The two-digit numbers in the set are $\{50, 51, 52, ..., 99\}$. There are 50 two-digit numbers in total.
+   - Total number of possible outcomes: The set contains all numbers from 50 to 999, inclusive. So, there are 950 possible outcomes.
+5. Now, we can calculate the probability by dividing the number of favorable outcomes by the total number of possible outcomes:
+   - Probability = Number of favorable outcomes / Total number of possible outcomes
+   - Probability = 50 / 950
+   - Probability = 1/19
+6. The answer is $\frac{1}{19}$.
+
+
+
+Question: A pentagon is drawn by placing an isosceles right triangle on top of a square as pictured. What percent of the area of the pentagon is the area of the right triangle?
+
+[asy]
+size(50);
+draw((0,0)--(0,-1)--(1,-1)--(1,0)--(0,0)--(.5,.5)--(1,0));
+[/asy]
+
+Solution:
+1. Given information:
+   - A pentagon is formed by placing an isosceles right triangle on top of a square.
+   
+2. To solve the problem, we need to find the percent of the area of the pentagon that is occupied by the right triangle.
+
+3. Mathematical concepts and formulas:
+   - Area of a square: side^2
+   - Area of an isosceles right triangle: (base * height) / 2
+   - Percent: (part / whole) * 100
+   
+4. Let's calculate the area of the pentagon and the area of the right triangle:
+   - Area of the square: side^2 = 1^2 = 1
+   - Area of the right triangle: (base * height) / 2 = (1 * 1) / 2 = 1/2
+   
+5. Now, let's calculate the percent of the area of the pentagon occupied by the right triangle:
+   - Percent: (area of the right triangle / area of the pentagon) * 100 = (1/2 / 1) * 100 = 50/100 * 100 = 50
+   
+Answer: The answer is 50.

@@ -1,0 +1,157 @@
+Strategy:
+Here is a strategy to solve multi-step arithmetic problems:
+
+1. **Read and understand the problem**: Read the problem carefully and make sure you understand what is being asked.
+
+2. **Simplify the problem by combining like terms**: Look for terms that can be combined using the commutative and associative properties of addition and multiplication. Combine them to simplify the expression.
+
+3. **Evaluate expressions inside parentheses**: Work within the parentheses first, using the order of operations (PEMDAS/BPEALS). Evaluate expressions that are inside parentheses before moving on to the next step.
+
+4. **Evaluate multiplication and division operations**: Evaluate any multiplication or division operations that are not enclosed in parentheses, working from left to right.
+
+5. **Evaluate addition and subtraction operations**: Finally, evaluate any addition and subtraction operations, working from left to right.
+
+6. **Combine remaining terms and simplify**: Combine any remaining terms and simplify the expression as much as possible.
+
+7. **Check the answer (optional)**: If desired, check the answer by plugging it back into the original problem to ensure that it is correct.
+
+This strategy should help make the task of solving multi-step arithmetic problems more manageable by breaking it down into smaller, more manageable subtasks.
+
+Examples:
+Here is the step-by-step solution to the example:
+
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+
+Step 1: Read and understand the problem
+The problem is a multi-step arithmetic expression enclosed in parentheses. We need to simplify and evaluate the expression step by step.
+
+Step 2: Simplify the problem by combining like terms
+The expression can be simplified by combining the terms inside the parentheses:
+(-5 + 9 * -4 - 0) = (-5 + -36 - 0) = -41
+(4 + -7 + 0 * -5) = (4 - 7 + 0) = -3
+
+So, the simplified expression is:
+(-41) * (-3)
+
+Step 3: Evaluate expressions inside parentheses
+We have already simplified the expressions inside the parentheses, so there is nothing to evaluate.
+
+Step 4: Evaluate multiplication and division operations
+We have a multiplication operation:
+(-41) * (-3) = 123
+
+Step 5: Evaluate addition and subtraction operations
+There are no addition or subtraction operations to evaluate.
+
+Step 6: Combine remaining terms and simplify
+The final result is:
+123
+
+Answer: The answer is 123.
+
+
+
+Here is the step-by-step solution to the example:
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+
+Step 1: Read and understand the problem
+The problem is a multi-step arithmetic expression that involves multiplication, division, addition, and subtraction. We need to simplify the expression by combining like terms, evaluating expressions inside parentheses, and following the order of operations.
+
+Step 2: Simplify the problem by combining like terms
+The expression can be simplified by combining the terms inside the parentheses:
+
+(-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4) = (-9 * 7 * 7 * -9) + (-9 * 4 - 8 + 4)
+
+Step 3: Evaluate expressions inside parentheses
+Evaluate the expressions inside the parentheses:
+
+(-9 * 7 * 7 * -9) = -3969
+(-9 * 4 - 8 + 4) = -36
+
+So, the simplified expression is:
+
+-3969 + (-36) = ?
+
+Step 4: Evaluate multiplication and division operations
+There are no multiplication or division operations in this expression, so we can move on to the next step.
+
+Step 5: Evaluate addition and subtraction operations
+Evaluate the addition and subtraction operations from left to right:
+
+-3969 + (-36) = -4005
+
+Step 6: Combine remaining terms and simplify
+The expression is already simplified, so we can move on to the next step.
+
+Step 7: Check the answer (optional)
+We can check the answer by plugging it back into the original problem:
+
+((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) = -4005
+
+The answer is correct.
+
+Answer: The answer is 4005.
+
+
+
+Here is the step-by-step solution to the example:
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+
+Solution:
+
+Step 1: Read and understand the problem
+The problem is a multi-step arithmetic expression that involves parentheses, multiplication, and subtraction.
+
+Step 2: Simplify the problem by combining like terms
+There are no like terms to combine in this expression.
+
+Step 3: Evaluate expressions inside parentheses
+Evaluate the expression inside the first set of parentheses:
+(-3 + 5 * 8 * -4) = ?
+
+Evaluate the multiplication operation:
+5 * 8 = 40
+(-3 + 40 * -4) = ?
+
+Evaluate the multiplication operation:
+40 * -4 = -160
+(-3 + -160) = ?
+
+Evaluate the addition operation:
+-3 + -160 = -163
+
+So, the expression inside the first set of parentheses is equal to -163.
+
+Step 4: Evaluate multiplication and division operations
+There are no multiplication or division operations outside the parentheses.
+
+Step 5: Evaluate addition and subtraction operations
+Evaluate the expression inside the second set of parentheses:
+(9 - 8 * -7 + -9) = ?
+
+Evaluate the multiplication operation:
+8 * -7 = -56
+(9 - -56 + -9) = ?
+
+Evaluate the addition and subtraction operations:
+9 + 56 = 65
+65 - 9 = 56
+
+So, the expression inside the second set of parentheses is equal to 56.
+
+Step 6: Combine remaining terms and simplify
+Combine the two expressions:
+(-163) - 56 = ?
+
+Evaluate the subtraction operation:
+-163 - 56 = -219
+
+So, the final answer is -219.
+
+Answer: The answer is -219.

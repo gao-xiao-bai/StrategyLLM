@@ -1,0 +1,28 @@
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+Solution: First, we need to solve the operations inside the parentheses. According to the order of operations (BIDMAS/BODMAS), we should first perform multiplication and division from left to right, then addition and subtraction from left to right.
+
+In the first parentheses, we have -5 + 9 * -4 - 0. The multiplication operation comes first, so we multiply 9 by -4 to get -36. Then, we add -5 to -36 to get -41. There is no subtraction operation, so the result of the first parentheses is -41.
+
+In the second parentheses, we have 4 + -7 + 0 * -5. The multiplication operation comes first, but since anything multiplied by 0 is 0, the result of 0 * -5 is 0. Then, we add 4 to -7 to get -3. There is no subtraction operation, so the result of the second parentheses is -3.
+
+Finally, we multiply the results of the two parentheses together. -41 multiplied by -3 equals 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+Solution: First, solve the multiplication and subtraction in the brackets. (-9 * 7 * 7 * -9) equals 3969 and (4 * -9 - 8 - -4) equals -40. Then, add these two results together. 3969 + -40 equals 3929.
+Answer: The answer is 3929.
+
+
+
+Question: ((-3 + 5 * 8 * -4) - (9 - 8 * -7 + -9)) =
+Solution: First, we need to solve the operations inside the parentheses. According to the order of operations (BIDMAS/BODMAS), we should first perform multiplication and division from left to right, then addition and subtraction from left to right.
+
+In the first parentheses, we have -3 + 5 * 8 * -4. First, we perform the multiplication: 5 * 8 = 40, and 40 * -4 = -160. Then, we add -3 to -160, which gives us -163.
+
+In the second parentheses, we have 9 - 8 * -7 + -9. First, we perform the multiplication: 8 * -7 = -56. Then, we perform the addition and subtraction from left to right: 9 - (-56) = 65, and 65 + (-9) = 56.
+
+Finally, we subtract the result of the second parentheses from the result of the first parentheses: -163 - 56 = -219.
+Answer: The answer is -219.

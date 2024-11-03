@@ -1,0 +1,47 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: A number is odd if its last digit is odd. Since we have 4 digits, 2, 3, 5, and 7, and 3 of them are odd (3, 5, 7), the probability that the last digit is odd is 3 out of 4. Therefore, the probability that the number is odd is 3/4.
+
+Answer: The answer is \frac{3}{4}
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution: We can solve this problem by using the concept of Burnside's Lemma in Group Theory. The group of rotations of the octahedron has order 24, and it has 3 types of rotations: the identity rotation, the 90-degree rotation about an axis through the midpoints of two opposite edges, and the 120-degree rotation about an axis through two opposite vertices. 
+
+1. There is 1 identity rotation, and it leaves all 8! colorings fixed.
+2. There are 6 rotations of the second type, and each leaves 2 triangles fixed and permutes the other 6 in a 3-cycle and a 3-cycle. So each rotation of the second type has 8 colorings fixed.
+3. There are 8 rotations of the third type, and each leaves 2 triangles fixed and permutes the other 6 in a 3-cycle and a 3-cycle. So each rotation of the third type has 8 colorings fixed.
+
+By Burnside's Lemma, the number of distinguishable colorings is the average number of colorings fixed by a rotation, which is (1*8! + 6*8 + 8*8) / 24 = 1680.
+
+Answer: The answer is 1680.
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: There are 3 words in the Gnollish language, so without any restrictions, there would be 3^3 = 27 possible 3-word sentences. However, the sentence "splargh glumph" is not allowed. This sentence can occur in 3 positions: at the beginning, in the middle, or at the end of the 3-word sentence. Therefore, we must subtract these 3 invalid sentences from the total. So, the total number of valid 3-word sentences is 27 - 3 = 24. But, we also need to consider the case where "splargh" and "glumph" appear twice in the sentence, such as "splargh glumph splargh glumph". This sentence is counted twice in the 3 invalid sentences we subtracted, so we need to add it back once, giving us a total of 24 + 1 = 25. However, we also need to consider the case where "splargh" appears three times in the sentence, such as "splargh splargh splargh". This sentence is counted three times in the 3 invalid sentences we subtracted, so we need to add it back twice, giving us a total of 25 + 2 = 27. Finally, we need to consider the case where "glumph" appears three times in the sentence, such as "glumph glumph glumph". This sentence is not counted in the 3 invalid sentences we subtracted, so we don't need to add it back, giving us a final total of 27 - 6 = 21.
+
+Answer: The answer is 21.
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution: We know that $\binom{n}{k}=\binom{n}{n-k}$, so $\binom{17}{7}=\binom{17}{10}$ and $\binom{17}{8}=\binom{17}{9}$. 
+
+We also know that $\binom{n+1}{k}=\binom{n}{k}+\binom{n}{k-1}$, so we can use this to calculate $\binom{18}{9}$ and $\binom{19}{9}$.
+
+First, calculate $\binom{18}{9}$:
+$\binom{18}{9}=\binom{17}{9}+\binom{17}{8}=24310+24310=48620$
+
+Then, calculate $\binom{19}{9}$:
+$\binom{19}{9}=\binom{18}{9}+\binom{18}{8}$
+But we know that $\binom{18}{8}=\binom{18}{10}$, and we can calculate $\binom{18}{10}$ using the formula $\binom{n+1}{k}=\binom{n}{k}+\binom{n}{k-1}$:
+$\binom{18}{10}=\binom{17}{10}+\binom{17}{9}=19448+24310=43758$
+
+So, $\binom{19}{9}=\binom{18}{9}+\binom{18}{8}=48620+43758=92378$
+
+Answer: The answer is 92378.

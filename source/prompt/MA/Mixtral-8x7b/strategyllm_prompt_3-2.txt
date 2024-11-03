@@ -1,0 +1,40 @@
+Strategy:
+1. Follow the order of operations (PEMDAS/BODMAS) by first performing calculations inside parentheses.
+2. Calculate any exemptions to the order of operations, such as exponentiation.
+3. Perform multiplication and division from left to right.
+4. Perform addition and subtraction from left to right.
+5. Ensure all necessary calculations are done and confirm the final answer.
+
+Examples:
+Question: ((-5 + 9 * -4 - 0) * (4 + -7 + 0 * -5)) =
+
+Solution:
+1. Calculate the expressions in the parentheses from left to right.
+   Start with (-5 + 9 * -4 - 0). First, calculate 9 * -4 which equals -36.
+   The new expression is now: (-5 - 36 - 0).
+   Then, calculate -5 - 36 which equals -41. The expression is now: (-41 - 0).
+   Finally, calculate -41 - 0 which equals -41.
+
+2. Now, calculate the expression in the second parentheses: (4 + -7 + 0 * -5).
+   First, calculate 0 * -5 which equals 0.
+   The new expression is now: (4 + -7 + 0).
+   Then, calculate 4 + -7 which equals -3. The expression is now: (-3).
+
+3. The question now is: (-41) * (-3).
+   Multiply -41 and -3, which equals 123.
+
+Answer: The answer is 123.
+
+
+
+Question: ((-9 * 7 * 7 * -9) + (4 * -9 - 8 - -4)) =
+
+Solution:
+1. First, perform calculations inside the parentheses. 
+   (-9 * 7 * 7 * -9) = (-9 * 7 * 49) = (-441 * -9) = 3969
+   (4 * -9 - 8 - -4) = (-36 - 8 + 4) = (-44 + 4) = -40
+
+2. Now, add the results from step 1.
+   3969 + (-40) = 3929
+
+Answer: The answer is 3929.

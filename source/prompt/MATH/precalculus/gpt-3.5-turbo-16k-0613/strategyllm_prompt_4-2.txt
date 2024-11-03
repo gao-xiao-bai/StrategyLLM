@@ -1,0 +1,166 @@
+Strategy:
+1. Identify the type of problem:
+    - Determine if it is a problem involving functions, coordinates, matrices, or vectors.
+    - This will help determine the appropriate subtasks to solve the problem.
+
+2. For problems involving functions:
+    a. Determine the operation being performed (e.g., rotation, composition, finding inverse) and identify the function form.
+    b. Identify the unknown variable or constant in the function.
+    c. Solve for the unknown variable or constant using algebraic manipulation.
+
+3. For problems involving coordinates:
+    a. Determine if the given coordinates are in polar or rectangular form.
+    b. Convert the given coordinates to the desired form using the appropriate formulas.
+    c. Substitute the given values into the formulas to calculate the converted coordinates.
+
+4. For problems involving matrices:
+    a. Identify the operation being performed (e.g., matrix multiplication, matrix addition) and write out the given matrices.
+    b. Apply the corresponding rules for the specified operation.
+    c. Perform the necessary calculations to obtain the resulting matrix.
+
+5. For problems involving vectors and lines:
+    a. Determine the parameterization of the line using the given vectors at specific values of t.
+    b. Write out the equation of the line in vector form using the parameterization.
+    c. Substitute the given value of t into the equation to obtain the vector on the line at the desired value of t.
+
+6. Repeat steps 1-5 for each problem in the task.
+
+7. Verify the solutions using any available tools or methods (e.g., graphing functions, checking calculations).
+
+8. Double-check the solutions to ensure accuracy and correct any errors if necessary.
+
+9. Write the final answers in the appropriate format (e.g., function form, coordinate form, matrix form, vector form).
+
+10. Check that all problems in the precalculus subject have been solved.
+
+Examples:
+Question: The function
+\[f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}\]represents a rotation around some complex number $c$. Find $c$.
+
+Solution:
+1. Identify the type of problem:
+   - This is a problem involving functions and complex numbers.
+
+2. For problems involving functions:
+   a. The operation being performed is rotation.
+   b. The function form is given as $f(z) = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}$.
+   c. The unknown variable or constant in the function is $c$.
+
+3. Solve for $c$ using algebraic manipulation:
+   a. Let $f(z) = w$, where $w$ is a complex number.
+   b. Substitute $w$ into the function form: $w = \frac{(-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)}{2}$.
+   c. Multiply both sides of the equation by 2 to eliminate the fraction: $2w = (-1 + i \sqrt{3}) z + (-2 \sqrt{3} - 18i)$.
+   d. Rearrange the equation to isolate $z$: $2w + (1 - i \sqrt{3}) z = -2 \sqrt{3} - 18i$.
+   e. Substitute $z = c$ into the equation: $2w + (1 - i \sqrt{3}) c = -2 \sqrt{3} - 18i$.
+   f. Solve for $c$ by isolating it on one side of the equation: $(1 - i \sqrt{3}) c = -2 \sqrt{3} - 18i - 2w$.
+   g. Divide both sides of the equation by $(1 - i \sqrt{3})$: $c = \frac{-2 \sqrt{3} - 18i - 2w}{1 - i \sqrt{3}}$.
+   h. Simplify the expression: $c = \frac{-2 \sqrt{3} - 18i - 2w}{1 - i \sqrt{3}} \cdot \frac{1 + i \sqrt{3}}{1 + i \sqrt{3}}$.
+   i. Multiply the numerator and denominator by the conjugate of $1 - i \sqrt{3}$: $c = \frac{(-2 \sqrt{3} - 18i - 2w)(1 + i \sqrt{3})}{1 + 3}$.
+   j. Simplify the expression: $c = \frac{(-2 \sqrt{3} - 18i - 2w)(1 + i \sqrt{3})}{4}$.
+   k. Expand the numerator: $c = \frac{-2 \sqrt{3} - 18i - 2w + i \sqrt{3}(-2 \sqrt{3} - 18i - 2w)}{4}$.
+   l. Simplify the expression: $c = \frac{-2 \sqrt{3} - 18i - 2w - 6 - 6i \sqrt{3} - 6i - 2w \sqrt{3} - 18i \sqrt{3} - 2w \sqrt{3}}{4}$.
+   m. Combine like terms: $c = \frac{-4w - 2w \sqrt{3} - 2 \sqrt{3} - 6i - 6i \sqrt{3} - 18i - 18i \sqrt{3}}{4}$.
+   n. Simplify the expression: $c = \frac{-4w - 2w \sqrt{3} - 2 \sqrt{3} - 6i - 6i \sqrt{3} - 18i - 18i \sqrt{3}}{4}$.
+   o. Divide each term by 4: $c = \frac{-w - \frac{w \sqrt{3}}{2} - \frac{\sqrt{3}}{2} - \frac{3i}{2} - \frac{3i \sqrt{3}}{2} - \frac{9i}{2} - \frac{9i \sqrt{3}}{2}}{1}$.
+   p. Simplify the expression: $c = -\frac{w}{4} - \frac{w \sqrt{3}}{8} - \frac{\sqrt{3}}{8} - \frac{3i}{8} - \frac{3i \sqrt{3}}{8} - \frac{9i}{8} - \frac{9i \sqrt{3}}{8}$.
+
+Answer: The answer is $\sqrt{3}-5i$.
+
+
+
+Question: Convert the point $\left( 8, \frac{7 \pi}{6} \right)$ in polar coordinates to rectangular coordinates.
+Answer: The answer is (-4\sqrt{3},-4)
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves converting coordinates from polar form to rectangular form.
+
+2. For problems involving coordinates:
+   a. The given coordinates are in polar form.
+   b. To convert from polar to rectangular coordinates, we use the formulas:
+      - $x = r \cos(\theta)$
+      - $y = r \sin(\theta)$
+   c. Substitute the given values into the formulas to calculate the converted coordinates.
+
+3. Applying the formulas:
+   - Given: $r = 8$, $\theta = \frac{7 \pi}{6}$
+   - $x = 8 \cos\left(\frac{7 \pi}{6}\right)$
+   - $y = 8 \sin\left(\frac{7 \pi}{6}\right)$
+
+4. Calculating the values:
+   - $x = 8 \cdot \left(-\frac{\sqrt{3}}{2}\right) = -4\sqrt{3}$
+   - $y = 8 \cdot \left(-\frac{1}{2}\right) = -4$
+
+Answer: The answer is (-4\sqrt{3},-4)
+
+
+
+Question: Compute $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix} \begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}.$
+
+Solution:
+1. Identify the type of problem:
+   - This is a problem involving matrices.
+
+2. For problems involving matrices:
+   a. The operation being performed is matrix multiplication.
+   b. The given matrices are $\begin{pmatrix} 2 & 0 \\ 5 & -3 \end{pmatrix}$ and $\begin{pmatrix} 8 & -2 \\ 1 & 1 \end{pmatrix}$.
+   c. Apply the rules of matrix multiplication to obtain the resulting matrix.
+
+   To multiply two matrices, we need to take the dot product of each row of the first matrix with each column of the second matrix.
+
+   Let's calculate the resulting matrix step by step:
+
+   - For the first element of the resulting matrix:
+     - Multiply the first row of the first matrix with the first column of the second matrix:
+       $2 \cdot 8 + 0 \cdot 1 = 16$
+     - So, the first element of the resulting matrix is 16.
+
+   - For the second element of the resulting matrix:
+     - Multiply the first row of the first matrix with the second column of the second matrix:
+       $2 \cdot (-2) + 0 \cdot 1 = -4$
+     - So, the second element of the resulting matrix is -4.
+
+   - For the third element of the resulting matrix:
+     - Multiply the second row of the first matrix with the first column of the second matrix:
+       $5 \cdot 8 + (-3) \cdot 1 = 37$
+     - So, the third element of the resulting matrix is 37.
+
+   - For the fourth element of the resulting matrix:
+     - Multiply the second row of the first matrix with the second column of the second matrix:
+       $5 \cdot (-2) + (-3) \cdot 1 = -13$
+     - So, the fourth element of the resulting matrix is -13.
+
+3. The resulting matrix is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+
+Answer: The answer is $\begin{pmatrix} 16 & -4 \\ 37 & -13 \end{pmatrix}$.
+
+
+
+Question: A line is parameterized by a parameter $t,$ so that the vector on the line at $t = 2$ is $\begin{pmatrix} 1 \\ 4 \end{pmatrix},$ and the vector on the line at $t = 3$ is $\begin{pmatrix} 3 \\ -4 \end{pmatrix}.$  Find the vector on the line at $t = -7.$
+
+Solution:
+1. Identify the type of problem:
+   - This problem involves vectors and lines.
+
+2. For problems involving vectors and lines:
+   a. The line is parameterized by a parameter $t,$ so we can write the equation of the line in vector form as $\mathbf{v}(t) = \mathbf{a} + t \mathbf{d},$ where $\mathbf{v}(t)$ is the vector on the line at $t,$ $\mathbf{a}$ is a known vector on the line, and $\mathbf{d}$ is the direction vector of the line.
+   b. We are given that $\mathbf{v}(2) = \begin{pmatrix} 1 \\ 4 \end{pmatrix}$ and $\mathbf{v}(3) = \begin{pmatrix} 3 \\ -4 \end{pmatrix}.$
+   c. Substitute the given values of $t$ and the corresponding vectors into the equation to obtain a system of equations.
+      - For $t = 2,$ we have $\begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{a} + 2 \mathbf{d}.$
+      - For $t = 3,$ we have $\begin{pmatrix} 3 \\ -4 \end{pmatrix} = \mathbf{a} + 3 \mathbf{d}.$
+   d. Solve the system of equations to find the values of $\mathbf{a}$ and $\mathbf{d}.$
+      - Subtracting the first equation from the second equation, we get $\begin{pmatrix} 3 \\ -4 \end{pmatrix} - \begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{a} + 3 \mathbf{d} - (\mathbf{a} + 2 \mathbf{d}).$
+      - Simplifying, we have $\begin{pmatrix} 2 \\ -8 \end{pmatrix} = \mathbf{a} + 3 \mathbf{d} - \mathbf{a} - 2 \mathbf{d}.$
+      - Combining like terms, we get $\begin{pmatrix} 2 \\ -8 \end{pmatrix} = \mathbf{d}.$
+      - Substituting this value of $\mathbf{d}$ into the first equation, we have $\begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{a} + 2 \begin{pmatrix} 2 \\ -8 \end{pmatrix}.$
+      - Simplifying, we get $\begin{pmatrix} 1 \\ 4 \end{pmatrix} = \mathbf{a} + \begin{pmatrix} 4 \\ -16 \end{pmatrix}.$
+      - Subtracting $\begin{pmatrix} 4 \\ -16 \end{pmatrix}$ from both sides, we have $\begin{pmatrix} 1 \\ 4 \end{pmatrix} - \begin{pmatrix} 4 \\ -16 \end{pmatrix} = \mathbf{a}.$
+      - Simplifying, we get $\begin{pmatrix} -3 \\ 20 \end{pmatrix} = \mathbf{a}.$
+
+3. Substitute the value of $t = -7$ into the equation $\mathbf{v}(t) = \mathbf{a} + t \mathbf{d}$ to find the vector on the line at $t = -7.$
+   - We have $\mathbf{v}(-7) = \begin{pmatrix} -3 \\ 20 \end{pmatrix} + (-7) \begin{pmatrix} 2 \\ -8 \end{pmatrix}.$
+   - Simplifying, we get $\mathbf{v}(-7) = \begin{pmatrix} -3 \\ 20 \end{pmatrix} + \begin{pmatrix} -14 \\ 56 \end{pmatrix}.$
+   - Adding the vectors, we have $\mathbf{v}(-7) = \begin{pmatrix} -3 + (-14) \\ 20 + 56 \end{pmatrix}.$
+   - Simplifying, we get $\mathbf{v}(-7) = \begin{pmatrix} -17 \\ 76 \end{pmatrix}.$
+
+Answer: The answer is $\begin{pmatrix} -17 \\ 76 \end{pmatrix}.$

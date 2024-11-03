@@ -1,0 +1,78 @@
+Question: The digits 2, 3, 5 and 7 are arranged randomly to form a four-digit number. What is the probability that the number is odd? Express your answer as a common fraction.
+
+Solution: To solve this problem, we need to find the total number of possible four-digit numbers that can be formed using the digits 2, 3, 5, and 7, and then determine how many of those numbers are odd.
+
+Given:
+- The digits are 2, 3, 5, and 7.
+- The order of the digits matters (permutations).
+- There are no repetitions of digits.
+
+Step 1: Find the total number of possible four-digit numbers.
+Total number of permutations = 4! = 4 × 3 × 2 × 1 = 24
+
+Step 2: Find the number of odd four-digit numbers.
+An odd number is a number that ends with an odd digit (1, 3, 5, 7, or 9).
+There are 3 odd digits in the given set: 3, 5, and 7.
+For each of these odd digits, there are 3 possible positions for the remaining even digit (2).
+Therefore, the number of odd four-digit numbers = 3 × 3 = 9
+
+Step 3: Calculate the probability of getting an odd four-digit number.
+Probability = Number of favorable outcomes / Total number of possible outcomes
+Probability = 9 / 24
+Probability = 3 / 8
+
+Answer: The answer is 3/4
+
+
+
+Question: Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.)
+
+Solution:
+To solve this problem, we need to consider the symmetries of the regular octahedron.
+
+A regular octahedron has 24 rotational symmetries. These symmetries form a group called the octahedral group, which has 24 elements.
+
+To construct the octahedron, we need to arrange the 8 triangles in a specific way. However, due to the symmetries of the octahedron, some arrangements will be indistinguishable from others after rotation.
+
+The total number of ways to arrange 8 distinct objects is 8! = 40320.
+
+However, we need to divide this number by the order of the octahedral group (24) to account for the symmetries.
+
+Therefore, the number of distinguishable ways to construct the octahedron is:
+8! / 24 = 40320 / 24 = 1680
+
+Answer: The answer is 1680
+
+
+
+Question: The Gnollish language consists of 3 words, ``splargh,'' ``glumph,'' and ``amr.''  In a sentence, ``splargh'' cannot come directly before ``glumph''; all other sentences are grammatically correct (including sentences with repeated words).  How many valid 3-word sentences are there in Gnollish?
+
+Solution: To solve this problem, we need to find the total number of possible 3-word sentences and then subtract the number of sentences where "splargh" comes directly before "glumph".
+
+Total number of possible 3-word sentences = 3 × 3 × 3 = 27 (since there are 3 words and each word can be chosen 3 times)
+
+Number of sentences where "splargh" comes directly before "glumph" = 2 × 1 × 1 = 2 (since there are 2 choices for the first word, and 1 choice each for the second and third words)
+
+Therefore, the number of valid 3-word sentences = 27 - 2 = 25
+
+Answer: The answer is 25
+
+
+
+Question: Given that $\binom{17}{7}=19448$, $\binom{17}{8}=24310$ and $\binom{17}{9}=24310$, calculate $\binom{19}{9}$.
+
+Solution:
+To solve this problem, we can use the combinatorial identity:
+
+$\binom{n}{r} = \binom{n-1}{r-1} + \binom{n-1}{r}$
+
+We are given the values of $\binom{17}{7}$, $\binom{17}{8}$, and $\binom{17}{9}$. We can use these values to find $\binom{18}{8}$ and $\binom{18}{9}$ using the above identity.
+
+$\binom{18}{8} = \binom{17}{7} + \binom{17}{8} = 19448 + 24310 = 43758$
+$\binom{18}{9} = \binom{17}{8} + \binom{17}{9} = 24310 + 24310 = 48620$
+
+Now, we can use these values to find $\binom{19}{9}$ using the same identity:
+
+$\binom{19}{9} = \binom{18}{8} + \binom{18}{9} = 43758 + 48620 = 92378$
+
+Answer: The answer is 92378
