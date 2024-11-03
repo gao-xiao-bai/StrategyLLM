@@ -1,4 +1,4 @@
-# StrategyLLM: Large Language Models for Strategy Generation and Problem Solving
+# StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
 
 Code for [StrategyLLM](https://arxiv.org/abs/2311.08803) (NeurIPS 2024).
 
