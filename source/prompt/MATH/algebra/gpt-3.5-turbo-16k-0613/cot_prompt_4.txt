@@ -1,0 +1,27 @@
+Question: Calculate $\sqrt{75x} \cdot \sqrt{2x} \cdot \sqrt{14x}$ . Express your answer in simplest radical form in terms of $x$.
+Solution: Writing everything in terms of prime factorizations, the given expression is $\sqrt{3 \cdot 5^2 \cdot 2 \cdot 2 \cdot 7 \cdot x^3} = \sqrt{(2^2 \cdot 5^2 \cdot x^2) \cdot (3 \cdot 7 \cdot x)} = \boxed{10x \sqrt{21x}}$.
+Answer: The answer is 10x\sqrt{21x}
+
+
+
+Question: Rationalize the denominator of $\frac{\sqrt{32}}{\sqrt{16}-\sqrt{2}}$. The answer can be written as $\frac{A\sqrt{B}+C}{D}$, where $A$, $B$, $C$, and $D$ are integers, $D$ is positive, and $B$ is not divisible by the square of any prime.  Find the minimum possible value of $A+B+C+D$.
+Solution: We can write the numerator as $4\sqrt{2}$, the denominator as $4-\sqrt{2}$. Then, we multiply the numerator and denominator by the conjugate of the denominator.  $$\frac{4\sqrt{2}}{4-\sqrt{2}} \cdot \frac{4+\sqrt{2}}{4+\sqrt{2}}=$$$$\frac{16\sqrt{2} + 8}{14}=$$$$\frac{8\sqrt{2}+4}{7}$$Therefore, $A+B+C+D=8+2+4+7=\boxed{21}$.
+Answer: The answer is 21
+
+
+
+Question: The quadratic $8x^2+12x-14$ has two real roots. What is the sum of the squares of these roots? Express your answer as a common fraction in lowest terms.
+Solution: Let $x_1$ and $x_2$ be the roots of the equation $8x^2+12x-14$. We want to find $x_1^2+x_2^2$. Note that $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$. We know that $x_1+x_2$, the sum of the roots, is equal to $\frac{-b}{a}$, which for this equation is $\frac{-12}{8}=\frac{-3}{2}$. Likewise, we know that $x_1x_2$, the product of the roots, is equal to $\frac{c}{a}$, which for this equation is $\frac{-14}{8}=\frac{-7}{4}$. Thus, $x_1^2+x_2^2=\left(\frac{-3}{2}\right)^2-2\left(\frac{-7}{4}\right)=\frac{9}{4}+\frac{14}{4}=\boxed{\frac{23}{4}}$.
+Answer: The answer is \frac{23}{4}
+
+
+
+Question: What is the product of all the coordinates of all the points of intersection of the two circles defined by $x^2-2x +y^2-10y+25=0$ and $x^2-8x+y^2-10y+37=0$?
+Solution: Add $(-2/2)^2$ and $(-10/2)^2$ to the first equation and $(-8/2)^2$ and $(-10/2)^2$ to the second equation to find that the given equations are equivalent to \begin{align*}
+(x^2-2x+1)+(y^2-10y+25)&=1\text{, and} \\
+(x^2-8x+16)+(y^2-10y+25)&=4
+\end{align*} which are equivalent to \begin{align*}
+(x-1)^2+(y-5)^2 &=1^2, \\
+(x-4)^2+(y-5)^2 &=2^2,
+\end{align*} respectively.  Hence, the two circles have centers $(1,5)$ and $(4,5)$ respectively and radii $1$ and $2$ respectively. Since the centers of the circles are $3$ units apart and the sum of their radii is $3$, the two circles intersect at only one point.  We can see that $(2,5)$ is the desired intersection point, so our product is $2 \cdot 5 =\boxed{10}$.
+Answer: The answer is 10

@@ -1,0 +1,141 @@
+Strategy:
+1. Simplify expressions involving radicals by multiplying and combining under a single radical if possible.
+2. Rationalize the denominators of fractions with radicals by multiplying the numerator and denominator by the conjugate of the denominator.
+3. Use the quadratic formula or factoring to find the roots of quadratic equations.
+4. Find the coordinates of points of intersection between two curves by solving the system of equations formed by setting the two equations equal to each other.
+5. Find the product or sum of the roots of a quadratic equation by applying Vieta's formulas.
+
+Examples:
+Question: Calculate $\sqrt{75x} \cdot \sqrt{2x} \cdot \sqrt{14x}$ . Express your answer in simplest radical form in terms of $x$.
+Solution: 
+Step 1: Simplify the expression by multiplying the radicals together.
+$\sqrt{75x} \cdot \sqrt{2x} \cdot \sqrt{14x} = \sqrt{(75x)(2x)(14x)}$
+Step 2: Simplify the expression inside the radical.
+$\sqrt{(75x)(2x)(14x)} = \sqrt{2100x^3}$
+Step 3: Simplify the radical by factoring out perfect squares.
+$\sqrt{2100x^3} = \sqrt{(100x^2)(21x)}$
+Step 4: Simplify the expression inside the radical.
+$\sqrt{(100x^2)(21x)} = \sqrt{100x^2} \cdot \sqrt{21x}$
+Step 5: Simplify the radicals.
+$\sqrt{100x^2} = 10x$
+Step 6: Combine the radicals.
+$\sqrt{100x^2} \cdot \sqrt{21x} = 10x \cdot \sqrt{21x}$
+Answer: The answer is $10x\sqrt{21x}$.
+
+
+
+Question: Rationalize the denominator of $\frac{\sqrt{32}}{\sqrt{16}-\sqrt{2}}$. The answer can be written as $\frac{A\sqrt{B}+C}{D}$, where $A$, $B$, $C$, and $D$ are integers, $D$ is positive, and $B$ is not divisible by the square of any prime.  Find the minimum possible value of $A+B+C+D$.
+
+Solution:
+Step 1: Simplify expressions involving radicals by multiplying and combining under a single radical if possible.
+We can simplify $\sqrt{32}$ by factoring out the perfect square factor:
+$\sqrt{32} = \sqrt{16 \cdot 2} = \sqrt{16} \cdot \sqrt{2} = 4\sqrt{2}$
+
+Step 2: Rationalize the denominators of fractions with radicals by multiplying the numerator and denominator by the conjugate of the denominator.
+The conjugate of $\sqrt{16}-\sqrt{2}$ is $\sqrt{16}+\sqrt{2}$.
+Multiplying the numerator and denominator by the conjugate, we get:
+$\frac{\sqrt{32}}{\sqrt{16}-\sqrt{2}} \cdot \frac{\sqrt{16}+\sqrt{2}}{\sqrt{16}+\sqrt{2}} = \frac{4\sqrt{2}(\sqrt{16}+\sqrt{2})}{(\sqrt{16})^2 - (\sqrt{2})^2} = \frac{4\sqrt{2}(4+\sqrt{2})}{16-2} = \frac{4\sqrt{2}(4+\sqrt{2})}{14} = \frac{16\sqrt{2}+8}{14}$
+
+Step 3: Find the minimum possible value of $A+B+C+D$.
+From the expression $\frac{16\sqrt{2}+8}{14}$, we can see that $A=16$, $B=2$, $C=8$, and $D=14$.
+Therefore, the minimum possible value of $A+B+C+D$ is $16+2+8+14 = 40$.
+
+Answer: The answer is 40.
+
+
+
+Question: The quadratic $8x^2+12x-14$ has two real roots. What is the sum of the squares of these roots? Express your answer as a common fraction in lowest terms.
+
+Solution:
+1. Simplify expressions involving radicals by multiplying and combining under a single radical if possible.
+   - There are no radicals in the given quadratic equation, so no simplification is needed.
+
+2. Rationalize the denominators of fractions with radicals by multiplying the numerator and denominator by the conjugate of the denominator.
+   - There are no fractions with radicals in the given quadratic equation, so no rationalization is needed.
+
+3. Use the quadratic formula or factoring to find the roots of quadratic equations.
+   - The quadratic formula is given by: $x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$, where $ax^2+bx+c=0$.
+   - For the given quadratic equation $8x^2+12x-14$, we have $a=8$, $b=12$, and $c=-14$.
+   - Plugging these values into the quadratic formula, we get:
+     $x = \frac{-12 \pm \sqrt{12^2-4(8)(-14)}}{2(8)}$
+     $x = \frac{-12 \pm \sqrt{144+448}}{16}$
+     $x = \frac{-12 \pm \sqrt{592}}{16}$
+     $x = \frac{-12 \pm 4\sqrt{37}}{16}$
+     $x = \frac{-3 \pm \sqrt{37}}{4}$
+   - Therefore, the two real roots of the quadratic equation are $\frac{-3 + \sqrt{37}}{4}$ and $\frac{-3 - \sqrt{37}}{4}$.
+
+4. Find the sum of the squares of the roots.
+   - Let $r_1$ and $r_2$ be the roots of the quadratic equation.
+   - The sum of the squares of the roots is given by $r_1^2 + r_2^2$.
+   - Plugging in the values of the roots, we get:
+     $r_1^2 + r_2^2 = \left(\frac{-3 + \sqrt{37}}{4}\right)^2 + \left(\frac{-3 - \sqrt{37}}{4}\right)^2$
+     $r_1^2 + r_2^2 = \frac{(-3 + \sqrt{37})^2}{4^2} + \frac{(-3 - \sqrt{37})^2}{4^2}$
+     $r_1^2 + r_2^2 = \frac{9 - 6\sqrt{37} + 37}{16} + \frac{9 + 6\sqrt{37} + 37}{16}$
+     $r_1^2 + r_2^2 = \frac{2(9 + 37)}{16}$
+     $r_1^2 + r_2^2 = \frac{2(46)}{16}$
+     $r_1^2 + r_2^2 = \frac{92}{16}$
+     $r_1^2 + r_2^2 = \frac{23}{4}$
+
+Answer: The answer is $\frac{23}{4}$
+
+
+
+Question: What is the product of all the coordinates of all the points of intersection of the two circles defined by $x^2-2x +y^2-10y+25=0$ and $x^2-8x+y^2-10y+37=0$?
+
+Solution:
+1. Simplify expressions involving radicals by multiplying and combining under a single radical if possible.
+   The given equations are already simplified and do not involve radicals.
+
+2. Rationalize the denominators of fractions with radicals by multiplying the numerator and denominator by the conjugate of the denominator.
+   There are no fractions with radicals in the given equations.
+
+3. Use the quadratic formula or factoring to find the roots of quadratic equations.
+   Let's find the roots of the first equation:
+   $x^2-2x +y^2-10y+25=0$
+   Rearranging the terms:
+   $x^2 - 2x + y^2 - 10y = -25$
+   Completing the square for the $x$ terms:
+   $(x^2 - 2x + 1) + y^2 - 10y = -25 + 1$
+   $(x - 1)^2 + y^2 - 10y = -24$
+   Completing the square for the $y$ terms:
+   $(x - 1)^2 + (y^2 - 10y + 25) = -24 + 25$
+   $(x - 1)^2 + (y - 5)^2 = 1$
+   The equation represents a circle centered at $(1, 5)$ with radius 1.
+
+   Now let's find the roots of the second equation:
+   $x^2-8x+y^2-10y+37=0$
+   Rearranging the terms:
+   $x^2 - 8x + y^2 - 10y = -37$
+   Completing the square for the $x$ terms:
+   $(x^2 - 8x + 16) + y^2 - 10y = -37 + 16$
+   $(x - 4)^2 + y^2 - 10y = -21$
+   Completing the square for the $y$ terms:
+   $(x - 4)^2 + (y^2 - 10y + 25) = -21 + 25$
+   $(x - 4)^2 + (y - 5)^2 = 4$
+   The equation represents a circle centered at $(4, 5)$ with radius 2.
+
+4. Find the coordinates of points of intersection between two curves by solving the system of equations formed by setting the two equations equal to each other.
+   Setting the two equations equal to each other:
+   $(x - 1)^2 + (y - 5)^2 = 1$
+   $(x - 4)^2 + (y - 5)^2 = 4$
+   Since both equations have the same $(y - 5)^2$ term, we can subtract the two equations to eliminate the $(y - 5)^2$ term:
+   $(x - 1)^2 - (x - 4)^2 = 1 - 4$
+   Expanding and simplifying:
+   $(x^2 - 2x + 1) - (x^2 - 8x + 16) = -3$
+   $-2x + 17 = -3$
+   $-2x = -20$
+   $x = 10$
+
+   Substituting the value of $x$ into one of the original equations, let's use the first equation:
+   $(10 - 1)^2 + (y - 5)^2 = 1$
+   $81 + (y - 5)^2 = 1$
+   $(y - 5)^2 = 1 - 81$
+   $(y - 5)^2 = -80$
+   Since the square of a real number cannot be negative, there are no real solutions for $y$.
+
+   Therefore, there are no points of intersection between the two circles.
+
+5. Find the product or sum of the roots of a quadratic equation by applying Vieta's formulas.
+   Since there are no points of intersection, there are no roots to find the product of.
+
+Answer: The answer is 10

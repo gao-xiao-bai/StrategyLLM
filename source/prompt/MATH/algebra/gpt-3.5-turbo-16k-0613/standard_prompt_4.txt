@@ -1,0 +1,17 @@
+Question: Calculate $\sqrt{75x} \cdot \sqrt{2x} \cdot \sqrt{14x}$ . Express your answer in simplest radical form in terms of $x$.
+Answer: The answer is 10x\sqrt{21x}
+
+
+
+Question: Rationalize the denominator of $\frac{\sqrt{32}}{\sqrt{16}-\sqrt{2}}$. The answer can be written as $\frac{A\sqrt{B}+C}{D}$, where $A$, $B$, $C$, and $D$ are integers, $D$ is positive, and $B$ is not divisible by the square of any prime.  Find the minimum possible value of $A+B+C+D$.
+Answer: The answer is 21
+
+
+
+Question: The quadratic $8x^2+12x-14$ has two real roots. What is the sum of the squares of these roots? Express your answer as a common fraction in lowest terms.
+Answer: The answer is \frac{23}{4}
+
+
+
+Question: What is the product of all the coordinates of all the points of intersection of the two circles defined by $x^2-2x +y^2-10y+25=0$ and $x^2-8x+y^2-10y+37=0$?
+Answer: The answer is 10
